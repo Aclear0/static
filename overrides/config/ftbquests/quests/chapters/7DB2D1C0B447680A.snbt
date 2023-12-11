@@ -1,0 +1,411 @@
+{
+	id: "7DB2D1C0B447680A"
+	group: "3338BFF3CAB176D7"
+	order_index: 1
+	filename: "7DB2D1C0B447680A"
+	title: "机械动力（拓展内容）"
+	icon: "create:cogwheel"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "好东西"
+			x: -2.5d
+			y: 0.0d
+			subtitle: "机械动力请看相关教学视频"
+			id: "1ACC6D8A0E85AE26"
+			tasks: [{
+				id: "41E8566186F51350"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "587908DBA9A21282"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3
+			}]
+		}
+		{
+			x: -2.5d
+			y: 3.0d
+			description: ["机械起源安山合金"]
+			dependencies: ["1ACC6D8A0E85AE26"]
+			id: "223EFE54286C2C73"
+			tasks: [{
+				id: "78833ECCA554F3F4"
+				type: "item"
+				item: "create:andesite_alloy"
+			}]
+		}
+		{
+			x: 1.0d
+			y: 0.0d
+			description: ["基础机械组"]
+			dependencies: ["3426C84BD78EF021"]
+			id: "324F0DE42E84B2A4"
+			tasks: [
+				{
+					id: "46015F0F159B4444"
+					type: "item"
+					item: "create:mechanical_mixer"
+				}
+				{
+					id: "7EC180E385494C89"
+					type: "item"
+					item: "create:mechanical_press"
+				}
+				{
+					id: "6A75B69236617ACB"
+					type: "item"
+					item: "create:basin"
+				}
+				{
+					id: "16AC748BD4DF5085"
+					type: "item"
+					item: "create:depot"
+				}
+				{
+					id: "76FB60493A7EC8C1"
+					type: "item"
+					item: "create:encased_fan"
+				}
+				{
+					id: "0B697931E1D0A8FE"
+					type: "item"
+					item: "create:chute"
+				}
+				{
+					id: "04917BBB47BACA92"
+					type: "item"
+					item: "create:millstone"
+				}
+			]
+			rewards: [
+				{
+					id: "6C56F7A215C4031C"
+					type: "item"
+					item: "create:cogwheel"
+					count: 16
+				}
+				{
+					id: "11A17F4393CB8AEA"
+					type: "item"
+					item: "create:large_cogwheel"
+					count: 8
+				}
+				{
+					id: "1FD74A0E926173F6"
+					type: "item"
+					item: "create:shaft"
+					count: 16
+				}
+				{
+					id: "59649439E4BD00B9"
+					type: "item"
+					item: "create:belt_connector"
+					count: 4
+				}
+				{
+					id: "16C57DAD0CF7216D"
+					type: "item"
+					item: "create:blaze_burner"
+				}
+			]
+		}
+		{
+			x: 1.0d
+			y: 3.0d
+			description: [
+				"水车比风车占地小但应力较低"
+				"风车占用大但应力可以通过增加风帆来增加"
+				"相同转速的可以并联来增加应力"
+			]
+			dependencies: ["223EFE54286C2C73"]
+			id: "3426C84BD78EF021"
+			tasks: [
+				{
+					id: "68914232946DDC71"
+					type: "item"
+					item: "create:water_wheel"
+				}
+				{
+					id: "2F9F3DAAA121E10D"
+					type: "item"
+					item: "create:windmill_bearing"
+				}
+				{
+					id: "28C76915E3CE5D28"
+					type: "item"
+					item: "create:white_sail"
+				}
+			]
+		}
+		{
+			x: 1.0d
+			y: -3.5d
+			description: ["在烈焰人加热情况下搅拌铜和锌"]
+			dependencies: ["324F0DE42E84B2A4"]
+			id: "14D1615409622EAD"
+			tasks: [{
+				id: "29063A1951EB9AE3"
+				type: "item"
+				item: "create:brass_ingot"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -3.5d
+			description: ["搅拌机搅拌红石石英"]
+			dependencies: ["14D1615409622EAD"]
+			id: "22A0808B332BCDE7"
+			tasks: [{
+				id: "4BCADC48724DA6CC"
+				type: "item"
+				item: "create:rose_quartz"
+			}]
+		}
+		{
+			x: -5.5d
+			y: -3.5d
+			description: ["砂纸放磨制玫瑰石英"]
+			dependencies: ["22A0808B332BCDE7"]
+			id: "44319981DCFC43DC"
+			tasks: [{
+				id: "1264C2999A6A596C"
+				type: "item"
+				item: "create:polished_rose_quartz"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 0.0d
+			dependencies: ["44319981DCFC43DC"]
+			id: "348F4BF17D57BA93"
+			tasks: [{
+				id: "4E098444DB45483C"
+				type: "item"
+				item: "create:electron_tube"
+			}]
+		}
+		{
+			x: -5.5d
+			y: 3.0d
+			description: ["更智能！！！"]
+			dependencies: ["348F4BF17D57BA93"]
+			id: "2A20230B9A058124"
+			tasks: [
+				{
+					id: "51D9838E784560C5"
+					type: "item"
+					item: "create:brass_funnel"
+				}
+				{
+					id: "4CF3CDA48C8E15FC"
+					type: "item"
+					item: "create:smart_chute"
+				}
+			]
+		}
+		{
+			x: -2.5d
+			y: 6.0d
+			description: ["好用的工具"]
+			dependencies: ["223EFE54286C2C73"]
+			id: "593747CF17E7171E"
+			tasks: [{
+				id: "664AC57FDBC57058"
+				type: "item"
+				item: "create:wrench"
+			}]
+		}
+		{
+			x: -9.0d
+			y: 3.0d
+			description: ["自动合成并非天方夜谭"]
+			dependencies: ["2A20230B9A058124"]
+			id: "16A01D395331559D"
+			tasks: [{
+				id: "2137B93082C7D541"
+				type: "item"
+				item: "create:mechanical_crafter"
+			}]
+		}
+		{
+			x: -9.0d
+			y: 0.0d
+			description: ["更精密的合成"]
+			dependencies: ["16A01D395331559D"]
+			id: "663D7742110BBBEC"
+			tasks: [{
+				id: "4C2EE104EF025B89"
+				type: "item"
+				item: "create:deployer"
+			}]
+		}
+		{
+			x: -9.0d
+			y: -3.5d
+			description: [
+				"还好有机械手！！"
+				"（三个步骤做五次）"
+			]
+			dependencies: ["663D7742110BBBEC"]
+			id: "3A88F912CA5DC765"
+			tasks: [{
+				id: "68BDDC5C7EF9B9C7"
+				type: "item"
+				item: "create:precision_mechanism"
+			}]
+		}
+		{
+			x: 4.5d
+			y: 0.0d
+			description: ["自动化！！！"]
+			dependencies: ["324F0DE42E84B2A4"]
+			id: "1F3ABC1B30BE3D2E"
+			tasks: [
+				{
+					id: "116895E61BBCDE27"
+					type: "item"
+					item: "create:mechanical_drill"
+				}
+				{
+					id: "5DB1F78B2E0FA6D7"
+					type: "item"
+					item: "create:mechanical_saw"
+				}
+				{
+					id: "64F90A218C32B903"
+					type: "item"
+					item: "create:mechanical_harvester"
+				}
+				{
+					id: "3925E214E7C206D0"
+					type: "item"
+					item: "create:mechanical_plough"
+				}
+			]
+		}
+		{
+			x: -9.0d
+			y: -7.5d
+			description: ["这个手为什么和真手一样精密？？"]
+			dependencies: ["3A88F912CA5DC765"]
+			id: "272AF59422AE3179"
+			tasks: [{
+				id: "732AAA6E627B47EC"
+				type: "item"
+				item: {
+					id: "create:extendo_grip"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: -5.5d
+			y: -7.5d
+			description: [
+				"耐久还是太逊了，所以，我选择气动"
+				"（用旋转力充气）"
+			]
+			dependencies: ["272AF59422AE3179"]
+			id: "7C6DDEC6E133F0AE"
+			tasks: [{
+				id: "0E71467C969D3232"
+				type: "item"
+				item: {
+					id: "create:copper_backtank"
+					Count: 1b
+					tag: {
+						Air: 900
+					}
+				}
+			}]
+		}
+		{
+			x: -2.5d
+			y: -7.5d
+			description: ["这不科学！！！牛顿的棺材板压不住了"]
+			dependencies: ["7C6DDEC6E133F0AE"]
+			id: "73ACCAFAA16531A6"
+			tasks: [
+				{
+					id: "620C6808ECC3384D"
+					type: "item"
+					item: "create:linear_chassis"
+				}
+				{
+					id: "7D09D1497A3B23DF"
+					type: "item"
+					item: "create:secondary_linear_chassis"
+				}
+				{
+					id: "33F698C7774CB909"
+					type: "item"
+					item: {
+						id: "create:super_glue"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 1.0d
+			y: -7.5d
+			description: ["这，，，，，，，矿车赛高"]
+			dependencies: ["73ACCAFAA16531A6"]
+			id: "2B7A1F8ED9B41C6B"
+			tasks: [{
+				id: "36F9A75D2BDBF14D"
+				type: "item"
+				item: "create:cart_assembler"
+			}]
+		}
+		{
+			x: 4.5d
+			y: -7.5d
+			description: ["做到这里你已经不需要教程的引导了，去看看大佬的视频，学习他们的机械制作思路"]
+			dependencies: ["2B7A1F8ED9B41C6B"]
+			hide_text_until_complete: true
+			id: "570218EC1F0B55CA"
+			tasks: [
+				{
+					id: "742C43B9661F39D7"
+					type: "checkmark"
+				}
+				{
+					id: "0B5FD725EFF5E21B"
+					type: "item"
+					item: "create:furnace_engine"
+				}
+				{
+					id: "7117D434504F4884"
+					type: "item"
+					item: "create:flywheel"
+				}
+				{
+					id: "6CCAD99C449BE3EC"
+					type: "item"
+					item: "create:crushing_wheel"
+				}
+			]
+			rewards: [{
+				id: "53A829B6055EF4F3"
+				type: "item"
+				item: {
+					id: "create:potato_cannon"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+	]
+}

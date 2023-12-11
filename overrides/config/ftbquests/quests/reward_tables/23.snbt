@@ -1,0 +1,28 @@
+{
+	id: "0B65D8BB8682D107"
+	order_index: 23
+	title: "23"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:cooker_1" }
+		{ item: "minecraftmodernxl:cooker_2" }
+		{ item: "minecraftmodernxl:cooker_3" }
+		{ item: "minecraftmodernxl:cooker_4" }
+		{ item: "minecraftmodernxl:fridge_black" }
+		{ item: "minecraftmodernxl:fridge_white" }
+		{ item: "minecraftmodernxl:fridge_black_2" }
+		{ item: "minecraftmodernxl:fridge_white_2" }
+		{ item: "minecraftmodernxl:washmachine_1" }
+		{ item: "minecraftmodernxl:washmachine_2" }
+		{ item: "minecraftmodernxl:haute_1" }
+		{ item: "minecraftmodernxl:haute_2" }
+		{ item: "minecraftmodernxl:haute_3" }
+		{ item: "minecraftmodernxl:microwave" }
+		{ item: "minecraftmodernxl:microwave_2" }
+		{ item: "minecraftmodernxl:pc_gamer_1" }
+		{ item: "minecraftmodernxl:pc_gamer_1_tour" }
+		{ item: "minecraftmodernxl:blender" }
+		{ item: "minecraftmodernxl:tvscreen_1" }
+		{ item: "minecraftmodernxl:tvscreen_2" }
+	]
+}

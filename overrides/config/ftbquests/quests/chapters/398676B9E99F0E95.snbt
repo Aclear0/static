@@ -1,0 +1,609 @@
+{
+	id: "398676B9E99F0E95"
+	group: "036E079C15F2B292"
+	order_index: 2
+	filename: "398676B9E99F0E95"
+	title: "建材家具电器装饰商店（拓展）"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "现代椅子  ¥2"
+			icon: "minecraftmodernxl:modernchair_lw"
+			x: 8.5d
+			y: 1.5d
+			id: "021D49D505DB89FF"
+			tasks: [{
+				id: "1EA408ACA154048E"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "396BE66EDC9E10B1"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:t_chair_1"
+				table_id: 7325371719046982922L
+			}]
+		}
+		{
+			title: "普通椅子/扶手椅 ¥2"
+			icon: "minecraftmodernxl:modern_armchair_grey"
+			x: 8.5d
+			y: 3.5d
+			id: "06265E9D9B8AD3C6"
+			tasks: [{
+				id: "0DE6E0F797A5A767"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "65E7D58AE3B40C0A"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:modern_armchair_lw"
+				table_id: 4628827119721697049L
+			}]
+		}
+		{
+			title: "桌子/玻璃桌 ¥2"
+			icon: "minecraftmodernxl:lily_table_vitredw"
+			x: 11.5d
+			y: 1.5d
+			id: "48156586B61A7EA8"
+			tasks: [{
+				id: "1C71139B76B0F895"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "613909767372A77E"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:entier_glasstable"
+				table_id: 982008505832953927L
+			}]
+		}
+		{
+			title: "这个商店页面只卖无法合成建材家具"
+			icon: "yuushya:ceiling_fan"
+			x: 16.5d
+			y: -1.5d
+			shape: "diamond"
+			description: [
+				"拓展装饰包 请添加拓展内容  部分可合成家具建材 请查阅jei"
+				"搜索@yuu"
+				"@mode"
+			]
+			size: 3.0d
+			id: "06E5A287197FCAAF"
+			tasks: [{
+				id: "2B069BD6F9BE43F2"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "35E2EF4EDDCED512"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "桌椅专区"
+			icon: "minecraftmodernxl:coffe_table_2_lw"
+			x: 10.0d
+			y: 2.5d
+			shape: "diamond"
+			size: 2.0d
+			id: "3833871286E042D8"
+			tasks: [{
+				id: "4C0BB2246E9625CE"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "现代咖啡桌/工作桌 ¥3"
+			icon: "minecraftmodernxl:coffe_table_3_lw"
+			x: 11.5d
+			y: 3.5d
+			id: "0960FBD3ECAF68C0"
+			tasks: [{
+				id: "6C373525A95DAC31"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2BCABF14AEF080EE"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:coffe_table_3_lw"
+				table_id: 1931706850726184742L
+			}]
+		}
+		{
+			title: "收纳/橱柜专区"
+			icon: "minecraftmodernxl:boxcase_lw_yellow"
+			x: 10.0d
+			y: 6.0d
+			shape: "diamond"
+			size: 2.0d
+			id: "0F4922BD19CB76EA"
+			tasks: [{
+				id: "75DED68C146D2F51"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "收纳柜 ¥2"
+			icon: "minecraftmodernxl:boxcase_lw_pink"
+			x: 8.5d
+			y: 6.0d
+			id: "457D9CB9D3F1DBBC"
+			tasks: [{
+				id: "328EE124642696DC"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0F5B1C7D39E12BAC"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:boxcase_lw_green"
+				table_id: 2358502346592050065L
+			}]
+		}
+		{
+			title: "现代橱柜/厨台 ¥2"
+			icon: "minecraftmodernxl:placard_granite_white"
+			x: 11.5d
+			y: 6.0d
+			id: "4673C940F4519E0B"
+			tasks: [{
+				id: "7EE6DA92D0F107F7"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2C720AF4455B4578"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:placard_granite_white"
+				table_id: 7586764983836737548L
+			}]
+		}
+		{
+			title: "沙发/床上用品/地毯/装饰柜/屏风/墙饰专区"
+			icon: "minecraftmodernxl:ultra_modern_sofa_onp_white"
+			x: 15.0d
+			y: 2.5d
+			shape: "diamond"
+			size: 2.0d
+			id: "5F6A8F5E64018FDA"
+			tasks: [{
+				id: "4E7D144AEE58ACB2"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "沙发  ¥5"
+			icon: "minecraftmodernxl:ultra_modern_sofa_onp_white"
+			x: 13.5d
+			y: 1.5d
+			id: "1728D39D0DFA67BF"
+			tasks: [{
+				id: "5B3C28D570E06E06"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "27AE5C08BBDD5C4F"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:modern_sofa_1_right_grey"
+				table_id: 2674314847051128883L
+			}]
+		}
+		{
+			title: "卫浴/电器/厨具/灯具/门窗专区"
+			icon: "modernlife:flatscreen_tv"
+			x: 19.5d
+			y: 2.5d
+			shape: "diamond"
+			size: 2.0d
+			id: "54A72AAF06E94052"
+			tasks: [{
+				id: "6FF020000E47EC54"
+				type: "checkmark"
+			}]
+		}
+		{
+			icon: "minecraftmodernxl:plants_set_2"
+			x: 19.5d
+			y: 6.0d
+			shape: "diamond"
+			size: 2.0d
+			id: "61AE905BA0AE260C"
+			tasks: [{
+				id: "4315B25561592154"
+				type: "checkmark"
+				title: "绿化/园艺/户外装饰专区"
+			}]
+		}
+		{
+			title: "杂项装饰"
+			icon: "minecraftmodernxl:tableau_12"
+			x: 15.0d
+			y: 6.0d
+			shape: "diamond"
+			size: 2.0d
+			id: "6B2EEEC3219396AC"
+			tasks: [{
+				id: "2F6E7E6E8DBBF177"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "建筑材料"
+			icon: "minecraftmodernxl:bricks_stairs_c_10"
+			x: 24.0d
+			y: 2.5d
+			shape: "diamond"
+			size: 2.0d
+			id: "1B954E84E58B55E1"
+			tasks: [{
+				id: "45596C76E1EA4DA6"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "装饰柜  ¥2"
+			icon: "minecraftmodernxl:box_4case_lw"
+			x: 16.5d
+			y: 1.5d
+			id: "374BAEA205C905BE"
+			tasks: [{
+				id: "1C3B2D5495039552"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "209BC658C2059033"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:box_4case_lw"
+				table_id: 4168038023669637026L
+			}]
+		}
+		{
+			title: "电器 ¥4"
+			icon: "minecraftmodernxl:pc_gamer_1"
+			x: 18.0d
+			y: 1.5d
+			id: "417CC6B1F8FBDA75"
+			tasks: [{
+				id: "1E15E762D43FA6CA"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 4L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2F9A24B9E87A0059"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:pc_gamer_1"
+				table_id: 821300806992187655L
+			}]
+		}
+		{
+			title: "卫浴/厨房装饰  ¥2"
+			icon: "minecraftmodernxl:full_shower_2"
+			x: 21.0d
+			y: 1.5d
+			id: "5E35D45DC28B256F"
+			tasks: [{
+				id: "2D3E8B3A76FD5B73"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "431BCF9D24F8BEC3"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:bath_white_1"
+				table_id: 6621347070846830255L
+			}]
+		}
+		{
+			title: "床/床上用品/地毯  ¥2"
+			icon: "minecraftmodernxl:lit_lw"
+			x: 13.5d
+			y: 3.5d
+			id: "284F3A3C6C26083D"
+			tasks: [{
+				id: "52CDF4464C834329"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "5FB123E29751EDB5"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:lit_lw"
+				table_id: 6138491546970902503L
+			}]
+		}
+		{
+			title: "书架/装饰架/屏风/墙饰  ¥1"
+			icon: "minecraftmodernxl:bamboo_screen"
+			x: 16.5d
+			y: 3.5d
+			id: "7333845BC03B203B"
+			tasks: [{
+				id: "08556B1EF7A58C2D"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "76E42779FABB0277"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:bamboo_screen"
+				table_id: 7186189174515463510L
+			}]
+		}
+		{
+			title: "灯具  ¥2"
+			icon: "minecraftmodernxl:modern_rainlight"
+			x: 18.0d
+			y: 3.5d
+			id: "139A78CDCF531EA2"
+			tasks: [{
+				id: "56C19FFC159B9179"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "7CB4CF9FD2B6AA93"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:japanwoodlantern"
+				table_id: 3202618793939188567L
+			}]
+		}
+		{
+			title: "门窗 ¥1"
+			icon: "minecraftmodernxl:glassdoor"
+			x: 21.0d
+			y: 3.5d
+			id: "0E86E522ECD0C532"
+			tasks: [{
+				id: "0742664310763217"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1B7B0E7321B372AE"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:glasspanel_black"
+				table_id: 3055624318771473619L
+			}]
+		}
+		{
+			title: "小镇造景"
+			icon: "yuushya:maple_tree"
+			x: 24.0d
+			y: 6.0d
+			shape: "diamond"
+			size: 2.0d
+			id: "4E7B611936703895"
+			tasks: [{
+				id: "12A8EB31F82CCAC6"
+				type: "checkmark"
+			}]
+		}
+		{
+			title: "一键造景 ¥15"
+			icon: "yuushya:sakura_tree"
+			x: 25.5d
+			y: 6.0d
+			id: "04E83875765255FE"
+			tasks: [{
+				id: "1DFC4B5073A43F31"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 15L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "15744DD588690EEB"
+				type: "questsadditions:repeat_choice"
+				icon: "yuushya:maple_tree"
+				table_id: 4879553034132982636L
+			}]
+		}
+		{
+			title: "花艺/绿植/花盆/花瓶 ¥1"
+			icon: "minecraftmodernxl:palmpot_2"
+			x: 18.0d
+			y: 6.0d
+			id: "47B4CFE4777FBC6C"
+			tasks: [{
+				id: "318093BF0B7DB531"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6BE42E6C339C02DF"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:palmpot_2"
+				table_id: 2390561799133192478L
+			}]
+		}
+		{
+			title: "圆石/混凝土/彩色方块/墙纸 ¥6"
+			icon: "minecraftmodernxl:white_lightslab"
+			x: 22.5d
+			y: 1.5d
+			id: "266B5541CB619C0B"
+			tasks: [{
+				id: "6DD03853123D530F"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 6L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "51AFCAD2BEE9775E"
+				type: "questsadditions:repeat_choice"
+				table_id: 8007371011002919821L
+			}]
+		}
+		{
+			title: "油画 ¥1"
+			icon: "minecraftmodernxl:tableaulog_2"
+			x: 16.5d
+			y: 6.0d
+			id: "276CEADEB044AA8A"
+			tasks: [{
+				id: "6373B5019BD46C5D"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "03E2C41E7AE8AEB3"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:tableau_10"
+				table_id: 5753181185680832451L
+			}]
+		}
+		{
+			title: "鱼缸/玩偶/垃圾桶/等杂项   ¥1"
+			icon: "minecraftmodernxl:basket_2"
+			x: 13.5d
+			y: 6.0d
+			id: "6BE679D2148B80EA"
+			tasks: [{
+				id: "0C8D767A74F68E44"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2DB9A90AD8C4086C"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:fish_bowl"
+				table_id: 5853293254285905047L
+			}]
+		}
+		{
+			title: "户外装饰 ¥1"
+			icon: "minecraftmodernxl:fire_block_wood"
+			x: 21.0d
+			y: 6.0d
+			id: "72ED75107199667F"
+			tasks: [{
+				id: "206B40B7EC51FC6C"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "31F28D10CEB6D555"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:fire_block_wood"
+				table_id: 6296302030638314455L
+			}]
+		}
+		{
+			title: "砖/编织纤维/超现代方块  ¥6"
+			icon: "minecraftmodernxl:bricksc10"
+			x: 25.5d
+			y: 1.5d
+			id: "4515E8A842184FE3"
+			tasks: [{
+				id: "0941EE1D52F46C25"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 6L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "15EBC818C1BFD4F4"
+				type: "questsadditions:repeat_choice"
+				table_id: 6876061638098972504L
+			}]
+		}
+		{
+			title: "栅栏矮墙  ¥4"
+			icon: "minecraftmodernxl:muretmince_lw"
+			x: 25.5d
+			y: 3.5d
+			id: "60E638B1B9A18882"
+			tasks: [{
+				id: "0C093683FEB2B1EB"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 4L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "4386AD7D321166D5"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:muretmince_lw"
+				table_id: 139943517211314332L
+			}]
+		}
+		{
+			title: "木地板/波浪纹理/石艺方块 ¥6"
+			icon: "minecraftmodernxl:cust_plank_4"
+			x: 22.5d
+			y: 3.5d
+			id: "6854C1E47C07AB8B"
+			tasks: [{
+				id: "25DE872F9AED30DA"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 6L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2852916C3F8EBEB8"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:waveb11"
+				table_id: 5443873162522564996L
+			}]
+		}
+		{
+			title: "铁路装饰材料"
+			icon: "mtr:dashboard"
+			x: 22.5d
+			y: 6.0d
+			id: "2B17BE2AACCDC07A"
+			tasks: [{
+				id: "4A9CA515CA5D4504"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6F88350252C05BB7"
+				type: "questsadditions:repeat_choice"
+				icon: "mtr:dashboard"
+				table_id: 2374305806578791054L
+			}]
+		}
+	]
+}

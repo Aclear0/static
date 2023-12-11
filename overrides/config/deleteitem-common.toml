@@ -1,0 +1,9 @@
+
+#General configuration settings
+[General]
+	#Use F3+H to show tooltips and get the name of the item, place it here. It get delete. Example: ["minecraft:stone"]
+	#or if you need to ban multiple ["minecraft:stone", "minecraft:dirt"]
+	"Items To Delete" = ["wings:angel_wings_bottle", "wings:parrot_wings_bottle", "wings:fire_wings_bottle", "wings:bat_wings_bottle", "wings:evil_wings_bottle", "wings:dragon_wings_bottle", "lucky:lucky_block", "artifacts:everlasting_beef", "artifacts:eternal_steak"]
+	#Enables/Disables the constant removal of items.
+	"Is it on?" = true
+

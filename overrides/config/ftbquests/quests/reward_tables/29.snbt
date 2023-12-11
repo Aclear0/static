@@ -1,0 +1,35 @@
+{
+	id: "4E04FB6DF00D620C"
+	order_index: 29
+	title: "29"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:fence_black" }
+		{ item: "minecraftmodernxl:stride1" }
+		{ item: "minecraftmodernxl:stride_1_grey" }
+		{ item: "minecraftmodernxl:stride_1_lw" }
+		{ item: "minecraftmodernxl:stride_1_white" }
+		{ item: "minecraftmodernxl:fence_grey" }
+		{ item: "minecraftmodernxl:minidalle1" }
+		{ item: "minecraftmodernxl:minidalle_2" }
+		{ item: "minecraftmodernxl:minidalle_3" }
+		{ item: "minecraftmodernxl:up_minidalle_1" }
+		{ item: "minecraftmodernxl:up_minidalle_2" }
+		{ item: "minecraftmodernxl:up_minidalle_3" }
+		{ item: "minecraftmodernxl:lily_slab_lw" }
+		{ item: "minecraftmodernxl:lily_slab_up" }
+		{ item: "minecraftmodernxl:lily_slab_dw" }
+		{ item: "minecraftmodernxl:lily_slab_d_wup" }
+		{ item: "minecraftmodernxl:fence_white" }
+		{ item: "minecraftmodernxl:muret_1" }
+		{ item: "minecraftmodernxl:muret_2" }
+		{ item: "minecraftmodernxl:muret_3" }
+		{ item: "minecraftmodernxl:muret_4" }
+		{ item: "minecraftmodernxl:muret_5" }
+		{ item: "minecraftmodernxl:muretmince_lw" }
+		{ item: "minecraftmodernxl:muretmince_white" }
+		{ item: "minecraftmodernxl:muretmince_dw" }
+		{ item: "minecraftmodernxl:muretmince_grey" }
+		{ item: "minecraftmodernxl:modernladder" }
+	]
+}

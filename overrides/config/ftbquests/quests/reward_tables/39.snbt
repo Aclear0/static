@@ -1,0 +1,78 @@
+{
+	id: "5F6CADA100946F58"
+	order_index: 38
+	title: "39"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:bricks_path_orange", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_red", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_black", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_sepia", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_orange_slab", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_redslab", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_black_slab", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_sepia_slab", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_stairs_orange", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_stairs_red", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_stairs_black", count: 128 }
+		{ item: "minecraftmodernxl:bricks_path_stairs_sepia", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_1", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_2", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_3", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_4", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_5", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_6", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_7", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_8", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_9", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_10", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_11", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_12", count: 128 }
+		{ item: "minecraftmodernxl:bricks_slabs_c_13", count: 128 }
+		{ item: "minecraftmodernxl:bricksc1", count: 128 }
+		{ item: "minecraftmodernxl:bricksc2", count: 128 }
+		{ item: "minecraftmodernxl:bricksc3", count: 128 }
+		{ item: "minecraftmodernxl:bricksc4", count: 128 }
+		{ item: "minecraftmodernxl:bricksc5", count: 128 }
+		{ item: "minecraftmodernxl:bricksc6", count: 128 }
+		{ item: "minecraftmodernxl:bricksc7", count: 128 }
+		{ item: "minecraftmodernxl:bricksc8", count: 128 }
+		{ item: "minecraftmodernxl:bricksc9", count: 128 }
+		{ item: "minecraftmodernxl:bricksc10", count: 128 }
+		{ item: "minecraftmodernxl:bricksc11", count: 128 }
+		{ item: "minecraftmodernxl:bricksc12", count: 128 }
+		{ item: "minecraftmodernxl:bricksc13", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_1", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_2", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_3", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_4", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_5", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_7", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_6", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_8", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_9", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_10", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_11", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_12", count: 128 }
+		{ item: "minecraftmodernxl:bricks_stairs_c_13", count: 128 }
+		{ item: "minecraftmodernxl:purwhite", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_black", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_dblue", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_brown", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_grey", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_blue", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_green", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_white", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_pink", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_purple", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_orange", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_yellow", count: 128 }
+		{ item: "minecraftmodernxl:woven_fabric_slab_red", count: 128 }
+		{ item: "minecraftmodernxl:umodern_bricks", count: 128 }
+		{ item: "minecraftmodernxl:umodern_bricks_2", count: 128 }
+		{ item: "minecraftmodernxl:umodern_bricks_3", count: 128 }
+		{ item: "minecraftmodernxl:umodern_bricks_4", count: 128 }
+		{ item: "minecraftmodernxl:blackstone", count: 128 }
+		{ item: "minecraftmodernxl:concreteslab_black", count: 128 }
+	]
+}

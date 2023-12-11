@@ -1,0 +1,48 @@
+{
+	id: "690B0A47F5805C32"
+	group: "7FCD45262D302902"
+	order_index: 2
+	filename: "690B0A47F5805C32"
+	title: "时装/武器"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 3.5d
+		y: -2.5d
+		width: 4.0d
+		height: 12.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/mozhang.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [{
+		x: 7.0d
+		y: -2.0d
+		shape: "diamond"
+		description: [
+			"查看jei"
+			"获取更多武器搭配"
+		]
+		size: 2.0d
+		id: "36D8E7E1CB0D5BBA"
+		tasks: [{
+			id: "07108ABB9CEA48C7"
+			type: "item"
+			item: {
+				id: "useless_sword:guardian_sword"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+		}]
+		rewards: [{
+			id: "0EEF3A0F8D8DB6B7"
+			type: "item"
+			item: "nomisma:coin_4"
+		}]
+	}]
+}

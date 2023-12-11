@@ -1,0 +1,7 @@
+{
+	id: "501A6123967D01C9"
+	order_index: 54
+	title: "深板岩"
+	loot_size: 1
+	rewards: [{ item: "graveyard:tg_deepslate", count: 128 }]
+}

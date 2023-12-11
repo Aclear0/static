@@ -1,0 +1,41 @@
+{
+	id: "65970C702E1A45A5"
+	group: "7FCD45262D302902"
+	order_index: 1
+	filename: "65970C702E1A45A5"
+	title: "饰品"
+	icon: "artifacts:panic_necklace"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: -8.0d
+		y: -5.0d
+		width: 12.0d
+		height: 12.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/shipin.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [{
+		title: "能力饰品激活"
+		x: -5.5d
+		y: -5.5d
+		description: [
+			"右键使用吉吉怪解锁 O键打开页面 激活能力"
+			"可消耗经验值拓展饰品槽位"
+		]
+		id: "59F553131A531EED"
+		tasks: [{
+			id: "03429EDBDC2EB346"
+			type: "checkmark"
+		}]
+		rewards: [{
+			id: "185FC8FA48B795CE"
+			type: "item"
+			item: "losttrinkets:creepo"
+		}]
+	}]
+}

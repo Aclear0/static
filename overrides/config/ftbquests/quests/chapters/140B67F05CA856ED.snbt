@@ -1,0 +1,416 @@
+{
+	id: "140B67F05CA856ED"
+	group: ""
+	order_index: 8
+	filename: "140B67F05CA856ED"
+	title: "休闲娱乐"
+	icon: {
+		id: "minecraft:fishing_rod"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "领养你的猫猫"
+			x: 6.0d
+			y: -0.5d
+			description: ["前往动物驯养  猫咪相关"]
+			id: "324BE569CFBF219E"
+			tasks: [{
+				id: "60CBB7D3133FED16"
+				type: "item"
+				item: "simplycats:laser_pointer"
+			}]
+			rewards: [{
+				id: "3FCBBBD66BE29034"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "钓鱼佬 永不空军"
+			icon: {
+				id: "aquaculture:neptunium_fishing_rod"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: -5.0d
+			y: -3.0d
+			shape: "diamond"
+			description: [
+				"制作钓具箱 放置地面 右击打开  将钓竿放入对应栏位"
+				"再将鱼钩鱼线浮标装入对应位置"
+			]
+			size: 2.0d
+			id: "57BDA89BA1705D7A"
+			tasks: [
+				{
+					id: "3D533A5C73A48AB9"
+					type: "item"
+					item: "aquaculture:tackle_box"
+				}
+				{
+					id: "4B04DE6BB589225F"
+					type: "item"
+					item: "aquaculture:fishing_line"
+				}
+				{
+					id: "11165CDF6803EA69"
+					type: "item"
+					item: "aquaculture:iron_hook"
+				}
+				{
+					id: "448B3F517820BB90"
+					type: "item"
+					item: "aquaculture:bobber"
+				}
+				{
+					id: "57D272E17DA6F852"
+					type: "item"
+					item: {
+						id: "aquaculture:diamond_fishing_rod"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "1CDF5509A69CD107"
+					type: "item"
+					item: "aquaculture:worm_farm"
+				}
+				{
+					id: "7CF22C2AD704CD23"
+					type: "item"
+					item: "minecraft:kelp"
+					count: 10
+				}
+				{
+					id: "052D671DBB11F754"
+					type: "item"
+					item: "nomisma:coin_4"
+					count: 4
+				}
+			]
+		}
+		{
+			title: "挖蚯蚓"
+			x: -5.0d
+			y: -1.0d
+			description: [
+				"放置蚯蚓农场 使用海带右击  获取蚯蚓"
+				"将蚯蚓装入刚才的钓具箱"
+				"鱼钩可以升级 请自行搜索查看"
+			]
+			id: "4907717595CB37FE"
+			tasks: [{
+				id: "2FF41CCF9D5A1968"
+				type: "item"
+				item: "aquaculture:worm_farm"
+			}]
+			rewards: [{
+				id: "351C5D6228E9D748"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "海贼王的宝藏"
+			x: -5.0d
+			y: 0.5d
+			description: [
+				"开始钓鱼 获取宝藏海王的恩惠"
+				"将恩惠放置地面 打开宝藏"
+				"海洋钓鱼获取几率更大"
+			]
+			id: "41C57FC9BFBC8A91"
+			tasks: [{
+				id: "5EFBA1CE82583F33"
+				type: "item"
+				item: "aquaculture:neptunes_bounty"
+			}]
+			rewards: [{
+				id: "7A2AE1D4469CA772"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3
+			}]
+		}
+		{
+			title: "升级你的鱼竿"
+			x: -5.0d
+			y: 2.0d
+			description: [
+				"获取最强钓鱼竿"
+				"给鱼竿上附魔"
+			]
+			id: "68D37516F4D7F1F1"
+			tasks: [
+				{
+					id: "10F37F567551DA16"
+					type: "item"
+					item: "aquaculture:neptunium_ingot"
+				}
+				{
+					id: "557B3BBA22BD7D65"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_fishing_rod"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "2A95FB1FCBCED1C6"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2
+			}]
+		}
+		{
+			title: "装裱你的鱼"
+			x: -5.0d
+			y: 3.5d
+			description: [
+				"制作鱼架  将你的战利品鱼 装裱起来"
+				"手持鱼右击鱼架"
+			]
+			id: "7C0725623390B3D8"
+			tasks: [{
+				id: "202BFB2DF5CEBA78"
+				type: "item"
+				item: "aquaculture:oak_fish_mount"
+			}]
+			rewards: [{
+				id: "3C9CF214A4AA60B7"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "潜水套装"
+			x: -5.0d
+			y: 5.0d
+			description: ["获取潜水套装 探索深海"]
+			id: "6BA47186080DA4C3"
+			tasks: [
+				{
+					id: "41A83F59DC2D9C2F"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_chestplate"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "00F085BDDEEE28B5"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_helmet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1D40307500C8CE69"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_leggings"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "20724020AC6E1B82"
+					type: "item"
+					item: {
+						id: "aquaculture:neptunium_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "2F18FE69893BCB1C"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 4
+			}]
+		}
+		{
+			title: "风景记录专家"
+			x: 6.0d
+			y: -3.0d
+			shape: "diamond"
+			description: [
+				"制作相机  使用  滚轮聚焦 选好角度 构图比例 按下快门"
+				"需要背包有纸 才能拍摄  拍摄完毕将相片放置于相框里 挂墙上"
+				"相册用于存放大量相片  潜行右键打开 存放相片 打开相册查看所有相片 翻页按键请自行设置"
+			]
+			size: 2.0d
+			id: "5662CEC6FEF5F1C1"
+			tasks: [
+				{
+					id: "48C78CDC83E7EBAB"
+					type: "item"
+					item: "camera:camera"
+				}
+				{
+					id: "2AA1ECF7B1546AD6"
+					type: "item"
+					item: "camera:image_frame"
+				}
+				{
+					id: "0F76C17BEAE20958"
+					type: "item"
+					item: "camera:album"
+				}
+			]
+			rewards: [{
+				id: "63DFEDD8AE4F816E"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3
+			}]
+		}
+		{
+			title: "田园画家（拓展内容）"
+			x: 6.0d
+			y: 1.0d
+			description: [
+				"放置画架  将画布至于画架上 右击画布 放入调色板"
+				"将作品置于画框里 装裱"
+				"用艺术家桌子 使用画布拼接更大的画布 获得更大的绘画"
+			]
+			id: "0A510EB505FEC8F7"
+			tasks: [
+				{
+					id: "6B2E3B260D58E032"
+					type: "item"
+					item: "zetter:easel"
+				}
+				{
+					id: "2FCC9B674D3BA04E"
+					type: "item"
+					item: "zetter:canvas"
+				}
+				{
+					id: "4F858E040BE3BF44"
+					type: "item"
+					item: "zetter:artist_table"
+				}
+				{
+					id: "2F5559DDC31260A2"
+					type: "item"
+					item: {
+						id: "zetter:palette"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "389684F907DAF3D2"
+					type: "item"
+					item: "zetter:birch_basic_frame"
+				}
+			]
+			rewards: [{
+				id: "4371A78D281D88DA"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "偷个懒 "
+			x: 6.0d
+			y: 2.5d
+			description: [
+				"两颗树间 每个树放钉子  用吊床布连接"
+				"需要同一方向  并且中间留4格空间给吊床"
+			]
+			id: "140D3F77AF50209D"
+			tasks: [
+				{
+					id: "255636B857F4E4B3"
+					type: "item"
+					item: "comforts:hammock_white"
+				}
+				{
+					id: "76A78350C98D37C8"
+					type: "item"
+					item: "comforts:rope_and_nail"
+				}
+			]
+			rewards: [{
+				id: "7DD1D30FE15530D3"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 6.0d
+			y: 5.5d
+			id: "555151DE8D493DA6"
+			tasks: [{
+				id: "423ED48F6647E0F9"
+				type: "item"
+				item: {
+					id: "modernlife:guitar"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "6BEC3ADB8BFB7949"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "抓蝴蝶"
+			x: 6.0d
+			y: 4.0d
+			description: ["塞进瓶子"]
+			id: "29BC0781C90504D8"
+			tasks: [{
+				id: "4C54F236BDB22E97"
+				type: "item"
+				item: {
+					id: "terraincognita:bottled_butterfly"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "4ECE907E60D8D642"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

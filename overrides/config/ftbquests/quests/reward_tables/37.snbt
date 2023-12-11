@@ -1,0 +1,30 @@
+{
+	id: "01F12DE32FFFC89C"
+	order_index: 36
+	title: "37"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:fence_black", count: 64 }
+		{ item: "minecraftmodernxl:stride1", count: 64 }
+		{ item: "minecraftmodernxl:stride_1_grey", count: 64 }
+		{ item: "minecraftmodernxl:stride_1_lw", count: 64 }
+		{ item: "minecraftmodernxl:stride_1_white", count: 64 }
+		{ item: "minecraftmodernxl:fence_grey", count: 64 }
+		{ item: "minecraftmodernxl:minidalle1", count: 64 }
+		{ item: "minecraftmodernxl:minidalle_2", count: 64 }
+		{ item: "minecraftmodernxl:minidalle_3", count: 64 }
+		{ item: "minecraftmodernxl:up_minidalle_1", count: 64 }
+		{ item: "minecraftmodernxl:up_minidalle_2", count: 64 }
+		{ item: "minecraftmodernxl:up_minidalle_3", count: 64 }
+		{ item: "minecraftmodernxl:lily_slab_lw", count: 64 }
+		{ item: "minecraftmodernxl:lily_slab_up", count: 64 }
+		{ item: "minecraftmodernxl:lily_slab_dw", count: 64 }
+		{ item: "minecraftmodernxl:lily_slab_d_wup", count: 64 }
+		{ item: "minecraftmodernxl:fence_white", count: 64 }
+		{ item: "minecraftmodernxl:muretmince_lw", count: 64 }
+		{ item: "minecraftmodernxl:muretmince_white", count: 64 }
+		{ item: "minecraftmodernxl:muretmince_dw", count: 64 }
+		{ item: "minecraftmodernxl:muretmince_grey", count: 64 }
+		{ item: "minecraftmodernxl:modernladder", count: 64 }
+	]
+}

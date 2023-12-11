@@ -1,0 +1,10 @@
+{
+	id: "40C2DD3BE4CF27C6"
+	order_index: 42
+	title: "经验"
+	loot_size: 1
+	rewards: [{
+		xp: 100
+		type: "xp"
+	}]
+}

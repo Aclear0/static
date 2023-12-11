@@ -1,0 +1,600 @@
+{
+	id: "09F3FDCD059C7D7E"
+	group: "036E079C15F2B292"
+	order_index: 0
+	filename: "09F3FDCD059C7D7E"
+	title: "换取金币"
+	icon: "nomisma:coin_5"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "开始利用商店赚取金币消费"
+			x: 0.5d
+			y: -0.5d
+			shape: "diamond"
+			description: [
+				"点击左边的提交物品 完成任务"
+				"后续商店的交易都是这种方式"
+			]
+			size: 2.0d
+			id: "040D26FA65557CFD"
+			tasks: [{
+				id: "23A3743E1A30D15A"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: false
+			}]
+			rewards: [{
+				id: "04F7FF318D42208D"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "挖矿致富"
+			x: 10.0d
+			y: -0.5d
+			id: "16C2D10C8538B122"
+			tasks: [{
+				id: "6A5A6237AEFD50C9"
+				type: "item"
+				item: "minecraft:gold_ingot"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "71734B6110D10820"
+				type: "questsadditions:repeat"
+				table_id: 6676457678653131076L
+			}]
+		}
+		{
+			title: "卖菜致富"
+			x: 4.0d
+			y: -0.5d
+			id: "7C118179C5212FF1"
+			tasks: [{
+				id: "508D3D9B9D28AA75"
+				type: "item"
+				item: "minecraft:wheat"
+				count: 384L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1C1845DC460E9D6C"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			title: "水产交易"
+			x: 7.0d
+			y: -0.5d
+			id: "50F454C4AAF4BA7A"
+			tasks: [{
+				id: "32C0C5C607AC1958"
+				type: "item"
+				item: "minecraft:cod"
+				count: 40L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "565C7F004DDD9B8C"
+				type: "questsadditions:repeat"
+				table_id: 2906895768305968196L
+			}]
+		}
+		{
+			title: "种子交易"
+			x: 5.5d
+			y: -0.5d
+			id: "71A14D1F84395D11"
+			tasks: [{
+				id: "59C64C00D4CD6509"
+				type: "item"
+				item: "minecraft:wheat_seeds"
+				count: 640L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0AA2D76C4083F7DD"
+				type: "questsadditions:repeat"
+				table_id: 2906895768305968196L
+			}]
+		}
+		{
+			title: "交易宝石"
+			x: 10.0d
+			y: 0.5d
+			id: "156E3C54732DBFEE"
+			tasks: [{
+				id: "0A4AAC2C5E347888"
+				type: "item"
+				item: "minecraft:emerald"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "45F3BD69A8C69069"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			title: "种田致富"
+			x: 4.0d
+			y: -1.5d
+			id: "3E27912BFC4E3D3A"
+			tasks: [
+				{
+					id: "2786D2E789B2B8AC"
+					type: "item"
+					item: "minecraft:wheat"
+					count: 64L
+					consume_items: true
+				}
+				{
+					id: "37EBB0D2E95BCBA2"
+					type: "item"
+					item: "minecraft:sugar_cane"
+					count: 64L
+					consume_items: true
+				}
+				{
+					id: "03F4781CB30A410E"
+					type: "item"
+					item: "minecraft:beetroot"
+					count: 64L
+					consume_items: true
+				}
+				{
+					id: "69A3A85282F8A423"
+					type: "item"
+					item: "minecraft:potato"
+					count: 64L
+					consume_items: true
+				}
+				{
+					id: "5346378B2F74E6C6"
+					type: "item"
+					item: "minecraft:carrot"
+					count: 64L
+					consume_items: true
+				}
+			]
+			rewards: [{
+				id: "1D58F52D2ECF77D6"
+				type: "questsadditions:repeat"
+				table_id: 6676457678653131076L
+			}]
+		}
+		{
+			title: "钓鱼致富"
+			x: 7.0d
+			y: -1.5d
+			id: "5B3A8100709071B8"
+			tasks: [{
+				id: "4CAFBB6B846E152C"
+				type: "item"
+				item: "minecraft:salmon"
+				count: 40L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "4E8EFFC8D70CBC13"
+				type: "questsadditions:repeat"
+				icon: "supplementaries:present_cyan"
+				table_id: 2906895768305968196L
+			}]
+		}
+		{
+			x: 11.5d
+			y: -0.5d
+			id: "69102827808F21DB"
+			tasks: [{
+				id: "47E9CB008FFF7C02"
+				type: "item"
+				item: "minecraft:smooth_stone"
+				count: 128L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "36E8DB4C00357452"
+				type: "questsadditions:repeat"
+				table_id: 2906895768305968196L
+			}]
+		}
+		{
+			title: "刷经验用的"
+			x: 5.5d
+			y: -1.5d
+			id: "7A36EA48E3DA0593"
+			tasks: [
+				{
+					id: "628499D7CE315A3E"
+					type: "item"
+					item: "minecraft:bone"
+					count: 64L
+					consume_items: true
+				}
+				{
+					id: "71174F6578B232E4"
+					type: "item"
+					item: "minecraft:bone_meal"
+					count: 64L
+					consume_items: true
+				}
+			]
+			rewards: [
+				{
+					id: "4774DAE360E9C4EA"
+					type: "questsadditions:repeat"
+					icon: "nomisma:coin_4"
+					table_id: 277025976121706015L
+				}
+				{
+					id: "4D5271DED65F21D4"
+					type: "questsadditions:repeat"
+					icon: "minecraft:experience_bottle"
+					table_id: 4666535413220845510L
+				}
+			]
+		}
+		{
+			x: 8.5d
+			y: -1.5d
+			id: "60771118CFE9F95F"
+			tasks: [{
+				id: "7974CFF95169A591"
+				type: "item"
+				item: "betterendforge:aeternium_ingot"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "68CA167D57A5E2A9"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 10.0d
+			y: -1.5d
+			id: "6C5F8500A90AD1A8"
+			tasks: [{
+				id: "1715F13A34AF863B"
+				type: "item"
+				item: "minecraft:diamond"
+				count: 42L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "3C8ABE6A316C6D5D"
+				type: "questsadditions:repeat"
+				table_id: 6676457678653131076L
+			}]
+		}
+		{
+			x: 10.0d
+			y: -2.5d
+			id: "7ECD1E08DF6C9BC1"
+			tasks: [{
+				id: "17A0BDAC44460899"
+				type: "item"
+				item: "minecraft:netherite_ingot"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "09A6692F6AE73636"
+				type: "questsadditions:repeat"
+				table_id: 2906895768305968196L
+			}]
+		}
+		{
+			x: 8.5d
+			y: -0.5d
+			id: "1667D74FD51DB1F2"
+			tasks: [{
+				id: "4C6F09B85EF3573B"
+				type: "item"
+				item: "betterendforge:eternal_crystal"
+			}]
+			rewards: [{
+				id: "022A1597DBFFE9E1"
+				type: "questsadditions:repeat"
+				table_id: 2906895768305968196L
+			}]
+		}
+		{
+			x: 4.0d
+			y: -2.5d
+			id: "0E086F3ECF0CB690"
+			tasks: [{
+				id: "75DFA030D674B4F7"
+				type: "item"
+				item: "minecraft:bread"
+				count: 194L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "10D95330FB0B453D"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 4.0d
+			y: 0.5d
+			id: "7DC967BE2B59AFDF"
+			tasks: [{
+				id: "2ECA1F61BA40F3BB"
+				type: "item"
+				item: "minecraft:cooked_chicken"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "30E7BC168AD14E00"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 4.0d
+			y: 1.5d
+			id: "1695C746C4489322"
+			tasks: [{
+				id: "11FEBD8FBD206B20"
+				type: "item"
+				item: "minecraft:cooked_mutton"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "12D39CEF60D1BB30"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 4.0d
+			y: 2.5d
+			id: "179F4524D9776CD2"
+			tasks: [{
+				id: "7AB7EC832B91113F"
+				type: "item"
+				item: "minecraft:cooked_rabbit"
+				count: 3L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "05C0E779A806CF44"
+				type: "questsadditions:repeat"
+				table_id: 277025976121706015L
+			}]
+		}
+		{
+			x: 4.0d
+			y: 3.5d
+			id: "274142F71A59F8C1"
+			tasks: [{
+				id: "078AE4BAB4C760D3"
+				type: "item"
+				item: "minecraft:cooked_beef"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2A0CD56FF1DCFB51"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 4.0d
+			y: 4.5d
+			id: "00A22EB9F36CEADD"
+			tasks: [{
+				id: "3B1A0047F2057653"
+				type: "item"
+				item: "minecraft:cooked_porkchop"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "7181E2AF65896E29"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 5.0d
+			y: 2.5d
+			id: "5C51936A8AECDFE2"
+			tasks: [{
+				id: "6B9E19F66F8ACE10"
+				type: "item"
+				item: "minecraft:cooked_rabbit"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "50AAADE123A64D04"
+				type: "questsadditions:repeat"
+				icon: "nomisma:coin_0"
+				table_id: 1564328105991529033L
+			}]
+		}
+		{
+			x: 4.0d
+			y: 5.5d
+			id: "489E441A71119E37"
+			tasks: [{
+				id: "3216C4C7F21C8E84"
+				type: "item"
+				item: "minecraft:leather"
+				count: 128L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "5C99D11C95BCC374"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 4.0d
+			y: 6.5d
+			id: "5EDC1F4EF0023360"
+			tasks: [{
+				id: "7D8D479F669D90F5"
+				type: "item"
+				item: "minecraft:egg"
+				count: 320L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "04A13066C9E39F1A"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 4.0d
+			y: 7.5d
+			id: "337DE92C741C488C"
+			tasks: [{
+				id: "1CFE46B49BB01A13"
+				type: "item"
+				item: "minecraft:feather"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "02F10B996FE580DC"
+				type: "questsadditions:repeat"
+				table_id: 4824610337375415344L
+			}]
+		}
+		{
+			x: 4.0d
+			y: 8.5d
+			id: "4F72D494D6C27060"
+			tasks: [{
+				id: "38020C4708CAB193"
+				type: "item"
+				item: "minecraft:rabbit_foot"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "3EB6A02DFF56C098"
+				type: "questsadditions:repeat"
+				table_id: 2906895768305968196L
+			}]
+		}
+		{
+			x: 5.0d
+			y: 5.5d
+			id: "7DE6A06B1ADE64E5"
+			tasks: [{
+				id: "0D91364DD7ACA2FE"
+				type: "item"
+				item: "minecraft:rabbit_hide"
+				count: 128L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "4BBE67C6AEA2EC4D"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 13.5d
+			y: -0.5d
+			id: "063303EE91B4F668"
+			tasks: [{
+				id: "72407B91DFA55E2C"
+				type: "item"
+				item: "minecraft:gunpowder"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "67C41683F9D68158"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 13.5d
+			y: 0.5d
+			id: "5734B78B59D6B93E"
+			tasks: [{
+				id: "341689FC5680CDAA"
+				type: "item"
+				item: "minecraft:ghast_tear"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "2F9C79CFDDF1166D"
+				type: "questsadditions:repeat"
+				table_id: 6676457678653131076L
+			}]
+		}
+		{
+			x: 13.5d
+			y: 1.5d
+			id: "737A78213C2DF03E"
+			tasks: [{
+				id: "69794B5728D4F99F"
+				type: "item"
+				item: "minecraft:blaze_rod"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "099A0C19B8C7FCBA"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 13.5d
+			y: -1.5d
+			id: "0D58F2F935CEE70D"
+			tasks: [{
+				id: "15FE6875A8313ACC"
+				type: "item"
+				item: "minecraft:ender_pearl"
+				count: 64L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "1D42D0D07D74DEE1"
+				type: "questsadditions:repeat"
+				table_id: 7508014563840480914L
+			}]
+		}
+		{
+			x: 7.0d
+			y: 0.5d
+			id: "3D210F4EAD6DD582"
+			tasks: [{
+				id: "4202D7BB4709FB80"
+				type: "item"
+				item: "minecraft:tropical_fish"
+				count: 40L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "6596D7539B175428"
+				type: "questsadditions:repeat"
+				table_id: 2906895768305968196L
+			}]
+		}
+	]
+}

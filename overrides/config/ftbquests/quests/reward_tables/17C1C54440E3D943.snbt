@@ -1,0 +1,7 @@
+{
+	id: "17C1C54440E3D943"
+	order_index: 59
+	title: "钻石"
+	loot_size: 1
+	rewards: [{ item: "minecraft:diamond_ore" }]
+}

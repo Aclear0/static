@@ -1,0 +1,67 @@
+{
+	id: "20BB15636A8B5B91"
+	order_index: 19
+	title: "19"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:boxblanchecasebleu" }
+		{ item: "minecraftmodernxl:boxcase_vert" }
+		{ item: "minecraftmodernxl:boxcaseorange" }
+		{ item: "minecraftmodernxl:boxcase_rose" }
+		{ item: "minecraftmodernxl:boxcase_bl_black" }
+		{ item: "minecraftmodernxl:boxcase_bl_d_blue" }
+		{ item: "minecraftmodernxl:boxcase_bl_brown" }
+		{ item: "minecraftmodernxl:boxcase_bl_grey" }
+		{ item: "minecraftmodernxl:boxcase_bl_green" }
+		{ item: "minecraftmodernxl:boxcase_bl_pink" }
+		{ item: "minecraftmodernxl:boxcase_bl_purple" }
+		{ item: "minecraftmodernxl:boxcase_bl_orange" }
+		{ item: "minecraftmodernxl:boxcase_bl_yellow" }
+		{ item: "minecraftmodernxl:boxcase_bl_red" }
+		{ item: "minecraftmodernxl:boxcase_dw_black" }
+		{ item: "minecraftmodernxl:boxcase_dw_dark_blue" }
+		{ item: "minecraftmodernxl:boxcase_dw_brown" }
+		{ item: "minecraftmodernxl:boxcase_dw_blue" }
+		{ item: "minecraftmodernxl:boxcase_dw_grey" }
+		{ item: "minecraftmodernxl:boxcase_dw_pink" }
+		{ item: "minecraftmodernxl:boxcase_dw_purple" }
+		{ item: "minecraftmodernxl:boxcase_dw_orange" }
+		{ item: "minecraftmodernxl:boxcase_dw_yellow" }
+		{ item: "minecraftmodernxl:boxcase_dw_red" }
+		{ item: "minecraftmodernxl:boxcase_lw_black" }
+		{ item: "minecraftmodernxl:boxcase_lw_darkblue" }
+		{ item: "minecraftmodernxl:boxcase_lw_brown" }
+		{ item: "minecraftmodernxl:boxcase_lw_blue" }
+		{ item: "minecraftmodernxl:boxcase_lw_grey" }
+		{ item: "minecraftmodernxl:boxcase_lw_green" }
+		{ item: "minecraftmodernxl:boxcase_lw_pink" }
+		{ item: "minecraftmodernxl:boxcase_lw_purple" }
+		{ item: "minecraftmodernxl:boxcase_lw_orange" }
+		{ item: "minecraftmodernxl:boxcase_lw_yellow" }
+		{ item: "minecraftmodernxl:boxcase_lw_red" }
+		{ item: "minecraftmodernxl:boxcase_lw_white" }
+		{ item: "minecraftmodernxl:boxcase_dw_white" }
+		{ item: "minecraftmodernxl:boxcase_bl_white" }
+		{ item: "minecraftmodernxl:boxcase_grey_black" }
+		{ item: "minecraftmodernxl:boxcase_grey_dark_blue" }
+		{ item: "minecraftmodernxl:boxcase_grey_brown" }
+		{ item: "minecraftmodernxl:boxcase_grey_grey" }
+		{ item: "minecraftmodernxl:boxcase_grey_blue" }
+		{ item: "minecraftmodernxl:boxcase_grey_green" }
+		{ item: "minecraftmodernxl:boxcase_grey_white" }
+		{ item: "minecraftmodernxl:boxcase_dw_white" }
+		{ item: "minecraftmodernxl:boxcase_bl_white" }
+		{ item: "minecraftmodernxl:boxcase_grey_black" }
+		{ item: "minecraftmodernxl:boxcase_grey_dark_blue" }
+		{ item: "minecraftmodernxl:boxcase_grey_brown" }
+		{ item: "minecraftmodernxl:boxcase_grey_grey" }
+		{ item: "minecraftmodernxl:boxcase_grey_blue" }
+		{ item: "minecraftmodernxl:boxcase_grey_green" }
+		{ item: "minecraftmodernxl:boxcase_grey_white" }
+		{ item: "minecraftmodernxl:boxcase_grey_pink" }
+		{ item: "minecraftmodernxl:boxcase_grey_purple" }
+		{ item: "minecraftmodernxl:boxcase_grey_orange" }
+		{ item: "minecraftmodernxl:boxcase_grey_yellow" }
+		{ item: "minecraftmodernxl:boxcase_grey_red" }
+	]
+}

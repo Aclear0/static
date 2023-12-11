@@ -1,0 +1,7 @@
+{
+	id: "2430868C06CD20EE"
+	order_index: 11
+	title: "11"
+	loot_size: 1
+	rewards: [{ item: "dimension_crystals:dimension_overworld" }]
+}

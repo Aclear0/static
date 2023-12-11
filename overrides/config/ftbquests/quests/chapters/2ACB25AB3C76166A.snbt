@@ -1,0 +1,935 @@
+{
+	id: "2ACB25AB3C76166A"
+	group: ""
+	order_index: 1
+	filename: "2ACB25AB3C76166A"
+	title: "基础教程（重要）"
+	icon: "minecraft:ender_eye"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "操作按键指南"
+			x: 1.0d
+			y: -3.0d
+			shape: "diamond"
+			description: [
+				"K键技能菜单"
+				"shift+鼠标右击 可以搬运箱子 抱起宠物 甚至敌人 （需自行设置按键）"
+				"小键盘数字1 切换自动跳跃模式"
+				"鼠标滚轮点击 自动整理背包"
+			]
+			size: 2.0d
+			id: "434FBAC3501C08CF"
+			tasks: [{
+				id: "0427C35AADFEB433"
+				type: "item"
+				item: "ender_bags:white_bag"
+			}]
+			rewards: [{
+				id: "6AD40BC7D814B425"
+				type: "item"
+				item: "ender_bags:light_blue_bag"
+			}]
+		}
+		{
+			x: -10.0d
+			y: -7.5d
+			description: [
+				"用床设置重生点 避免再次陷入危险 用睡袋也可度过夜晚"
+				""
+			]
+			dependencies: ["0A61197D4E7405F2"]
+			id: "3EFAD4E8401A9C00"
+			tasks: [{
+				id: "3D4605B8CD506352"
+				type: "checkmark"
+				title: "记得把重生点设置在主世界"
+			}]
+			rewards: [
+				{
+					id: "6A00CB39EA347343"
+					type: "item"
+					item: "minecraft:light_blue_bed"
+					count: 2
+				}
+				{
+					id: "569378AD5C849E0E"
+					type: "item"
+					item: "comforts:sleeping_bag_white"
+				}
+			]
+		}
+		{
+			title: "UI界面"
+			x: -7.0d
+			y: -1.0d
+			description: [
+				"如果你的UI界面大小有问题 请系统设置里切换更大尺寸"
+				"或=号键设置UI"
+			]
+			id: "44E65FF5A77585C8"
+			tasks: [{
+				id: "1EFD7FBA1D28A606"
+				type: "checkmark"
+				title: "UI"
+			}]
+			rewards: [{
+				id: "1821CAF6DC2C3EB4"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "按；设置路径点 以防迷路  可以清除死亡坐标"
+			x: -2.5d
+			y: -1.0d
+			id: "78D171D3FF3F3D84"
+			tasks: [{
+				id: "741A9D60FDE0DE7A"
+				type: "checkmark"
+				title: "按；  设置路径点  以防迷路"
+			}]
+			rewards: [{
+				id: "58AAD1AEC4C9C31F"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 0.5d
+			y: -1.0d
+			id: "02E23C5DD73C727D"
+			tasks: [{
+				id: "5DA923CDE7039FA6"
+				type: "checkmark"
+				title: "按M打开世界地图"
+			}]
+			rewards: [{
+				id: "7FB416E387FA7E45"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -1.0d
+			y: -1.0d
+			id: "313DCFE16083AF83"
+			tasks: [{
+				id: "57FAF35F050D8308"
+				type: "checkmark"
+				title: "小键盘数字8和9 查看物品合成表和用途"
+			}]
+			rewards: [{
+				id: "60BC469C9CCF6364"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "噩梦初醒"
+			icon: "minecraft:ender_eye"
+			x: -12.0d
+			y: -7.5d
+			shape: "diamond"
+			subtitle: "但愿只是一场梦"
+			description: [
+				"领取任务奖励  "
+				"光影推荐: 建议使用photon-legacy /chocapic13 /photon-main光影 获取更真实效果（不吃配置）"
+				"配置好的 使用ITT Kappa光影"
+				"实在不喜欢 使用complementry/seus光影"
+			]
+			size: 4.0d
+			id: "0A61197D4E7405F2"
+			tasks: [{
+				id: "02B3019080295ED1"
+				type: "checkmark"
+			}]
+			rewards: [
+				{
+					id: "2C042535ADB4653E"
+					type: "item"
+					item: "minecraft:birch_boat"
+				}
+				{
+					id: "195C6209BB4C1FB0"
+					type: "item"
+					item: "minecraft:torch"
+					count: 10
+				}
+				{
+					id: "2AFA18764CF9FC60"
+					type: "item"
+					item: "nomisma:coin_4"
+				}
+			]
+		}
+		{
+			x: -8.5d
+			y: -7.5d
+			subtitle: "我建议滑着走"
+			description: [
+				"你需要饮水，水源处shift右击喝水，可用水壶装走 食物也能补充水分"
+				"使用滑板 右击地面放置 再右击上车"
+				"shift脱离  打掉滑板带走"
+			]
+			dependencies: ["3EFAD4E8401A9C00"]
+			id: "361311385B4A00EF"
+			tasks: [{
+				id: "77F8EC3EB743E974"
+				type: "checkmark"
+				title: "寻找水源和食物  "
+			}]
+			rewards: [
+				{
+					id: "79AE946B6144AA4F"
+					type: "item"
+					item: {
+						id: "watersource:leather_water_bag"
+						Count: 1b
+						tag: {
+							Damage: 1500
+						}
+					}
+				}
+				{
+					id: "166502278A540090"
+					type: "item"
+					item: "butchersdelight:deadpig"
+				}
+				{
+					id: "7F1F3A1A008D8089"
+					type: "item"
+					item: "minecraft:campfire"
+				}
+			]
+		}
+		{
+			title: "寻找村庄 躲避危险"
+			x: -7.0d
+			y: -7.5d
+			description: [
+				"寻找村庄 获取庇护"
+				"使用撬锁器开锁  将所有滑块顶开"
+				"抓钩右击使用 shift松开"
+				"练习使用抓钩+绿谷叶（用于滑翔） 完成基础杂技动作"
+				"如果路上有路标 写着数字 往那个方向就有村庄"
+			]
+			dependencies: ["361311385B4A00EF"]
+			id: "62481A428EBAC1BA"
+			tasks: [{
+				id: "08310F14462B4D66"
+				type: "checkmark"
+				title: "钩爪"
+			}]
+			rewards: [
+				{
+					id: "5F0D1F89D5F88BDF"
+					type: "item"
+					item: {
+						id: "grapple_hooks:hook_iron"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "386A546643C00235"
+					type: "item"
+					item: "minecraft:bread"
+					count: 10
+				}
+				{
+					id: "238232948E5907CD"
+					type: "item"
+					item: "paraglider:deku_leaf"
+				}
+			]
+		}
+		{
+			x: 3.0d
+			y: -3.0d
+			subtitle: "下矿好帮手"
+			description: ["ALT+Y键 调整玩家模型显示"]
+			dependencies: ["434FBAC3501C08CF"]
+			dependency_requirement: "one_completed"
+			id: "411CE55086A4500E"
+			tasks: [{
+				id: "357C57185B4807F6"
+				type: "checkmark"
+				title: "按V键投射照明弹"
+			}]
+			rewards: [{
+				id: "4B4FEF3B5ADA122C"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "伐木割草 暴力拆除"
+			x: -5.5d
+			y: -7.5d
+			subtitle: "割草无双"
+			description: [
+				"也许能暴力开锁？"
+				"金币用于商店兑换物品"
+			]
+			dependencies: ["62481A428EBAC1BA"]
+			id: "418D035083248017"
+			tasks: [{
+				id: "20AE5E508FB518C1"
+				type: "item"
+				item: {
+					id: "modernlife:chainsaw"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [
+				{
+					id: "318783FF58EDD806"
+					type: "item"
+					item: "minecraft:redstone_block"
+					count: 3
+				}
+				{
+					id: "5493D1DD736F4147"
+					type: "item"
+					item: "minecraft:iron_block"
+					count: 7
+				}
+				{
+					id: "4415313B69B7F934"
+					type: "item"
+					item: "nomisma:coin_4"
+				}
+			]
+		}
+		{
+			title: "净水（可选）"
+			x: -7.0d
+			y: -9.0d
+			shape: "diamond"
+			subtitle: "喝不干净的水有概率中毒或口渴"
+			description: [
+				"制作水井 放置等待便有水源   将水源过滤为饮用水：用滤水器放置 持滤层右击 在上方加入液体 等待沉淀"
+				"shift右击可清空液体 更换滤层"
+				"用桶 装纯净水"
+				"手持新滤层更换"
+			]
+			optional: true
+			id: "53A2FCCE430B2E57"
+			tasks: [
+				{
+					id: "087C9D7FCDFC0665"
+					type: "item"
+					item: "watersource:wooden_water_filter"
+				}
+				{
+					id: "036B2375EC7E4256"
+					type: "item"
+					item: {
+						id: "watersource:primitive_strainer"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "1445B699B54B9A9B"
+					type: "item"
+					item: "minecraft:glass_bottle"
+				}
+				{
+					id: "66181E164868AC63"
+					type: "item"
+					item: "well:well"
+				}
+			]
+			rewards: [{
+				id: "47CE29323F77902E"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "激光采矿"
+			icon: {
+				id: "mininggadgets:mininggadget"
+				Count: 1b
+				tag: {
+					energy: 1000000.0d
+				}
+			}
+			x: -4.0d
+			y: -7.5d
+			description: [
+				"将充能站  放置使用  给充能站用煤炭充能  将激光采矿枪放入充电"
+				"按V投掷照明弹下矿"
+				"激光枪可升级 可装配件"
+				"满配激光枪更加强力"
+			]
+			dependencies: ["418D035083248017"]
+			dependency_requirement: "all_started"
+			id: "622BE2AF7033F927"
+			tasks: [{
+				id: "32130EDE232C0C0A"
+				type: "item"
+				item: {
+					id: "charginggadgets:charging_station"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [
+				{
+					id: "13CCA36D6280C4F2"
+					type: "item"
+					item: {
+						id: "mininggadgets:mininggadget"
+						Count: 1b
+						tag: {
+							energy: 1000000.0d
+						}
+					}
+				}
+				{
+					id: "628D9F3C0364F25B"
+					type: "item"
+					item: "minecraft:quartz"
+					count: 4
+				}
+				{
+					id: "74F4CD13B125C4EE"
+					type: "item"
+					item: "nomisma:coin_4"
+					count: 2
+				}
+			]
+		}
+		{
+			title: "犁田运输（可选）"
+			x: -5.5d
+			y: -3.0d
+			description: [
+				"制作马车 小键盘数字0键 拉起马车 shift右击可放货物上马车"
+				"骑马在马车附近 按数字0 拉起马车   右键马车可以坐上去  联机可带人"
+				"犁和马车类似 放置犁 潜行右键打开界面 放置3把锄头 然后右击犁 让锄头贴地 "
+				"数字0拉起  开始人力犁地  骑马犁地也可"
+				"牲畜运载车 类似矿车 把动物弄上去 拉车运走 shift右击将动物放下来 "
+				"{image:ftbquests:textures/item/11mache.png width:150 height:100 align:1}"
+			]
+			id: "082D4D79B2C053DE"
+			tasks: [
+				{
+					id: "1C911B6106CB7B25"
+					type: "item"
+					item: "astikorcarts:supply_cart"
+				}
+				{
+					id: "47A884F22CA028E1"
+					type: "item"
+					item: "astikorcarts:plow"
+				}
+				{
+					id: "1A329033F5B482A0"
+					type: "item"
+					item: "astikorcarts:animal_cart"
+				}
+			]
+			rewards: [{
+				id: "3E694FFC33E8411D"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "开车出行（可选）"
+			x: -1.0d
+			y: -3.0d
+			description: [
+				"使用割草机割草  乘坐摩托 摩托艇出行"
+				"详细教程 查看交通方式任务栏"
+			]
+			id: "0324683EAC07AABB"
+			tasks: [
+				{
+					id: "322781885CF4C055"
+					type: "item"
+					item: {
+						id: "vehicle:vehicle_crate"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								Vehicle: "vehicle:lawn_mower"
+								WheelType: 0
+								EngineTier: 0
+							}
+						}
+					}
+				}
+				{
+					id: "2C9A3A67EF2EAFC9"
+					type: "item"
+					item: {
+						id: "vehicle:vehicle_crate"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								Vehicle: "vehicle:mini_bike"
+								WheelType: 0
+								EngineTier: 0
+							}
+						}
+					}
+				}
+				{
+					id: "084F2498ADD022E9"
+					type: "item"
+					item: {
+						id: "vehicle:vehicle_crate"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								Vehicle: "vehicle:dirt_bike"
+								WheelType: 0
+								EngineTier: 0
+							}
+						}
+					}
+				}
+				{
+					id: "660CDC7881E3F252"
+					type: "item"
+					item: {
+						id: "vehicle:vehicle_crate"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								Vehicle: "vehicle:jet_ski"
+								WheelType: 0
+								EngineTier: 0
+							}
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "25EE4E7629326685"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 10
+			}]
+		}
+		{
+			title: "合法持枪（可选）"
+			x: -8.5d
+			y: -6.0d
+			description: [
+				"教程转至枪支任务栏"
+				"铁的获取方法请制作扫描仪 绑定大型铁矿 挖取"
+			]
+			id: "4C3359F8B1A417BC"
+			tasks: [{
+				id: "4BB42256E07953E4"
+				type: "item"
+				item: {
+					id: "tac:m16a4"
+					Count: 1b
+					tag: {
+						AmmoCount: 30
+					}
+				}
+			}]
+			rewards: [{
+				id: "4219207C87F03B65"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3
+			}]
+		}
+		{
+			title: "专属女仆（可选）"
+			x: -2.5d
+			y: -3.0d
+			description: ["教程转至女仆任务栏"]
+			id: "184EB06D298A8349"
+			tasks: [{
+				id: "426942C4CBC01AE0"
+				type: "item"
+				item: {
+					id: "touhou_little_maid:entity_placeholder"
+					Count: 1b
+					tag: {
+						RecipeId: "touhou_little_maid:altar/spawn_box"
+					}
+				}
+			}]
+		}
+		{
+			title: "制作背包（可选）"
+			x: -7.0d
+			y: -3.0d
+			description: [
+				"多功能背包 右击使用 选择背上按钮  然后B键打开背包"
+				"自带背包工作台  储存液体功能"
+				"睡袋功能 请将背包卸下 潜行右击地面放置  再右击背包 点击睡袋按钮"
+				"金币商店可抽奖获取"
+			]
+			id: "7C5C79E00563A714"
+			tasks: [{
+				id: "66D87390EFE458D4"
+				type: "item"
+				item: {
+					id: "travelersbackpack:standard"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "73A34F882E551F9B"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -6.0d
+			dependency_requirement: "one_completed"
+			id: "73109366E8349DDA"
+			tasks: [{
+				id: "38BC453FD048C9EF"
+				type: "checkmark"
+				title: "更多内容前往主要事件任务栏"
+			}]
+			rewards: [{
+				id: "01C343225F95875F"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "传送手段（可选）"
+			x: -4.0d
+			y: -3.0d
+			description: [
+				"传送装置用于2点间传送 类似传送石碑"
+				"区域传送可以传送9x9范围内生物玩家"
+				"可将已放置传送装置用红石火把直接升级 以传送装置为中心9x9区域4角放置红石火把"
+				"个人传送器 地面放置 90秒内再使用可传送回原点 需要充能 按住右键 "
+				"{image:ftbquests:textures/item/11chuansong.png width:125 height:120 align:1}"
+			]
+			id: "4F971E7C7577AB30"
+			tasks: [
+				{
+					id: "296F8D39C6D84086"
+					type: "item"
+					item: "teleportmod:teleport"
+				}
+				{
+					id: "75C277D85BC4A96B"
+					type: "item"
+					item: "teleportmod:area_teleport"
+				}
+				{
+					id: "6FAA10B984C9C4D7"
+					type: "item"
+					item: "teleportmod:personal_teleport"
+				}
+			]
+			rewards: [{
+				id: "71EE6DCBED28B177"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "烤全猪"
+			x: -8.5d
+			y: -9.0d
+			description: [
+				"制作篝火  上方放置烤架 请猪上烤场  待熟透后 用刀切块"
+				""
+				"{image:ftbquests:textures/item/kaozhu.png width:100 height:100 align:1}"
+			]
+			dependencies: ["361311385B4A00EF"]
+			id: "7ED067ED0051F647"
+			tasks: [
+				{
+					id: "3F78B9E7D1170AA3"
+					type: "item"
+					item: "butchersdelight:deadpig"
+				}
+				{
+					id: "7AF09812A3AE4CCF"
+					type: "item"
+					item: "butchersdelight:roaster"
+				}
+				{
+					id: "5D516A6D5A8EE134"
+					type: "item"
+					item: {
+						id: "butchersdelight:cleaver"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [
+				{
+					id: "5D4805FE17A0312A"
+					type: "item"
+					item: "butchersdelight:dead_cow"
+				}
+				{
+					id: "429F632110CD9B12"
+					type: "item"
+					item: "nomisma:coin_4"
+				}
+			]
+		}
+		{
+			title: "获取皮革"
+			x: -8.5d
+			y: -10.5d
+			description: [
+				"将钩子放置于方块下方   预留牛的空间  将牛挂上钩子 使用剁肉刀分解 "
+				"获取的牛皮 放置于晾皮架  使用剪刀获取皮革"
+				"肉块请用你的厨艺处理   可转至烹饪 任务栏"
+				"羊同理"
+				"{image:ftbquests:textures/item/pige.png width:100 height:100 align:1}"
+			]
+			dependencies: ["7ED067ED0051F647"]
+			id: "2198816D2DF826F3"
+			tasks: [
+				{
+					id: "009CB1A8F83778D9"
+					type: "item"
+					item: "butchersdelight:dead_cow"
+				}
+				{
+					id: "6E6A63F662E4F570"
+					type: "item"
+					item: "butchersdelight:rack"
+				}
+				{
+					id: "7E72A8592BA6196A"
+					type: "item"
+					item: "butchersdelight:hook"
+				}
+			]
+			rewards: [{
+				id: "6295A4AA0936B2C5"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "整理物品时 按住shift  鼠标左键拖动  快速移动大量物品 "
+			x: -4.0d
+			y: -1.0d
+			id: "0A709370E40344E9"
+			tasks: [{
+				id: "11814DA24EEA01D3"
+				type: "checkmark"
+				title: "整理物品时按住shift 鼠标右键拖动物品  可快速移动物品"
+			}]
+			rewards: [{
+				id: "2E18F308FD025055"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "前往危险的维度 记得带主世界水晶球"
+			x: -5.5d
+			y: -1.0d
+			subtitle: "否则被梦魇侵蚀"
+			description: ["随身携带返回道具"]
+			id: "6B5BBCA33D0FCD7C"
+			tasks: [{
+				id: "211BEF9F016D9468"
+				type: "checkmark"
+				title: "前往奇怪的地方  一定要带主世界绘画"
+			}]
+			rewards: [{
+				id: "33FB9F8DC8739F32"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "商店"
+			x: -7.0d
+			y: -6.0d
+			description: [
+				"i键打开任务栏  左侧寻找金币商店任务栏"
+				"你可以提交物品赚取金币 "
+			]
+			dependencies: ["62481A428EBAC1BA"]
+			id: "3F8F079A9B32F2A9"
+			tasks: [{
+				id: "456715D10236D890"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "531F42E4C6F6498D"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -1.0d
+			description: ["鼠标中间整理   ~键连锁采矿"]
+			id: "6E13C8BAC1C01803"
+			tasks: [{
+				id: "2E14AF0CEFC9082F"
+				type: "checkmark"
+				title: "鼠标中键整理背包箱子，~连锁采集"
+			}]
+			rewards: [{
+				id: "2C170FE3C621A603"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -1.0d
+			id: "7E7F9A72166E7F2A"
+			tasks: [{
+				id: "1E42CC6521A6270A"
+				type: "checkmark"
+				title: "K 键打开技能加点"
+			}]
+			rewards: [{
+				id: "58D1DE092423DCB4"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "升级激光枪"
+			x: -2.5d
+			y: -7.5d
+			description: [
+				"制作改装台用于升级激光采矿枪"
+				"将枪放置于改装台，将升级配件装上去"
+				"搜索 升级  查看更多升级配件"
+			]
+			dependencies: ["622BE2AF7033F927"]
+			id: "61A07E3B1429BD60"
+			tasks: [
+				{
+					id: "4B1D4C46D5576C3D"
+					type: "item"
+					item: "mininggadgets:modificationtable"
+				}
+				{
+					id: "36B16C711364491F"
+					type: "item"
+					item: "mininggadgets:upgrade_efficiency_5"
+				}
+				{
+					id: "1C791478600C493B"
+					type: "item"
+					item: "mininggadgets:upgrade_magnet"
+				}
+			]
+			rewards: [
+				{
+					id: "471D9301AD6F4E1D"
+					type: "item"
+					item: "nomisma:coin_4"
+					count: 3
+				}
+				{
+					id: "6845FF932686E26E"
+					type: "item"
+					item: "minecraft:grass_block"
+					count: 3
+				}
+			]
+		}
+		{
+			title: "资源获取手段"
+			x: -5.5d
+			y: -6.0d
+			subtitle: "懒人版刷怪塔？"
+			description: [
+				"详细教程转至实用道具任务栏"
+				"放弃刷怪塔的建设  改用生物笼刷取物资"
+				"尝试自动化生产铁锭"
+				"在漏斗生物笼下方放置箱子 将草方块放入笼子作为生产环境"
+				"用dna采样器 攻击铁傀儡 采集样本"
+				"将铁傀儡DNA样本放入笼子"
+				"等待笼子自动产出铁锭"
+			]
+			id: "1D786B66F1382C46"
+			tasks: [
+				{
+					id: "531108AF9038E9AC"
+					type: "item"
+					item: "cagedmobs:hoppingmobcage"
+				}
+				{
+					id: "375C352B84BFC057"
+					type: "item"
+					item: "cagedmobs:dnasamplerdiamond"
+				}
+				{
+					id: "70DB8EF0C34FA740"
+					type: "item"
+					item: "minecraft:grass_block"
+				}
+			]
+			rewards: [{
+				id: "6522994D897435B7"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -9.0d
+			description: [
+				"何不乘风而起"
+				"教程转至飞行任务栏"
+			]
+			id: "7061922C8357E92D"
+			tasks: [{
+				id: "329E3A98F1A5F955"
+				type: "item"
+				item: "wings:blue_butterfly_wings_bottle"
+			}]
+			rewards: [{
+				id: "1286730D9F62B60B"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "ctrl键快速奔跑         ，键爬行"
+			x: 5.0d
+			y: -1.0d
+			id: "2453E68F5334A19B"
+			tasks: [{
+				id: "1B4B0BE74E86D9C1"
+				type: "checkmark"
+				title: "按，号键爬行"
+			}]
+			rewards: [{
+				id: "7EBF303C23EE0F9E"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

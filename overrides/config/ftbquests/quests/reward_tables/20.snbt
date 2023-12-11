@@ -1,0 +1,69 @@
+{
+	id: "69499A8E6FF6000C"
+	order_index: 20
+	title: "20"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:massiv_counter_b_1" }
+		{ item: "minecraftmodernxl:massiv_counter_b_2" }
+		{ item: "minecraftmodernxl:massiv_counter_w_1" }
+		{ item: "minecraftmodernxl:massiv_counter_w_2" }
+		{ item: "minecraftmodernxl:massiv_counter_b_3" }
+		{ item: "minecraftmodernxl:massif_counter_o" }
+		{ item: "minecraftmodernxl:massiv_counter_bw" }
+		{ item: "minecraftmodernxl:boxcase_stride_dw" }
+		{ item: "minecraftmodernxl:boxcase_stride_lw" }
+		{ item: "minecraftmodernxl:boxcase_stride_white_dw" }
+		{ item: "minecraftmodernxl:boxcase_stride_wg" }
+		{ item: "minecraftmodernxl:boxcase_stride_wlw" }
+		{ item: "minecraftmodernxl:boxcase_stride_grey_lw" }
+		{ item: "minecraftmodernxl:boxcase_stride_grey_dw" }
+		{ item: "minecraftmodernxl:boxcase_stride_grey_w" }
+		{ item: "minecraftmodernxl:comptoire_granite_dw" }
+		{ item: "minecraftmodernxl:comptoire_granite_lw" }
+		{ item: "minecraftmodernxl:comptoire_granite_white" }
+		{ item: "minecraftmodernxl:comptoire_granite_grey" }
+		{ item: "minecraftmodernxl:comptoire_andesite_dw" }
+		{ item: "minecraftmodernxl:comptoire_andesite_lw" }
+		{ item: "minecraftmodernxl:comptoire_andesite_white" }
+		{ item: "minecraftmodernxl:comptoire_andesite_grey" }
+		{ item: "minecraftmodernxl:comptoire_diorite_dw" }
+		{ item: "minecraftmodernxl:comptoire_diorite_lw" }
+		{ item: "minecraftmodernxl:comptoire_diorite_white" }
+		{ item: "minecraftmodernxl:comptoire_diorite_grey" }
+		{ item: "minecraftmodernxl:boxcase_dwlw" }
+		{ item: "minecraftmodernxl:boxcase_white_dw" }
+		{ item: "minecraftmodernxl:placard_diorite_dw" }
+		{ item: "minecraftmodernxl:placard_diorite_grey" }
+		{ item: "minecraftmodernxl:placard_diorite_lw" }
+		{ item: "minecraftmodernxl:placard_diorite_white" }
+		{ item: "minecraftmodernxl:placard_granite_dw" }
+		{ item: "minecraftmodernxl:placard_granite_lw" }
+		{ item: "minecraftmodernxl:placard_granite_white" }
+		{ item: "minecraftmodernxl:placard_granite_grey" }
+		{ item: "minecraftmodernxl:placard_andesite_dw" }
+		{ item: "minecraftmodernxl:placard_andesite_lw" }
+		{ item: "minecraftmodernxl:placard_andesite_white" }
+		{ item: "minecraftmodernxl:placard_andesite_grey" }
+		{ item: "minecraftmodernxl:drawercupboard_granite_white" }
+		{ item: "minecraftmodernxl:drawercupboard_granite_grey" }
+		{ item: "minecraftmodernxl:modern_cupboard_agrey_plank" }
+		{ item: "minecraftmodernxl:modern_cupboard_agrey_plank_angle" }
+		{ item: "minecraftmodernxl:modern_cupboard_agrey" }
+		{ item: "minecraftmodernxl:modern_cupboard_turquoise_lp" }
+		{ item: "minecraftmodernxl:modern_cupboard_turquoise_lp_angle" }
+		{ item: "minecraftmodernxl:modern_cupboard_turquoise" }
+		{ item: "minecraftmodernxl:modern_cupboard_jaune_dp" }
+		{ item: "minecraftmodernxl:modern_cupboard_angle_jaune_dp" }
+		{ item: "minecraftmodernxl:modern_cupboard_jaune" }
+		{ item: "minecraftmodernxl:modern_dem_icup_agrey_3_plank" }
+		{ item: "minecraftmodernxl:modern_dem_icup_turquoise_lp" }
+		{ item: "minecraftmodernxl:modern_demi_jaune_dp" }
+		{ item: "minecraftmodernxl:modern_dem_icup_white_dp" }
+		{ item: "minecraftmodernxl:modern_cupboard_white_dp" }
+		{ item: "minecraftmodernxl:modern_cupboard_angle_white_dp" }
+		{ item: "minecraftmodernxl:modern_cupboard_white" }
+		{ item: "minecraftmodernxl:simple_modern_cupboard_black" }
+		{ item: "minecraftmodernxl:simple_modern_cupboard_white" }
+	]
+}

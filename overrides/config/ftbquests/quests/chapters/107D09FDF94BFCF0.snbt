@@ -1,0 +1,65 @@
+{
+	id: "107D09FDF94BFCF0"
+	group: "0934557C74B8973A"
+	order_index: 0
+	filename: "107D09FDF94BFCF0"
+	title: "种田"
+	icon: "astikorcarts:plow"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [
+		{
+			x: 46.5d
+			y: 11.0d
+			width: 10.0d
+			height: 10.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/item/nongtian.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+		{
+			x: 56.5d
+			y: 11.5d
+			width: 10.0d
+			height: 8.0d
+			rotation: 0.0d
+			image: "ftbquests:textures/item/mache.png"
+			hover: [ ]
+			click: ""
+			dev: false
+			corner: false
+		}
+	]
+	quests: [
+		{
+			x: 50.0d
+			y: 9.0d
+			description: ["沃土 加快植物生长"]
+			id: "38B4F247377709D4"
+			tasks: [{
+				id: "43C644432485BB12"
+				type: "item"
+				item: "farmersdelight:rich_soil"
+			}]
+			rewards: [{
+				id: "3D961B59B4069E68"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 51.5d
+			y: 9.0d
+			subtitle: "请查看jei"
+			id: "748B4432B23562C5"
+			tasks: [{
+				id: "060687A4279332F3"
+				type: "checkmark"
+				title: "任务待更新"
+			}]
+		}
+	]
+}

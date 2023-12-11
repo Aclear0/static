@@ -1,0 +1,17 @@
+{
+	id: "5760F5566EC473D7"
+	order_index: 34
+	title: "35"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:mailbox_black" }
+		{ item: "minecraftmodernxl:mailbox_blue" }
+		{ item: "minecraftmodernxl:mailbox_white" }
+		{ item: "minecraftmodernxl:mailbox_simple" }
+		{ item: "minecraftmodernxl:fire_block_wood" }
+		{ item: "minecraftmodernxl:fireblock_wood_2" }
+		{ item: "minecraftmodernxl:fireblock_wood_3" }
+		{ item: "minecraftmodernxl:wood_stack_1" }
+		{ }
+	]
+}

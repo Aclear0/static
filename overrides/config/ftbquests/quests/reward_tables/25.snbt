@@ -1,0 +1,49 @@
+{
+	id: "5BE3C0145C6606AF"
+	order_index: 25
+	title: "25"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:bath_black_1" }
+		{ item: "minecraftmodernxl:bath_black_2" }
+		{ item: "minecraftmodernxl:bath_white_1" }
+		{ item: "minecraftmodernxl:bath_white_2" }
+		{ item: "minecraftmodernxl:modern_bath_black" }
+		{ item: "minecraftmodernxl:modern_bath_white" }
+		{ item: "minecraftmodernxl:full_shower_1" }
+		{ item: "minecraftmodernxl:full_shower_2" }
+		{ item: "minecraftmodernxl:full_shower_3" }
+		{ item: "minecraftmodernxl:full_shower_4" }
+		{ item: "minecraftmodernxl:utensilpot" }
+		{ item: "minecraftmodernxl:pile_towel" }
+		{ item: "minecraftmodernxl:paper_towel" }
+		{ item: "minecraftmodernxl:paper_towel" }
+		{ item: "minecraftmodernxl:toilet_paper" }
+		{ item: "minecraftmodernxl:toilt_1" }
+		{ item: "minecraftmodernxl:toilet_2" }
+		{ item: "minecraftmodernxl:modern_toilet" }
+		{ item: "minecraftmodernxl:evierblanc" }
+		{ item: "minecraftmodernxl:evier_noir" }
+		{ item: "minecraftmodernxl:modernx_sink" }
+		{ item: "minecraftmodernxl:modern_sink_2" }
+		{ item: "minecraftmodernxl:towel_holder" }
+		{ item: "minecraftmodernxl:shower_white" }
+		{ item: "minecraftmodernxl:shower_black" }
+		{ item: "minecraftmodernxl:soap_set_1" }
+		{ item: "minecraftmodernxl:soap_set_2" }
+		{ item: "minecraftmodernxl:soap_set" }
+		{ item: "minecraftmodernxl:epice_1" }
+		{ item: "minecraftmodernxl:epice_2" }
+		{ item: "minecraftmodernxl:mirror" }
+		{ item: "minecraftmodernxl:mirror_2" }
+		{ item: "minecraftmodernxl:mirror_3" }
+		{ item: "minecraftmodernxl:plate_support_dw" }
+		{ item: "minecraftmodernxl:plate_support_grey" }
+		{ item: "minecraftmodernxl:porte_couteaux" }
+		{ item: "minecraftmodernxl:grill_ustencile_1" }
+		{ item: "minecraftmodernxl:grill_ustencile_2" }
+		{ item: "minecraftmodernxl:applebowl" }
+		{ item: "minecraftmodernxl:applebowl_2" }
+		{ item: "minecraftmodernxl:applebowl_3" }
+	]
+}

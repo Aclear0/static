@@ -1,0 +1,185 @@
+
+["Nether Hexed Kingdom Mod Settings"]
+	#
+	#Maximum chunk distance spawn attempt 
+	#Default value: 10
+	"Watch tower max" = 10
+	#
+	#Max spawn count for hexed undead horse riders. Default value: 3
+	"Max hexed undead horse riders" = 3
+	#
+	#Maximum chunk distance spawn attempt 
+	#Default value: 10
+	"Iron clad max" = 10
+	#
+	#Maximum chunk distance spawn attempt 
+	#Default value: 16
+	"Bullion temple max" = 16
+	#
+	#Minimum chunk distance spawn attempt 
+	#Default value: 12
+	"Volcan pit min" = 12
+	#
+	#Spawn weight for hexed undead horse riders. Default value: 8
+	"Hexed undead horse rider weight" = 8
+	#
+	#Minimum spawn count for wither skeleton death riders. Default value: 0
+	"Min wither skeleton death riders" = 0
+	#
+	#Enable/disable generation of each structure:
+	#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	#Nether watch tower generation. 
+	#Default value: true
+	"Generate nether watch tower?" = true
+	#
+	#Minimum chunk distance spawn attempt 
+	#Default value: 5
+	"Nether prison min" = 5
+	#
+	#Minimum chunk distance spawn attempt 
+	#Default value: 8
+	"Nether mines min" = 8
+	#
+	#Spawn weight for wither skeleton death riders. Default value: 20
+	"Wither skeleton death rider weight" = 20
+	#
+	#Nether iron clad generation. 
+	#Default value: true
+	"Generate iron clad?" = true
+	#
+	#Max spawn number for each entity, must be larger than minimum:
+	#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	#Max spawn count for wither skeletons. 
+	#Default value: 3
+	"Max wither skeletons" = 3
+	#
+	#Nether outpost generation. 
+	#Default value: true
+	"Generate nether outpost?" = true
+	#
+	#Nether bullion temple generation. 
+	#Default value: true
+	"Generate bullion temple?" = true
+	#
+	#Maximum chunk distance spawn attempt 
+	#Default value: 12
+	"Nether outpost max" = 12
+	#
+	#pawn weight for wither skeleton horses. Default value: 12
+	"Wither skeleton horse weight" = 12
+	#
+	#Minimum chunk distance spawn attempt 
+	#Default value: 6
+	"Bullion temple min" = 6
+	#
+	#Maximum chunk distance spawn attempt 
+	#Default value: 24
+	"Volcan pit max" = 24
+	#
+	#Max spawn count for wither skeleton death riders. Default value: 3
+	"Max wither skeleton death riders" = 3
+	#
+	#Minimum chunk distance spawn attempt 
+	#Default value: 12
+	"Tower of red sun min" = 12
+	#
+	#Maximum chunk distance spawn attempt 
+	#Default value: 15
+	"Nether prison max" = 15
+	#
+	#Minimum chunk distance spawn attempt 
+	#Default value: 5
+	"Nether lookout min" = 6
+	#
+	#Max spawn count for hexed undead horses. Default value: 2
+	"Max hexed undead horses" = 2
+	#
+	#Minimum chunk distance spawn attempt 
+	#Default value: 3
+	"Watch tower min" = 3
+	#
+	#Natural generation spawn weight for each entity:
+	#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	#Spawn weight for wither skeletons. 
+	#Default value: 15
+	"Wither skeletons weight" = 15
+	#
+	#Minimum spawn number for each entity:
+	#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	#Minimum spawn count for wither skeletons. 
+	#Default value: 0
+	"Min wither skeletons" = 0
+	#
+	#Nether prison generation. 
+	#Default value: true
+	"Generate nether prison?" = true
+	#
+	#Nether volcan pit generation. 
+	#Default value: true
+	"Generate volcan pits?" = true
+	#
+	#Enable/disable each entity to the natural generation list in the nether:
+	#- - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - - -
+	#Add wither skeletons to the nether wastes? 
+	#Default value: true
+	"Add wither skeletons" = true
+	#
+	#Spawn weight for hexed undead horses. Default value: 5
+	"Hexed undead horse weight" = 5
+	#
+	#Maximum chunk distance spawn attempt 
+	#Default value: 16
+	"Nether mines max" = 16
+	#
+	#Add wither skeleton horses to the nether wastes? Default value: true
+	"Add wither skeleton horses" = true
+	#
+	#Add hexed undead horses to the crimson forests? Default value: true
+	"Add hexed undead horses" = true
+	#
+	#Nether lookout generation. 
+	#Default value: true
+	"Generate nether lookout?" = true
+	#
+	#Add wither skeleton death riders to the nether wastes? Default value: true
+	"Add wither skeleton death riders" = true
+	#
+	#Add hexed undead horse riders to the soul sand valleys?
+	"Add hexed undead horse riders" = true
+	#
+	#Maximum chunk distance spawn attempt 
+	#Default value: 24
+	"Tower of red sun max" = 24
+	#
+	#Maximum chunk distance spawn attempt 
+	#Default value: 15
+	"Nether lookout max" = 16
+	#
+	#Minimum spawn count for hexed undead horses. Default value: 0
+	"Min hexed undead horses" = 0
+	#
+	#Nether mines generation. 
+	#Default value: true
+	"Generate nether mines?" = true
+	#
+	#Minimum spawn count for hexed undead horse riders. Default value: 0
+	"Minimum spawn count for hexed undead horse riders" = 0
+	#
+	#Max spawn count for wither skeleton horses. Default value: 1
+	"Max wither skeleton horses" = 1
+	#
+	#Nether tower of red sun generation. 
+	#Default value: true
+	"Generate tower of red sun?" = true
+	#
+	#Minimum chunk distance spawn attempt 
+	#Default value: 6
+	"Nether outpost min" = 6
+	#
+	#Minimum chunk distance spawn attempt 
+	#Default value: 5
+	"Iron clad min" = 5
+	#
+	#Minimum spawn count for wither skeleton horses. Default value: 0
+	"Min wither skeleton horses" = 0
+

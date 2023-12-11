@@ -1,0 +1,28 @@
+{
+	id: "39D7D87FD3265FA2"
+	order_index: 22
+	title: "22"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:boxblanche" }
+		{ item: "minecraftmodernxl:box_darkwood" }
+		{ item: "minecraftmodernxl:box_lightwood" }
+		{ item: "minecraftmodernxl:box_black" }
+		{ item: "minecraftmodernxl:box_whitewood" }
+		{ item: "minecraftmodernxl:box_grey" }
+		{ item: "minecraftmodernxl:box_4case_dw" }
+		{ item: "minecraftmodernxl:box_4case_lw" }
+		{ item: "minecraftmodernxl:box_4case_white" }
+		{ item: "minecraftmodernxl:box_4case_grey" }
+		{ item: "minecraftmodernxl:box_plants_dw" }
+		{ item: "minecraftmodernxl:box_plants_lw" }
+		{ item: "minecraftmodernxl:box_plants_white" }
+		{ item: "minecraftmodernxl:box_plants_grey" }
+		{ item: "minecraftmodernxl:flower_box_1" }
+		{ item: "minecraftmodernxl:flower_box_2" }
+		{ item: "minecraftmodernxl:modern_biblio_black" }
+		{ item: "minecraftmodernxl:modern_biblio_white" }
+		{ item: "minecraftmodernxl:modern_biblio_demi_black" }
+		{ item: "minecraftmodernxl:modern_biblio_demi_white" }
+	]
+}

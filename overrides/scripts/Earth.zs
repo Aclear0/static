@@ -1,0 +1,52 @@
+craftingTable.addShapeless(
+    "55555",<item:minecraft:cobblestone>,[
+        <item:rankine:siltstone>]
+);
+craftingTable.removeRecipe(<item:lucky:lucky_block>);
+craftingTable.addShapeless(
+    "55614",<item:minecraft:cobblestone>,[
+        <item:rankine:anorthosite>]
+);
+craftingTable.addShapeless(
+    "55615",<item:minecraft:cobblestone>,[
+        <item:rankine:gabbro>]
+);
+craftingTable.addShapeless(
+    "55616",<item:minecraft:cobblestone>,[
+        <item:rankine:pyroxenite>]
+);
+craftingTable.addShapeless(
+    "55617",<item:minecraft:cobblestone>,[
+        <item:rankine:slate>]
+);
+craftingTable.addShapeless(
+    "55618",<item:minecraft:cobblestone>,[
+        <item:rankine:soapstone>]
+);
+craftingTable.addShapeless(
+    "55619",<item:minecraft:cobblestone>,[
+        <item:rankine:limestone>]
+);
+craftingTable.addShapeless(
+    "55620",<item:minecraft:cobblestone>,[
+        <item:rankine:marlstone>]
+);
+craftingTable.addShapeless(
+    "55621",<item:minecraft:cobblestone>,[
+        <item:rankine:graywacke>]
+);
+craftingTable.addShapeless(
+    "55622",<item:minecraft:charcoal>,[
+        <item:minecraft:coal>]
+);
+mods.jei.JEI.hideItem(<item:wings:angel_wings_bottle>);
+mods.jei.JEI.hideItem(<item:wings:parrot_wings_bottle>);
+mods.jei.JEI.hideItem(<item:wings:fire_wings_bottle>);
+mods.jei.JEI.hideItem(<item:wings:bat_wings_bottle>);
+mods.jei.JEI.hideItem(<item:wings:evil_wings_bottle>);
+mods.jei.JEI.hideItem(<item:wings:dragon_wings_bottle>);
+craftingTable.addShapeless(
+    "55624",<item:minecraft:andesite>,[
+        <item:minecraft:cobblestone>]
+);        
+

@@ -1,0 +1,52 @@
+{
+	id: "2A67C220E76B2CD3"
+	order_index: 28
+	title: "28"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:glassdoor" }
+		{ item: "minecraftmodernxl:glassdoor_2" }
+		{ item: "minecraftmodernxl:glasspan" }
+		{ item: "minecraftmodernxl:glasspan_2" }
+		{ item: "minecraftmodernxl:velux_black" }
+		{ item: "minecraftmodernxl:velux_white" }
+		{ item: "minecraftmodernxl:window_dw_1" }
+		{ item: "minecraftmodernxl:window_dw_2" }
+		{ item: "minecraftmodernxl:window_dw_3" }
+		{ item: "minecraftmodernxl:window_dw_4" }
+		{ item: "minecraftmodernxl:window_dw_5" }
+		{ item: "minecraftmodernxl:window_dw_6" }
+		{ item: "minecraftmodernxl:window_dw_7" }
+		{ item: "minecraftmodernxl:window_dw_8" }
+		{ item: "minecraftmodernxl:window_dw_9" }
+		{ item: "minecraftmodernxl:window_dw_10" }
+		{ item: "minecraftmodernxl:window_dw_11" }
+		{ item: "minecraftmodernxl:window_dw_12" }
+		{ item: "minecraftmodernxl:stride_1_verticale" }
+		{ item: "minecraftmodernxl:stride_1_verticale_grey" }
+		{ item: "minecraftmodernxl:stride_1_verticale_lw" }
+		{ item: "minecraftmodernxl:stride_1_verticale_white" }
+		{ item: "minecraftmodernxl:modern_door_black" }
+		{ item: "minecraftmodernxl:modern_door_white" }
+		{ item: "minecraftmodernxl:modern_door_eco" }
+		{ item: "minecraftmodernxl:modern_door_eco_2" }
+		{ item: "minecraftmodernxl:modern_door_wood" }
+		{ item: "minecraftmodernxl:modern_door_stone" }
+		{ item: "minecraftmodernxl:modern_door_soft" }
+		{ item: "minecraftmodernxl:glasspanel_black" }
+		{ item: "minecraftmodernxl:glasspanel_white" }
+		{ item: "minecraftmodernxl:glasspanel_black_2" }
+		{ item: "minecraftmodernxl:glasspanel_white_2" }
+		{ item: "minecraftmodernxl:glass_panel_black_3" }
+		{ item: "minecraftmodernxl:glass_panel_white_3" }
+		{ }
+		{ item: "minecraftmodernxl:claustra_dw" }
+		{ item: "minecraftmodernxl:claustra_lw" }
+		{ item: "minecraftmodernxl:claustra_grey" }
+		{ item: "minecraftmodernxl:claustra_white" }
+		{ item: "minecraftmodernxl:claustra_vege_dw" }
+		{ item: "minecraftmodernxl:claustra_vege_lw" }
+		{ item: "minecraftmodernxl:claustra_vege_grey" }
+		{ item: "minecraftmodernxl:claustra_vege_white" }
+	]
+}

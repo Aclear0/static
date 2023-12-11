@@ -1,0 +1,24 @@
+{
+	id: "2249EBE7477459B3"
+	order_index: 43
+	title: "羊毛"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:white_wool", count: 64 }
+		{ item: "minecraft:orange_wool", count: 64 }
+		{ item: "minecraft:magenta_wool", count: 64 }
+		{ item: "minecraft:light_blue_wool", count: 64 }
+		{ item: "minecraft:yellow_wool", count: 64 }
+		{ item: "minecraft:lime_wool", count: 64 }
+		{ item: "minecraft:pink_wool", count: 64 }
+		{ item: "minecraft:gray_wool", count: 64 }
+		{ item: "minecraft:light_gray_wool", count: 64 }
+		{ item: "minecraft:cyan_wool", count: 64 }
+		{ item: "minecraft:purple_wool", count: 64 }
+		{ item: "minecraft:blue_wool", count: 64 }
+		{ item: "minecraft:brown_wool", count: 64 }
+		{ item: "minecraft:green_wool", count: 64 }
+		{ item: "minecraft:red_wool", count: 64 }
+		{ item: "minecraft:black_wool", count: 64 }
+	]
+}

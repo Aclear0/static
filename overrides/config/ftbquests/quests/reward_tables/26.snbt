@@ -1,0 +1,178 @@
+{
+	id: "55304D89F1F04FE7"
+	order_index: 26
+	title: "26"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:modern_carpet_1" }
+		{ item: "minecraftmodernxl:modern_carpet_2" }
+		{ item: "minecraftmodernxl:modern_carpet_3" }
+		{ item: "minecraftmodernxl:modern_carpet_4" }
+		{ item: "minecraftmodernxl:modern_carpet_5" }
+		{ item: "minecraftmodernxl:modern_carpet_6" }
+		{ item: "minecraftmodernxl:modern_carpet_7" }
+		{ item: "minecraftmodernxl:modern_carpet_8" }
+		{ item: "minecraftmodernxl:modern_carpet_9" }
+		{ item: "minecraftmodernxl:modern_carpet_10" }
+		{ item: "minecraftmodernxl:modern_carpet_11" }
+		{ item: "minecraftmodernxl:modern_carpet_12" }
+		{
+			item: {
+				id: "multibeds:custom"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						texture_item: {
+							id: "minecraft:oak_planks"
+							Count: 1b
+						}
+					}
+				}
+			}
+		}
+		{
+			item: {
+				id: "multibeds:ladder"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						texture_item: {
+							id: "minecraft:oak_planks"
+							Count: 1b
+						}
+					}
+				}
+			}
+		}
+		{ item: "minecraftmodernxl:drap_marron" }
+		{ item: "minecraftmodernxl:drap_black" }
+		{ item: "minecraftmodernxl:drap_white" }
+		{ item: "minecraftmodernxl:drap_grey" }
+		{ item: "minecraftmodernxl:drap_dblue" }
+		{ item: "minecraftmodernxl:drap_lblue" }
+		{ item: "minecraftmodernxl:drap_cafe" }
+		{ item: "minecraftmodernxl:drap_yellow" }
+		{ item: "minecraftmodernxl:drap_orange" }
+		{ item: "minecraftmodernxl:drap_lime" }
+		{ item: "minecraftmodernxl:drap_red" }
+		{ item: "minecraftmodernxl:drap_pink" }
+		{ item: "minecraftmodernxl:drap_lavande" }
+		{ item: "minecraftmodernxl:drap_motif_1" }
+		{ item: "minecraftmodernxl:drap_motif_3" }
+		{ item: "minecraftmodernxl:drap_motif_4" }
+		{ item: "minecraftmodernxl:drap_motif_5" }
+		{ item: "minecraftmodernxl:drap_motif_6" }
+		{
+			item: {
+				id: "multibeds:modern"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						texture_item: {
+							id: "minecraft:oak_planks"
+							Count: 1b
+						}
+					}
+				}
+			}
+		}
+		{
+			item: {
+				id: "multibeds:slab"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						texture_item: {
+							id: "minecraft:oak_planks"
+							Count: 1b
+						}
+					}
+				}
+			}
+		}
+		{
+			item: {
+				id: "multibeds:cot"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						texture_item: {
+							id: "minecraft:oak_planks"
+							Count: 1b
+						}
+					}
+				}
+			}
+		}
+		{
+			item: {
+				id: "multibeds:vintage"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						texture_item: {
+							id: "minecraft:oak_planks"
+							Count: 1b
+						}
+					}
+				}
+			}
+		}
+		{
+			item: {
+				id: "multibeds:rustic"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						texture_item: {
+							id: "minecraft:oak_planks"
+							Count: 1b
+						}
+					}
+				}
+			}
+		}
+		{
+			item: {
+				id: "multibeds:classic"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						texture_item: {
+							id: "minecraft:oak_planks"
+							Count: 1b
+						}
+					}
+				}
+			}
+		}
+		{ }
+		{ item: "minecraftmodernxl:cushion_1" }
+		{ item: "minecraftmodernxl:cushion_2" }
+		{ item: "minecraftmodernxl:cushion_3" }
+		{ item: "minecraftmodernxl:cushion_4" }
+		{ item: "minecraftmodernxl:cushion_5" }
+		{ item: "minecraftmodernxl:cushion_6" }
+		{ item: "minecraftmodernxl:cushion_8" }
+		{ item: "minecraftmodernxl:cushion_7" }
+		{ item: "minecraftmodernxl:cushion_9" }
+		{ item: "minecraftmodernxl:cushion_10" }
+		{ item: "minecraftmodernxl:cushion_11" }
+		{ item: "minecraftmodernxl:cushion_12" }
+		{ item: "minecraftmodernxl:cushion_13" }
+		{ item: "minecraftmodernxl:cushion_motif_1" }
+		{ item: "minecraftmodernxl:cushion_motif_2" }
+		{ item: "minecraftmodernxl:cushion_motif_3" }
+		{ item: "minecraftmodernxl:cushion_motif_4" }
+		{ item: "minecraftmodernxl:cushion_motif_5" }
+		{ item: "minecraftmodernxl:cushion_motif_6" }
+		{ item: "minecraftmodernxl:lit_lw" }
+		{ item: "minecraftmodernxl:lit_dw" }
+		{ item: "minecraftmodernxl:lit_black" }
+		{ item: "minecraftmodernxl:lit_white" }
+		{ item: "minecraftmodernxl:carpet_1" }
+		{ item: "minecraftmodernxl:carpet_2" }
+		{ item: "minecraftmodernxl:carpet_1_w" }
+		{ item: "minecraftmodernxl:carpet_2_w" }
+	]
+}

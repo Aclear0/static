@@ -1,0 +1,9 @@
+{
+  "retroGen": true,
+  "swapper": {
+    "experimental_m:sprincklesore": "minecraft:nether_gold_ore",
+    "graveyard:tg_grass_block": "minecraft:grass_block",
+    "valhelsia_structures:grass_block": "minecraft:grass_block",
+    "byg:meadow_grass_block": "minecraft:grass_block"
+  }
+}

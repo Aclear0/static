@@ -1,0 +1,21 @@
+{
+	id: "4128618BBE7D8200"
+	order_index: 44
+	title: "抽奖"
+	loot_size: 1
+	rewards: [
+		{
+			command: "/say 抱歉 @p!"
+			player_command: false
+			type: "command"
+			weight: 300
+		}
+		{ item: "touhou_little_maid:maid_spawn_egg", weight: 7 }
+		{ item: "minecraft:zombified_piglin_spawn_egg", weight: 30 }
+		{ item: "theabyss:slime_stage_4", weight: 5 }
+		{ item: "minecraft:apple", count: 5, weight: 50 }
+		{ item: "minecraft:mossy_stone_bricks", count: 64, weight: 50 }
+		{ item: "touhou_little_maid:fairy_spawn_egg", weight: 50 }
+		{ item: "minecraft:spider_eye" }
+	]
+}

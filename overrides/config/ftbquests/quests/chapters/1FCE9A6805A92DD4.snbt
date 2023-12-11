@@ -1,0 +1,71 @@
+{
+	id: "1FCE9A6805A92DD4"
+	group: "7FCD45262D302902"
+	order_index: 0
+	filename: "1FCE9A6805A92DD4"
+	title: "卡牌"
+	icon: "collectorsalbum:rare_wooden_sword_card"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: -3.0d
+		y: -7.0d
+		width: 6.0d
+		height: 10.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/kapai.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "哇！金色！！普通....."
+			x: 0.0d
+			y: -7.0d
+			description: [
+				"右键开包 "
+				"鼠标点击所有卡片  稀有度不同  每个卡牌有序号"
+				"使用集卡册存储卡牌"
+				"点击翻页 按卡牌序号放置于卡册内"
+				"每个收集进度都会给你永久增益"
+				"可使用卡牌合成卡包"
+			]
+			id: "6DCEE8EA50C6616E"
+			tasks: [{
+				id: "3BA24F59A62230C0"
+				type: "item"
+				item: "collectorsalbum:rare_card_package"
+			}]
+			rewards: [
+				{
+					id: "34C701ABB0B789F6"
+					type: "item"
+					item: "collectorsalbum:album"
+				}
+				{
+					id: "29D91D11FC8CFD01"
+					type: "item"
+					item: "nomisma:coin_4"
+					count: 3
+				}
+			]
+		}
+		{
+			title: "来体验一下吧"
+			x: 1.5d
+			y: -7.0d
+			id: "7717BC702CC8C4F1"
+			tasks: [{
+				id: "1CC1E0BAD93AE6DA"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "60BA7B702DFA1E1E"
+				type: "item"
+				item: "collectorsalbum:uncommon_card_package"
+			}]
+		}
+	]
+}

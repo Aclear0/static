@@ -1,0 +1,15 @@
+{
+	id: "482427A52DD27339"
+	order_index: 52
+	title: "缓降"
+	loot_size: 1
+	rewards: [{
+		item: {
+			id: "minecraft:potion"
+			Count: 1b
+			tag: {
+				Potion: "minecraft:long_slow_falling"
+			}
+		}
+	}]
+}

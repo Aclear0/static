@@ -1,0 +1,7 @@
+{
+	id: "3BF454EE5BF017C5"
+	order_index: 7
+	title: "7"
+	loot_size: 1
+	rewards: [{ item: "teleportmod:teleport" }]
+}

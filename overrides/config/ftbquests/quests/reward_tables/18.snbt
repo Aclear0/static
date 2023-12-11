@@ -1,0 +1,45 @@
+{
+	id: "1ACECD2567B90726"
+	order_index: 18
+	title: "18"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:coffe_table_dw" }
+		{ item: "minecraftmodernxl:coffe_table_lw" }
+		{ item: "minecraftmodernxl:coffe_table_white" }
+		{ item: "minecraftmodernxl:coffe_table_2_dw" }
+		{ item: "minecraftmodernxl:coffe_table_2_grey" }
+		{ item: "minecraftmodernxl:coffe_table_grey" }
+		{ item: "minecraftmodernxl:coffe_table_2_lw" }
+		{ item: "minecraftmodernxl:coffe_table_2_lw" }
+		{ item: "minecraftmodernxl:coffe_table_3_dw" }
+		{ item: "minecraftmodernxl:coffe_table_3_grey" }
+		{ item: "minecraftmodernxl:coffe_table_3_lw" }
+		{ item: "minecraftmodernxl:coffe_table_3_white" }
+		{ item: "minecraftmodernxl:coffe_table_4p_1" }
+		{ item: "minecraftmodernxl:coffe_table_4p_2" }
+		{ item: "minecraftmodernxl:coffe_table_4p_3" }
+		{ item: "minecraftmodernxl:coffe_table_4p_4" }
+		{ item: "minecraftmodernxl:modern_coffe_table_black" }
+		{ item: "minecraftmodernxl:modern_coffe_table_white" }
+		{ item: "minecraftmodernxl:table_lw_1x_1" }
+		{ item: "minecraftmodernxl:table_lw_1x_2" }
+		{ item: "minecraftmodernxl:table_lw_2x_2" }
+		{ item: "minecraftmodernxl:table_lw_3x_3" }
+		{ item: "minecraftmodernxl:etbl_1" }
+		{ item: "minecraftmodernxl:etbl_2" }
+		{ item: "minecraftmodernxl:etbl_3" }
+		{ item: "minecraftmodernxl:utable_1_black" }
+		{ item: "minecraftmodernxl:utable_1_white" }
+		{ item: "minecraftmodernxl:utable_1_dw" }
+		{ item: "minecraftmodernxl:utable_1_lw" }
+		{ item: "minecraftmodernxl:utable_2_black" }
+		{ item: "minecraftmodernxl:utable_2_white" }
+		{ item: "minecraftmodernxl:utable_2_dw" }
+		{ item: "minecraftmodernxl:utable_2_lw" }
+		{ item: "minecraftmodernxl:uptable_black_oak" }
+		{ item: "minecraftmodernxl:uptable_white_oak" }
+		{ item: "minecraftmodernxl:uptable_dw" }
+		{ item: "minecraftmodernxl:uptable_lw" }
+	]
+}

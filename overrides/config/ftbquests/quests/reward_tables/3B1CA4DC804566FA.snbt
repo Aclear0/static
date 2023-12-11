@@ -1,0 +1,25 @@
+{
+	id: "3B1CA4DC804566FA"
+	order_index: 62
+	title: "小镇工具"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "yuushya:get_blockstate_item"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{ item: "yuushya:pos_trans_item" }
+		{ item: "yuushya:micro_pos_trans_item" }
+		{ item: "yuushya:rot_trans_item" }
+		{ item: "yuushya:scale_trans_item" }
+		{ item: "yuushya:slot_trans_item" }
+		{ item: "yuushya:get_lit_item" }
+		{ item: "yuushya:showblock" }
+		{ item: "yuushya:get_showblock_item" }
+		{ item: "yuushya:get_lit_item" }
+		{ item: "yuushya:move_transformdata_item" }
+	]
+}

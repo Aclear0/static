@@ -1,0 +1,42 @@
+{
+	id: "513B1333E3E6CC97"
+	order_index: 35
+	title: "36"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:fish_bowl" }
+		{ item: "minecraftmodernxl:creeplush_blue" }
+		{ item: "minecraftmodernxl:creeplush_yellow" }
+		{ item: "minecraftmodernxl:creeplush_red" }
+		{ item: "minecraftmodernxl:creeplush_pink" }
+		{ item: "minecraftmodernxl:creeplush_green" }
+		{ item: "minecraftmodernxl:candleplate_orange_dw" }
+		{ item: "minecraftmodernxl:candle_plate_black" }
+		{ item: "minecraftmodernxl:candle_plate_white" }
+		{ item: "minecraftmodernxl:candle_plate_pink" }
+		{ item: "minecraftmodernxl:candle_plate_blue" }
+		{ item: "minecraftmodernxl:candle_plate_bluefonce" }
+		{ item: "minecraftmodernxl:candle_plate_yellow" }
+		{ item: "minecraftmodernxl:candle_plate_red" }
+		{ item: "minecraftmodernxl:candle_plate_green" }
+		{ item: "minecraftmodernxl:candle_plate_purple" }
+		{ item: "minecraftmodernxl:petbowl_1" }
+		{ item: "minecraftmodernxl:petbowl_2" }
+		{ item: "minecraftmodernxl:pet_bowl_3" }
+		{ item: "minecraftmodernxl:jeuboule" }
+		{ item: "minecraftmodernxl:petbed" }
+		{ item: "minecraftmodernxl:petbed_2" }
+		{ item: "minecraftmodernxl:basket_1" }
+		{ item: "minecraftmodernxl:basket_2" }
+		{ item: "minecraftmodernxl:basket_3" }
+		{ item: "minecraftmodernxl:basket_4" }
+		{ item: "minecraftmodernxl:grill" }
+		{ item: "minecraftmodernxl:cube_statue_1" }
+		{ item: "minecraftmodernxl:cube_statue_2" }
+		{ item: "minecraftmodernxl:cube_statue_3" }
+		{ item: "minecraftmodernxl:candleholder" }
+		{ item: "minecraftmodernxl:candleholder_2" }
+		{ item: "minecraftmodernxl:candleholder_3" }
+		{ item: "minecraftmodernxl:candleholder_4" }
+	]
+}

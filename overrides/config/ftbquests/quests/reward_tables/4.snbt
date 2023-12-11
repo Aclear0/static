@@ -1,0 +1,15 @@
+{
+	id: "605079C5CD365262"
+	order_index: 4
+	title: "4"
+	loot_size: 1
+	rewards: [{
+		item: {
+			id: "theabyss:nosaj_sword"
+			Count: 1b
+			tag: {
+				Damage: 0
+			}
+		}
+	}]
+}

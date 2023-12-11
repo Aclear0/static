@@ -1,0 +1,8 @@
+{
+	id: "5CA78AE2A60C8944"
+	order_index: 0
+	title: "gold"
+	icon: "expandedstorage:white_mini_present"
+	loot_size: 1
+	rewards: [{ item: "nomisma:coin_4", count: 35 }]
+}

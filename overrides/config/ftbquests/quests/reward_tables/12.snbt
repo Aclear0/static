@@ -1,0 +1,14 @@
+{
+	id: "07743C11C9573FBF"
+	order_index: 12
+	title: "12"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:banana_juice" }
+		{ item: "minecraftmodernxl:lemon_juice" }
+		{ item: "minecraftmodernxl:kiwi_juice" }
+		{ item: "minecraftmodernxl:apple_juice" }
+		{ item: "minecraftmodernxl:melon_juice" }
+		{ item: "minecraftmodernxl:sweet_berries_juice" }
+	]
+}

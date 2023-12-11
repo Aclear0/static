@@ -1,0 +1,129 @@
+{
+	id: "29E0AF3448F1DEA2"
+	group: "5B66817D09295111"
+	order_index: 1
+	filename: "29E0AF3448F1DEA2"
+	title: "新生魔艺"
+	icon: "ars_nouveau:archmage_spell_book"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: -54.5d
+		y: -5.5d
+		width: 10.0d
+		height: 10.0d
+		rotation: 0.0d
+		image: "ars_nouveau:textures/items/apprentice_spell_book.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "创建你的法术"
+			x: -45.5d
+			y: -7.5d
+			description: [
+				"新生魔艺的核心在于自定义法术，你将消耗魔法使用你创建的法术。"
+				"将形态放置于法术的第一个，然后选择效果。"
+				"注意：编写多个同样的效果在一个法术内是无效的，因为MC受伤会有短暂无敌，只会浪费法力。"
+			]
+			dependencies: ["0D7D2995B5121AF5"]
+			id: "53FC66C1B47BD6D6"
+			tasks: [{
+				id: "4F619961C353C91D"
+				type: "item"
+				item: "ars_nouveau:novice_spell_book"
+			}]
+			rewards: [{
+				id: "550FB6062C036B35"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "合成初学者法术书"
+			x: -48.5d
+			y: -7.5d
+			description: ["合成表可参看JEI"]
+			id: "0D7D2995B5121AF5"
+			tasks: [{
+				id: "2B1FC66081C903B5"
+				type: "checkmark"
+			}]
+			rewards: [
+				{
+					id: "57316CACFD493B31"
+					type: "item"
+					item: "minecraft:book"
+				}
+				{
+					id: "4722DE58F1EC7334"
+					type: "item"
+					item: "nomisma:coin_4"
+				}
+			]
+		}
+		{
+			title: "在法术书里抄写"
+			x: -45.5d
+			y: -5.0d
+			description: [
+				"抄写台可以把已解锁的法术书抄写到书上。"
+				"不同的法术解锁条件不一样，在法术书里查看吧。"
+			]
+			dependencies: ["53FC66C1B47BD6D6"]
+			id: "131FED4A9239B1D9"
+			tasks: [{
+				id: "792A4E0D5D4AF6BD"
+				type: "item"
+				item: "ars_nouveau:scribes_table"
+			}]
+			rewards: [{
+				id: "408869B167C76834"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "采集魔源宝石"
+			x: -45.5d
+			y: -10.0d
+			description: ["魔源宝石是非常重要的资源，开采魔源宝石矿石后可通过烧炼获得。"]
+			dependencies: ["53FC66C1B47BD6D6"]
+			id: "54A9E648A1FFA4A9"
+			tasks: [{
+				id: "3F58772165424317"
+				type: "item"
+				item: "ars_nouveau:mana_gem"
+			}]
+			rewards: [{
+				id: "5E28F083775A4179"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "升级你的法术书"
+			x: -42.5d
+			y: -7.5d
+			description: [
+				"法术释放有要求法术书等级，所以升级你的法术书到二级吧。"
+				"已解锁的法术可以被继承。"
+			]
+			dependencies: ["53FC66C1B47BD6D6"]
+			id: "6C59666B786152B2"
+			tasks: [{
+				id: "19DC0305F7CAE7E2"
+				type: "item"
+				item: "ars_nouveau:apprentice_spell_book"
+			}]
+			rewards: [{
+				id: "2361DEDE2260223A"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

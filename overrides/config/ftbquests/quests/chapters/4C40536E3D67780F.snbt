@@ -1,0 +1,27 @@
+{
+	id: "4C40536E3D67780F"
+	group: "34CCF47C94C2A563"
+	order_index: 1
+	filename: "4C40536E3D67780F"
+	title: "中式"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [{
+		icon: "chineseworkshop:black_tile_roof_ridge_top"
+		x: 7.0d
+		y: -4.5d
+		shape: "diamond"
+		description: ["jei 搜索@chi"]
+		size: 2.0d
+		id: "6295FE1F4A7FDC16"
+		tasks: [{
+			id: "39A9A262BD836AF9"
+			type: "checkmark"
+		}]
+		rewards: [{
+			id: "36770DE717BAAB35"
+			type: "item"
+			item: "nomisma:coin_4"
+		}]
+	}]
+}

@@ -1,0 +1,49 @@
+{
+	id: "172EDFCCC8187E7A"
+	order_index: 61
+	title: "coffee"
+	loot_size: 1
+	rewards: [
+		{ item: "starcoffee:frappucino" }
+		{ item: "starcoffee:blue_tea" }
+		{ item: "starcoffee:green_tea" }
+		{ item: "starcoffee:purple_tea" }
+		{ item: "starcoffee:americano" }
+		{ item: "starcoffee:iced_coffee" }
+		{ item: "starcoffee:latte" }
+		{ item: "starcoffee:mocha" }
+		{ item: "starcoffee:coffee_machine" }
+		{ item: "starcoffee:hot_cocoa" }
+		{ item: "starcoffee:brigadeiro" }
+		{ item: "starcoffee:chocolate_cupcake_with_blue_cup" }
+		{ item: "starcoffee:chocolate_cupcake_with_dark_blue_cup" }
+		{ item: "starcoffee:chocolate_cupcake_with_pink_cup" }
+		{ item: "starcoffee:chocolate_donut_with_chocolate" }
+		{ item: "starcoffee:chocolate_donut_with_vanilla" }
+		{ item: "starcoffee:vanilla_donut_with_chocolate" }
+		{ item: "starcoffee:chocolate_cupcake_with_blue_cup" }
+		{ item: "starcoffee:chocolate_cupcake_with_dark_blue_cup" }
+		{ item: "starcoffee:chocolate_cupcake_with_pink_cup" }
+		{ item: "starcoffee:moon_cupcake" }
+		{ item: "starcoffee:pink_cupcake" }
+		{ item: "starcoffee:plate_of_cupcakes" }
+		{ item: "starcoffee:vanilla_cupcake_with_blue_cup" }
+		{ item: "starcoffee:vanilla_cupcake_with_dark_blue_cup" }
+		{ item: "starcoffee:vanilla_cupcake_with_pink_cup" }
+		{ item: "starcoffee:cupcake_big_plate" }
+		{ item: "starcoffee:cupcake_plate" }
+		{ item: "starcoffee:dratini_donut" }
+		{ item: "starcoffee:plate_of_donut" }
+		{ item: "starcoffee:totoro_donut" }
+		{ item: "starcoffee:vanilla_donut_with_vanilla" }
+		{ item: "starcoffee:donut_big_plate" }
+		{ item: "starcoffee:donut_plate" }
+		{ item: "starcoffee:waffle" }
+		{ item: "starcoffee:waffles" }
+		{ item: "starcoffee:star_furnice" }
+		{ item: "starcoffee:star_cup" }
+		{ item: "starcoffee:star_mug" }
+		{ item: "starcoffee:mug" }
+		{ item: "starcoffee:mug_with_logo" }
+	]
+}

@@ -1,0 +1,70 @@
+{
+	id: "6E815D4BF10C60B6"
+	order_index: 45
+	title: "女仆"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "touhou_little_maid:explosion_protect_bauble"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 5
+		}
+		{
+			item: {
+				id: "touhou_little_maid:fire_protect_bauble"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 5
+		}
+		{
+			item: {
+				id: "touhou_little_maid:projectile_protect_bauble"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 5
+		}
+		{
+			item: {
+				id: "touhou_little_maid:magic_protect_bauble"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 5
+		}
+		{
+			item: {
+				id: "touhou_little_maid:fall_protect_bauble"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 5
+		}
+		{
+			item: {
+				id: "touhou_little_maid:drown_protect_bauble"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			weight: 5
+		}
+		{ item: "touhou_little_maid:mute_bauble", weight: 5 }
+		{ item: "touhou_little_maid:smart_slab_init" }
+	]
+}

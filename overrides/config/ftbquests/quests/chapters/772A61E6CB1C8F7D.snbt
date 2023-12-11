@@ -1,0 +1,210 @@
+{
+	id: "772A61E6CB1C8F7D"
+	group: ""
+	order_index: 9
+	filename: "772A61E6CB1C8F7D"
+	title: "动物驯养"
+	icon: "farmersdelight:rice_bale"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.5d
+		y: -5.5d
+		width: 15.0d
+		height: 10.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/yang.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			x: -2.0d
+			y: -10.5d
+			shape: "diamond"
+			description: [
+				"Alex mob模组动物请查阅指南 均已汉化"
+				"驯养方式 习性均有记载"
+			]
+			size: 2.0d
+			id: "3A0CE450BBDC9CD4"
+			tasks: [{
+				id: "26DEC231F8138A09"
+				type: "checkmark"
+				title: "动物驯养指南"
+			}]
+			rewards: [
+				{
+					id: "103643B60AF7113C"
+					type: "item"
+					item: "alexsmobs:animal_dictionary"
+				}
+				{
+					id: "3B98732608CF4B19"
+					type: "item"
+					item: "nomisma:coin_4"
+				}
+			]
+		}
+		{
+			title: "鸟类饲养"
+			x: -3.0d
+			y: -9.0d
+			description: [
+				"记录鸟类"
+				"上树掏鸟窝"
+				"鉴别鸟蛋  孵化"
+			]
+			id: "19434ED9B748FE18"
+			tasks: [
+				{
+					id: "4FCA3E6C9216A727"
+					type: "item"
+					item: "exoticbirds:bird_book"
+				}
+				{
+					id: "1B28413C9BB64E92"
+					type: "item"
+					item: "exoticbirds:egg_incubator"
+				}
+				{
+					id: "5B3B9510DD08F54F"
+					type: "item"
+					item: "exoticbirds:egg_identifier"
+				}
+				{
+					id: "329B89217C1D6445"
+					type: "item"
+					item: "exoticbirds:iron_birdcage"
+				}
+			]
+			rewards: [{
+				id: "3A218ADC9B5DADF3"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -3.5d
+			y: -10.5d
+			description: ["拯救你的宠物"]
+			id: "1E863440AAA0B2F6"
+			tasks: [
+				{
+					id: "7698EA413DFA0806"
+					type: "item"
+					item: "syp:pet_bandage"
+				}
+				{
+					id: "0AFAAA560A1575A2"
+					type: "item"
+					item: "syp:golden_pet_bandage"
+				}
+			]
+			rewards: [{
+				id: "4DA7633A28E0D631"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "领养猫咪"
+			x: -0.5d
+			y: -10.5d
+			description: [
+				"前往村庄猫咪收容所 收容所领养的是已绝育"
+				"部分村民也有交易猫猫 交易的猫没有绝育"
+				"带回家 好好照顾"
+				"也可打开商店 使用金币兑换宠物猫"
+			]
+			id: "4C0A886CB56A1EA2"
+			tasks: [
+				{
+					id: "774B4F187B0D16A2"
+					type: "item"
+					item: "simplycats:adopt_certificate"
+				}
+				{
+					id: "59B08E629D5A9353"
+					type: "item"
+					item: "simplycats:white_cat_tree_bed"
+				}
+				{
+					id: "73F9F865A2D590A1"
+					type: "item"
+					item: "simplycats:oak_scratching_post"
+				}
+				{
+					id: "6DA2EE3E5E41B494"
+					type: "item"
+					item: "simplycats:white_cat_tree_post"
+				}
+				{
+					id: "1849B9C62791C10D"
+					type: "item"
+					item: "simplycats:catnip"
+				}
+				{
+					id: "2451E5E8DC181D65"
+					type: "item"
+					item: "simplycats:laser_pointer"
+				}
+				{
+					id: "753EDB3C1657D076"
+					type: "item"
+					item: "simplycats:sterilization_potion"
+				}
+				{
+					id: "31CDAC9A8F229970"
+					type: "item"
+					item: "simplycats:cat_book"
+				}
+			]
+			rewards: [{
+				id: "74573B32BB83BD5E"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "小狗天才"
+			x: -1.0d
+			y: -9.0d
+			description: ["小狗天才的狗具有技能树，能学会各种实用技能。"]
+			id: "4DBAC994AE858D6A"
+			tasks: [
+				{
+					id: "3D8696EAC6940731"
+					type: "item"
+					item: {
+						id: "doggytalents:dog_bed"
+						Count: 1b
+						tag: {
+							doggytalents: {
+								casingId: "biomesoplenty:mahogany_planks"
+								beddingId: "minecraft:black_wool"
+							}
+						}
+					}
+				}
+				{
+					id: "3B74A133178C41B9"
+					type: "item"
+					item: "doggytalents:food_bowl"
+				}
+				{
+					id: "246AB8C6A891C31A"
+					type: "item"
+					item: "doggytalents:dog_bath"
+				}
+			]
+			rewards: [{
+				id: "624ECCBE3EE79028"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

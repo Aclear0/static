@@ -1,0 +1,40 @@
+
+[anti-cheese]
+	#If true then the anti-cheese system is enabled for coin drops.  If false then coin drops are made normally.
+	enableAntiCheese = true
+	#Total number of anti-cheese squares in the area
+	#Range: 1 ~ 256
+	numCheeseSquares = 16
+	#Number of times a square area can have coin drops before it moves
+	#Range: 1 ~ 256
+	cheeseSquareHitPoints = 4
+	#Width of the entire system in blocks. Should be much larger than cheeseSquareWidth. System repeats endlessly across the world but only one instance of the system is used.
+	#Range: 1 ~ 1024
+	cheeseAreaWidth = 128
+	#Width of a single anti-cheese square in blocks
+	#Range: 1 ~ 128
+	cheeseSquareWidth = 16
+
+["villager trade"]
+	#Enable emerald replacement in villager trades
+	enableVillagerEmeraldReplacement = false
+	#Power of 4 value for an emerald used for villager trades and emerald to coin purse conversion
+	#0 => 1 (iron coin), 
+	#1 => 4 (iron coin pile), 
+	#2 => 16 (copper coin), 
+	#3 => 64 (copper coin pile), 
+	#4 => 256 (gold coin), 
+	#5 => 1024 (gold coin pile)
+	#Range: 0 ~ 5
+	emeraldCoinValue = 2
+
+["coin purse config"]
+	#If enabled then emeralds can be dropped into a purse and converted into their coin value equivalent.
+	enableEmeraldPurseConversion = true
+	#If enabled then coins picked up from the world will go straight into a purse in a player's inventory instead of the player's inventory space.
+	enablePurseAutomaticCoinPickup = true
+
+["mob drops"]
+	#If enabled then mobs such as Zombies, Illagers, and Witches will drop coins when killed by a player.
+	enableMobCoinDrops = true
+

@@ -1,0 +1,303 @@
+{
+	id: "28CF09A10D54B43D"
+	group: ""
+	order_index: 6
+	filename: "28CF09A10D54B43D"
+	title: "星辰大海 "
+	icon: {
+		id: "boss_tools:rocket_t1"
+		Count: 1b
+		tag: { }
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 5.0d
+		y: -1.0d
+		width: 50.0d
+		height: 50.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/hangtian.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "造火箭(拓展内容）"
+			icon: {
+				id: "boss_tools:rocket_t3"
+				Count: 1b
+				tag: { }
+			}
+			x: 13.5d
+			y: 4.5d
+			shape: "diamond"
+			description: [
+				"请添加拓展内容包  重启游戏   nasa工作站制造火箭"
+				"3x3摆放发射台"
+				"火箭置于中心"
+				"加燃油   石油在海面的水柱漂浮物上"
+			]
+			dependency_requirement: "all_started"
+			size: 3.0d
+			id: "6F8CB3FDE64F614C"
+			tasks: [
+				{
+					id: "6D639EEB13E8B781"
+					type: "item"
+					item: "boss_tools:nasa_workbench"
+				}
+				{
+					id: "7B92C26923E572D6"
+					type: "item"
+					item: "boss_tools:compressor"
+				}
+				{
+					id: "0B2D66490EADE1F3"
+					type: "item"
+					item: "boss_tools:rocket_launch_pad"
+				}
+				{
+					id: "3813AD542044C82D"
+					type: "item"
+					item: "boss_tools:fuel_bucket"
+				}
+				{
+					id: "6ACED99F9F6B30F3"
+					type: "item"
+					item: {
+						id: "boss_tools:rocket_t1"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+			rewards: [{
+				id: "34DD7181CF47542B"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "宇航服与氧气"
+			x: 11.5d
+			y: 5.0d
+			description: [
+				"使用氧气罐给宇航服充能"
+				"进入火箭 空格升空"
+				"PS：出发前 关闭光影  获得最佳体验"
+				"光影会覆盖天空盒  星体"
+			]
+			dependencies: ["6F8CB3FDE64F614C"]
+			dependency_requirement: "one_completed"
+			id: "2B3CC9CE64F4A153"
+			tasks: [
+				{
+					id: "2574CD1B679060A6"
+					type: "item"
+					item: {
+						id: "boss_tools:space_suit"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "2C65FC0DF6991E44"
+					type: "item"
+					item: {
+						id: "boss_tools:space_pants"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "4E07E3AF7A9C0F98"
+					type: "item"
+					item: {
+						id: "boss_tools:oxygen_mask"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7320D61564539EE0"
+					type: "item"
+					item: {
+						id: "boss_tools:space_boots"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "7B9F78BB3294B2BD"
+					type: "item"
+					item: "boss_tools_giselle_addon:oxygen_can"
+				}
+				{
+					id: "4AEA31824D0736A5"
+					type: "item"
+					item: "boss_tools:fuel_refinery"
+				}
+			]
+			rewards: [{
+				id: "28F39E352E6E8B04"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "着陆月球"
+			icon: "boss_tools:flag_red"
+			x: 10.0d
+			y: 5.0d
+			subtitle: "方块人的一大步"
+			description: [
+				"探访月球住民地下基地"
+				"月球插上旗帜"
+				"与原住民友好交谈"
+				"火箭登录星球 按住空格缓降 否则箭毁人亡"
+			]
+			dependencies: ["2B3CC9CE64F4A153"]
+			id: "7418F9B64F4C5B96"
+			tasks: [
+				{
+					id: "5ABB23A9F707229B"
+					type: "checkmark"
+					title: "抵达月球太空站"
+				}
+				{
+					id: "4925947B4103D61D"
+					type: "item"
+					item: "boss_tools:flag_red"
+				}
+			]
+			rewards: [{
+				id: "18640EA6AF669865"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2
+			}]
+		}
+		{
+			title: "火星"
+			x: -0.5d
+			y: 8.0d
+			description: [
+				"造星球车"
+				"遥望星体 火卫二"
+			]
+			dependencies: ["7418F9B64F4C5B96"]
+			id: "4F00772E453A6CDE"
+			tasks: [
+				{
+					id: "0FAF74A6A8E2DCBF"
+					type: "checkmark"
+					title: "水星"
+				}
+				{
+					id: "7224B19E03B0A262"
+					type: "item"
+					item: {
+						id: "boss_tools:rover"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "7C1CFDFC3F8DB917"
+					type: "item"
+					item: {
+						id: "boss_tools:rocket_t2"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+			rewards: [{
+				id: "0819C6B75395230F"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2
+			}]
+		}
+		{
+			x: -1.0d
+			y: -6.5d
+			dependencies: ["4F00772E453A6CDE"]
+			id: "6BF6DFCAAE27CF35"
+			tasks: [{
+				id: "60105AB73735AF13"
+				type: "checkmark"
+				title: "金星"
+			}]
+			rewards: [{
+				id: "79D1DDDDF7C96FA5"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "水星"
+			x: 8.0d
+			y: -6.0d
+			dependencies: ["6BF6DFCAAE27CF35"]
+			id: "34D9452492CFAA95"
+			tasks: [{
+				id: "60C67CFFDE6DBD5C"
+				type: "checkmark"
+				title: "火星"
+			}]
+			rewards: [{
+				id: "24892F2893B37CB7"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 10.0d
+			y: 2.0d
+			description: ["太空站俯瞰地球"]
+			dependencies: ["34D9452492CFAA95"]
+			id: "384268472FB41BE8"
+			tasks: [{
+				id: "2BE337764CDA3E10"
+				type: "checkmark"
+				title: "地球太空站"
+			}]
+			rewards: [{
+				id: "52B4A78649BB1870"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "重返地球"
+			x: 11.5d
+			y: 3.5d
+			dependencies: ["384268472FB41BE8"]
+			id: "42FF7ED77FEC1BDF"
+			tasks: [{
+				id: "19542C4B406EA65E"
+				type: "checkmark"
+				title: "返回地球"
+			}]
+			rewards: [{
+				id: "6D4C9DC1F98764D8"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

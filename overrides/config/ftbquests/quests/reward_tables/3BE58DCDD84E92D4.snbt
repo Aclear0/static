@@ -1,0 +1,22 @@
+{
+	id: "3BE58DCDD84E92D4"
+	order_index: 57
+	title: "油"
+	loot_size: 1
+	rewards: [
+		{ item: "vehicle:gas_pump" }
+		{
+			item: {
+				id: "vehicle:industrial_fuel_drum"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						FluidName: "vehicle:fuelium"
+						Amount: 75000
+					}
+				}
+			}
+		}
+		{ item: "vehicle:fluid_pump" }
+	]
+}

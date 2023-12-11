@@ -1,0 +1,2470 @@
+[universal]
+	fade_in = "70"
+	fade_out = "160"
+	
+[[26]]
+    [26.trigger]
+        name = "menu"
+		
+[[34]]
+    chance = "150"
+    [34.trigger]
+        name = "menu"
+
+[[41]]
+    [41.trigger]
+        name = "menu"
+
+[[56]]
+    [56.trigger]
+        name = "menu"
+
+[[79]]
+    [79.trigger]
+        name = "menu"
+
+[[84]]
+    chance = "150"
+    [84.trigger]
+        name = "menu"
+
+[[185]]
+    [185.trigger]
+        name = "menu"
+
+[[186]]
+    [186.trigger]
+        name = "menu"
+
+[[187]]
+    [187.trigger]
+        name = "menu"
+
+[[197]]
+    [197.trigger]
+        name = "menu"	
+
+[[204]]
+    [204.trigger]
+        name = "menu"
+
+[[216]]
+    [216.trigger]
+        name = "menu"	
+
+[[246]]
+    chance = "150"
+    [246.trigger]
+        name = "menu"		
+
+[[287]]
+    [287.trigger]
+        name = "menu"		
+
+[[289]]
+    [289.trigger]
+        name = "menu"			
+
+[[1a]]
+    [1a.trigger]
+        name = "generic"
+        fade_in = "200"
+        fade_out = "100"
+        delay = "100"
+		
+      
+[[2a]]
+    [2a.trigger]
+        name = "generic"
+		
+[[3a]]
+    [3a.trigger]
+        name = "generic"
+
+[[6a]]
+    [6a.trigger]
+        name = "generic"
+
+[[8a]]
+    [8a.trigger]
+        name = "generic"
+
+[[9a]]
+    [9a.trigger]
+        name = "generic"
+
+[[10a]]
+    [10a.trigger]
+        name = "generic"
+
+[[17a]]
+    [17a.trigger]
+        name = "generic"
+
+[[19a]]
+    [19a.trigger]
+        name = "generic"
+
+[[21a]]
+    [21a.trigger]
+        name = "generic"
+
+
+[[26a]]
+    [26a.trigger]
+        name = "generic"
+
+
+[[38a]]
+    [38a.trigger]
+        name = "generic"
+
+[[40a]]
+    [40a.trigger]
+        name = "generic"
+
+[[41a]]
+    [41a.trigger]
+        name = "generic"
+
+[[42a]]
+    [42a.trigger]
+        name = "generic"
+
+[[44a]]
+    [44a.trigger]
+        name = "generic"
+
+[[47a]]
+    [47a.trigger]
+        name = "generic"
+
+[[54a]]
+    [54a.trigger]
+        name = "generic"
+
+[[56a]]
+    [56a.trigger]
+        name = "generic"
+
+[[61a]]
+    [61a.trigger]
+        name = "generic"
+
+[[65a]]
+    [65a.trigger]
+        name = "generic"
+
+[[66a]]
+    [66a.trigger]
+        name = "generic"
+
+[[72a]]
+    [72a.trigger]
+        name = "generic"
+
+[[79a]]
+    [79a.trigger]
+        name = "generic"
+
+[[84a]]
+    [84a.trigger]
+        name = "generic"
+
+[[86a]]
+    [86a.trigger]
+        name = "generic"
+
+[[92a]]
+    [92a.trigger]
+        name = "generic"
+
+[[94a]]
+    [94a.trigger]
+        name = "generic"
+
+[[96a]]
+    [96a.trigger]
+        name = "generic"
+
+[[164a]]
+    [164a.trigger]
+        name = "generic"
+
+[[170a]]
+    [170a.trigger]
+        name = "generic"		
+		
+[[176a]]
+    [176a.trigger]
+        name = "generic"
+
+[[178a]]
+    [178a.trigger]
+        name = "generic"
+
+[[186a]]
+    [186a.trigger]
+        name = "generic"
+
+[[187a]]
+    [187a.trigger]
+        name = "generic"
+
+[[190a]]
+    [190a.trigger]
+        name = "generic"
+
+[[200a]]
+    [200a.trigger]
+        name = "generic"
+
+[[201a]]
+    [201a.trigger]
+        name = "generic"
+
+[[204a]]
+    [204a.trigger]
+        name = "generic"
+
+[[215a]]
+    [215a.trigger]
+        name = "generic"
+
+[[219a]]
+    [219a.trigger]
+        name = "generic"
+		
+		
+[[50]]
+    must_finish = "true"
+    [50.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+		
+[[56]]
+    must_finish = "true"
+    [56.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+
+[[62]]
+    must_finish = "true"
+    [62.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+
+[[70]]
+    must_finish = "true"
+    [70.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+
+[[72]]
+    must_finish = "true"
+    [72.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+
+[[80]]
+    must_finish = "true"
+    [80.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+
+[[84]]
+    must_finish = "true"
+    [84.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+
+[[87]]
+    must_finish = "true"
+    [87.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+
+[[102]]
+    must_finish = "true"
+    [102.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+
+[[187]]
+    must_finish = "true"
+    [187.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"	
+		
+[[201]]
+    must_finish = "true"
+    [201.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+
+[[204]]
+    must_finish = "true"
+    [204.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"			
+		
+[[207]]
+    must_finish = "true"
+    [207.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"
+
+[[213]]
+    must_finish = "true"
+    [213.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"	
+
+[[247]]
+    must_finish = "true"
+    [247.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"			
+
+[[291]]
+    must_finish = "true"
+    [291.trigger]
+        name = "time"
+        priority = "50"
+        start = "sunrise"
+        identifier = "sr"
+		fade_out = "200"	
+		
+[[0]]
+    [0.trigger]
+        name = "time"
+        priority = "900"
+        start = "14"
+        identifier = "nt"
+		end = "23"
+		delay = "200"
+		
+[[30]]
+    [[30.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"	
+		
+
+[[30]]
+    [[30.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"	
+		
+[[40]]
+    [[40.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"			
+
+[[41]]
+    [[41.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"	
+		
+[[42]]
+    [[42.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"			
+
+		
+[[64]]
+    [[64.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"	
+
+[[75]]
+    [[75.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"		
+
+[[78]]
+    [[78.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"	
+		
+[[79]]
+    [[79.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"			
+		
+[[83]]
+    [[83.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"			
+
+[[84]]
+    [[84.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"	
+				
+
+[[102]]
+    [[102.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"	
+		
+[[129]]
+    [[129.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"		
+
+[[187]]
+    [[187.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"	
+				
+
+[[292]]
+    [[292.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"			
+		
+[[299]]
+    [[299.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"		
+
+[[168]]
+    [[168.trigger]]
+        name = "riding"
+        priority = "750"
+        time = "300"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+		identifier = "ride"			
+		
+[[105]]
+    [[105.trigger]]
+        name = "riding"
+        priority = "752"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-river"		
+
+    [[105.trigger]]
+        name = "biome"
+        resource_name = "minecraft:river"
+		priority = "1"
+	    identifier = "river"	
+		
+[[102]]
+    [[102.trigger]]
+        name = "riding"
+        priority = "752"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-river"		
+
+    [[102.trigger]]
+        name = "biome"
+        resource_name = "minecraft:river"
+		priority = "1"
+	    identifier = "river"			
+		
+[[143]]
+    [[143.trigger]]
+        name = "riding"
+        priority = "752"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-river"		
+
+    [[143.trigger]]
+        name = "biome"
+        resource_name = "minecraft:river"
+		priority = "1"
+	    identifier = "river"	
+
+[[238]]
+    [[238.trigger]]
+        name = "riding"
+        priority = "752"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-river"		
+
+    [[238.trigger]]
+        name = "biome"
+        resource_name = "minecraft:river"
+		priority = "1"
+	    identifier = "river"			
+		
+[[292]]
+    [[292.trigger]]
+        name = "riding"
+        priority = "752"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-river"		
+
+    [[292.trigger]]
+        name = "biome"
+        resource_name = "minecraft:river"
+		priority = "1"
+	    identifier = "river"			
+
+[[95]]
+    [[95.trigger]]
+        name = "riding"
+        priority = "751"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-ocean"		
+
+    [[95.trigger]]
+        name = "biome"
+        biome_category = "ocean"
+		priority = "1"	
+        identifier = "ocean"
+
+[[102]]
+    [[102.trigger]]
+        name = "riding"
+        priority = "751"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-ocean"		
+
+    [[102.trigger]]
+        name = "biome"
+        biome_category = "ocean"
+		priority = "1"	
+        identifier = "ocean"		
+		
+[[105]]
+    [[105.trigger]]
+        name = "riding"
+        priority = "751"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-ocean"		
+
+    [[105.trigger]]
+        name = "biome"
+        biome_category = "ocean"
+		priority = "1"	
+        identifier = "ocean"
+		
+[[135]]
+    [[135.trigger]]
+        name = "riding"
+        priority = "751"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-ocean"		
+
+    [[135.trigger]]
+        name = "biome"
+        biome_category = "ocean"
+		priority = "1"	
+        identifier = "ocean"
+
+[[143]]
+    [[143.trigger]]
+        name = "riding"
+        priority = "751"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-ocean"		
+
+    [[143.trigger]]
+        name = "biome"
+        biome_category = "ocean"
+		priority = "1"	
+        identifier = "ocean"
+
+[[238]]
+    [[238.trigger]]
+        name = "riding"
+        priority = "751"
+        time = "500"
+        fade_out = "200"
+        fade_in = "200"		
+	    delay = "220"
+        identifier = "ri-ocean"		
+
+    [[238.trigger]]
+        name = "biome"
+        biome_category = "ocean"
+		priority = "1"	
+        identifier = "ocean"		
+		
+
+		
+
+[[4b]]
+    [4b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[5b]]
+    [5b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[9b]]
+    [9b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[12b]]
+    [12b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[13b]]
+    [13b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[29b]]
+    [29b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+		
+[[233b]]
+    [233b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"		
+						
+[[43b]]
+    [43b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[44b]]
+    [44b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[45b]]
+    [45b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[48b]]
+    [48b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[53b]]
+    [53b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[55b]]
+    [55b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[63b]]
+    [63b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[65b]]
+    [65b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[71b]]
+    [71b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[80b]]
+    [80b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[98b]]
+    [98b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[123b]]
+    [123b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[126b]]
+    [126b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[130b]]
+    [130b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[153b]]
+    [153b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[163b]]
+    [163b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[172b]]
+    [172b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[202b]]
+    [202b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[203b]]
+    [203b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[206b]]
+    [206b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[209b]]
+    [209b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[211b]]
+    [211b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[216b]]
+    [216b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[240b]]
+    [240b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[241b]]
+    [241b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[246b]]
+    [246b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[256b]]
+    [256b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[287b]]
+    [287b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[289b]]
+    [289b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+[[296b]]
+    [296b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+						
+[[298b]]
+    [298b.trigger]
+        name = "raining"
+        priority = "768"
+        delay = "300"
+
+
+[[4b]]
+    [4b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"
+		
+[[5b]]
+    [5b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"		
+		
+[[50b]]
+    [50b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"
+		
+[[55b]]
+    [55b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"	
+
+[[60b]]
+    [60b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"
+		
+[[73b]]
+    [73b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"	
+
+[[103b]]
+    [103b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"
+		
+[[106b]]
+    [106b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"	
+
+[[152b]]
+    [152b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"
+		
+[[171b]]
+    [171b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"	
+
+[[172b]]
+    [172b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"
+		
+[[181b]]
+    [181b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"		
+
+[[189b]]
+    [189b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"				
+		
+[[221b]]
+    [221b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"
+		
+[[231b]]
+    [231b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"	
+
+[[232b]]
+    [232b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"
+		
+[[240b]]
+    [240b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"		
+
+[[252b]]
+    [252b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"		
+
+[[261b]]
+    [261b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"
+		
+[[262b]]
+    [262b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"	
+
+[[264b]]
+    [264b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"
+		
+[[287b]]
+    [287b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"		
+
+[[298b]]
+    [298b.trigger]
+        name = "dimension"
+		priority = "1050"
+		resource_name = "the_end"
+        identifier = "end"				
+		
+
+		
+[[15b]]
+    [15b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"		
+		
+[[25b]]
+    [25b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"	
+		
+[[57b]]
+    [57b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"		
+		
+[[59b]]
+    [59b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"	
+
+[[99b]]
+    [99b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"		
+		
+[[25b]]
+    [25b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"	
+
+[[109b]]
+    [109b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"		
+		
+[[113b]]
+    [113b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"	
+
+[[137b]]
+    [137b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"		
+		
+[[138b]]
+    [138b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"	
+
+[[158b]]
+    [158b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"		
+		
+[[166b]]
+    [166b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"	
+
+[[177b]]
+    [177b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"		
+		
+[[180b]]
+    [180b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"	
+
+[[220b]]
+    [220b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"		
+		
+[[249b]]
+    [249b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"	
+
+[[276b]]
+    [276b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"		
+		
+[[282b]]
+    [282b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"	
+		
+[[182b]]
+    [182b.trigger]
+        name = "dimension"
+		priority = "1051"
+		resource_name = "the_nether"
+        identifier = "nether2"			
+		
+[[111b]]
+    [111b.trigger]
+        name = "dimension"
+		priority = "1200"
+		resource_name = "tropicraft:tropics"
+        identifier = "tropics"		
+
+[[8b]]
+    [[8b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[35b]]
+    [[35b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[37b]]
+    [[37b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"		
+		
+[[104]]
+    [[104.trigger]]
+        name = "structure"
+        priority = "1204"
+        identifier = "trop-village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "tropicraft:koa_village"		
+		
+[[40b]]
+    [[40b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[41b]]
+    [[41b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[42b]]
+    [[42b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"		
+
+[[44b]]
+    [[44b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[47b]]
+    [[47b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[49b]]
+    [[49b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"		
+
+[[52b]]
+    [[52b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[54b]]
+    [[54b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[58b]]
+    [[58b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"		
+
+[[61b]]
+    [[61b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[79b]]
+    [[79b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[83b]]
+    [[83b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"		
+
+[[84b]]
+    [[84b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[86b]]
+    [[86b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[90b]]
+    [[90b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"		
+
+[[92b]]
+    [[92b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[93b]]
+    [[93b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[94b]]
+    [[94b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"		
+
+[[96b]]
+    [[96b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[97b]]
+    [[97b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[100b]]
+    [[100b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"		
+
+[[168b]]
+    [[168b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[170b]]
+    [[170b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[178b]]
+    [[178b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"				
+		
+[[187b]]
+    [[187b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[190b]]
+    [[190b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+
+[[208b]]
+    [[208b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"				
+		
+[[297b]]
+    [[297b.trigger]]
+        name = "structure"
+        priority = "25"
+        identifier = "village"
+		time = "250"		
+		delay = "100"		
+		resource_name = "minecraft:village"
+		
+[[231b]]
+    [231b.trigger]
+        name = "dimension"
+		priority = "1058"
+		resource_name = "boss_tools:mars"
+        identifier = "mars"
+		
+[[73b]]
+    [73b.trigger]
+        name = "dimension"
+		priority = "1059"
+		resource_name = "boss_tools:mercury"
+        identifier = "mercury"		
+
+[[171b]]
+    [171b.trigger]
+        name = "dimension"
+		priority = "1060"
+		resource_name = "boss_tools:venus"
+        identifier = "venus"	
+		
+[[293b]]
+    [293b.trigger]
+        name = "dimension"
+		priority = "1060"
+		resource_name = "boss_tools:overworld_orbit"
+        identifier = "earth-orbit"			
+
+
+[[292b]]
+    [292b.trigger]
+        name = "dimension"
+		priority = "1061"
+		resource_name = "boss_tools:moon"
+        identifier = "moon"				
+
+
+[[172b]]
+    [172b.trigger]
+        name = "dimension"
+		priority = "1062"
+		resource_name = "theabyss:frost_world"
+        identifier = "forst-wor"
+		fade_in = "10"
+		fade_out = "10"
+		
+[[106b]]
+    [106b.trigger]
+        name = "dimension"
+		priority = "1054"
+		resource_name = "theabyss:ground_lands"
+        identifier = "ab-groundlands"	
+        fade_in = "10"
+		fade_out = "10"
+		
+[[140]]
+    [140.trigger]
+        name = "dimension"
+		priority = "1055"
+		resource_name = "theabyss:dream"
+        identifier = "dream"	
+        fade_in = "10"
+		fade_out = "10"
+		
+[[249b]]
+    [249b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_0"
+        identifier = "back-0"	
+        fade_in = "10"
+		fade_out = "10"
+		
+[[276b]]
+    [276b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_0p_2"
+        identifier = "back-0p"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[180b]]
+    [180b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_1"
+        identifier = "back-1"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[220b]]
+    [220b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_1_corridor"
+        identifier = "back-1co"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[158b]]
+    [158b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_2"
+        identifier = "back-2"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[218]]
+    [218.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_3"
+        identifier = "back-3"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[15b]]
+    [15b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_4_lobby"
+        identifier = "back-4lo"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[140]]
+    [140.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_4"
+        identifier = "back-4"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[0]]
+    [0.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_5"
+        identifier = "back-5"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[248b]]
+    [248b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_5_lobby"
+        identifier = "back-5lo"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[282b]]
+    [282b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_6"
+        identifier = "back-6"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[124]]
+    [124.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_6p_1"
+        identifier = "back-6p"	
+        fade_in = "10"
+		fade_out = "10"
+
+[[309]]
+    [309.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:level_7"
+        identifier = "back-7"	
+        fade_in = "10"
+		fade_out = "10"		
+		
+[[171b]]
+    [171b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:on_board_train"
+        identifier = "back-train"	
+        fade_in = "10"
+		fade_out = "10"		
+
+[[182b]]
+    [182b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:the_end"
+        identifier = "back-end"	
+        fade_in = "10"
+		fade_out = "10"		
+
+[[0]]
+    [0.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:the_eternal_ballroom"
+        identifier = "back-ball"	
+        fade_in = "10"
+		fade_out = "10"		
+
+[[232b]]
+    [232b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:the_metro"
+        identifier = "back-metro"	
+        fade_in = "10"
+		fade_out = "10"		
+
+[[124]]
+    [124.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:the_poolrooms"
+        identifier = "back-pool"	
+        fade_in = "10"
+		fade_out = "10"		
+		
+		
+[[177b]]
+    [177b.trigger]
+        name = "dimension"
+		priority = "1030"
+		resource_name = "faithfulbackrooms:elevator_shaft"
+        identifier = "back-ele"	
+        fade_in = "10"
+		fade_out = "10"		
+
+		
+[[32]]
+    [32.trigger]
+        name = "dimension"
+		priority = "1056"
+		resource_name = "theabyss:radio"
+        identifier = "radio"			
+		fade_in = "10"
+		fade_out = "10"
+		
+		
+[[137]]
+    [137.trigger]
+        name = "dimension"
+		priority = "1057"
+		resource_name = "theabyss:the_abyss"
+        identifier = "abyss1"		
+		fade_in = "10"
+		fade_out = "10"
+		
+[[173]]
+    [[173.trigger]]
+        name = "mob"
+		detection_range = "30"
+		priority = "1150"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"
+			
+	[[173.trigger]]
+        name = "dimension"
+		identifier = "abyss1"			
+		
+[[265]]
+    [[265.trigger]]
+        name = "structure"
+        priority = "1300"
+        identifier = "endcity"
+		time = "100"		
+		delay = "10"		
+		resource_name = "minecraft:endcity"		
+		
+		
+
+[[278]]
+    [[278.trigger]]
+        name = "structure"
+        priority = "1300"
+        identifier = "hexedprison"
+		time = "1000"		
+		delay = "100"		
+		resource_name = "netherhexedkingdom:hexed_prison;netherhexedkingdom:hexed_red_sun_tower;netherhexedkingdom:hexed_greed_mines;minecraft:fortress"		
+
+		
+[[164]]
+    [[164.trigger]]
+        name = "structure"
+        priority = "1300"
+        identifier = "bastion_remnant"
+		time = "200"		
+		delay = "100"		
+		resource_name = "minecraft:bastion_remnant "			
+
+[[6b]]
+     [6b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"		
+		
+[[23b]]
+     [23b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[41b]]
+     [41b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[42b]]
+     [42b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[44b]]
+     [44b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[47b]]
+     [47b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[49b]]
+     [49b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[68b]]
+     [68b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[58b]]
+     [58b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[69b]]
+     [69b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[75b]]
+     [75b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[168b]]
+     [168b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"			
+		
+[[176b]]
+     [176b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[190b]]
+     [190b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"	
+
+[[195b]]
+     [195b.trigger]
+        name = "biome"
+        priority = "20"
+        fade_out = "100"
+        resource_name = "byg:rose_fields;biomesoplenty:lavender_field;byg:allium_fields"
+        identifier = "bio-flower"			
+					
+
+	
+[[152b]]
+[[152b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:badlands;terragorged:bryce;minecraft:desert;minecraft:desert_hills;biomesoplenty:lush_desert;byg:mojave_desert;byg:red_desert;byg:red_desert_dunes;byg:lush_red_desert;byg:warped_desert;byg:quartz_desert;byg:shattered_desert;byg:shattered_desert_isles;minecraft:wooded_badlands_plateau;minecraft:badlands_plateau;minecraft:eroded_badlands;minecraft:modified_wooded_badlands_plateau;minecraft:modified_badlands_plateau"
+		priority = "19"	
+        identifier = "desertandbadland"	
+		fade_out = "100"	
+        time = "300"
+		
+[[160b]]
+[[160b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:badlands;terragorged:bryce;minecraft:desert;minecraft:desert_hills;biomesoplenty:lush_desert;byg:mojave_desert;byg:red_desert;byg:red_desert_dunes;byg:lush_red_desert;byg:warped_desert;byg:quartz_desert;byg:shattered_desert;byg:shattered_desert_isles;minecraft:wooded_badlands_plateau;minecraft:badlands_plateau;minecraft:eroded_badlands;minecraft:modified_wooded_badlands_plateau;minecraft:modified_badlands_plateau"
+		priority = "19"	
+        identifier = "desertandbadland"	
+		fade_out = "100"			
+		time = "300"
+		
+[[221b]]
+[[221b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:badlands;terragorged:bryce;minecraft:desert;minecraft:desert_hills;biomesoplenty:lush_desert;byg:mojave_desert;byg:red_desert;byg:red_desert_dunes;byg:lush_red_desert;byg:warped_desert;byg:quartz_desert;byg:shattered_desert;byg:shattered_desert_isles;minecraft:wooded_badlands_plateau;minecraft:badlands_plateau;minecraft:eroded_badlands;minecraft:modified_wooded_badlands_plateau;minecraft:modified_badlands_plateau"
+		priority = "19"	
+        identifier = "desertandbadland"	
+		fade_out = "100"			
+		time = "300"		
+		
+[[239b]]
+    chance = "120"
+[[239b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:badlands;terragorged:bryce;minecraft:desert;minecraft:desert_hills;biomesoplenty:lush_desert;byg:mojave_desert;byg:red_desert;byg:red_desert_dunes;byg:lush_red_desert;byg:warped_desert;byg:quartz_desert;byg:shattered_desert;byg:shattered_desert_isles;minecraft:wooded_badlands_plateau;minecraft:badlands_plateau;minecraft:eroded_badlands;minecraft:modified_wooded_badlands_plateau;minecraft:modified_badlands_plateau"
+		priority = "19"	
+        identifier = "desertandbadland"	
+		fade_out = "100"			
+		time = "300"	
+
+[[159b]]    
+[[159b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:badlands;terragorged:bryce;minecraft:desert;minecraft:desert_hills;biomesoplenty:lush_desert;byg:mojave_desert;byg:red_desert;byg:red_desert_dunes;byg:lush_red_desert;byg:warped_desert;byg:quartz_desert;byg:shattered_desert;byg:shattered_desert_isles;minecraft:wooded_badlands_plateau;minecraft:badlands_plateau;minecraft:eroded_badlands;minecraft:modified_wooded_badlands_plateau;minecraft:modified_badlands_plateau"
+		priority = "19"	
+        identifier = "desertandbadland"	
+		fade_out = "100"			
+		time = "300"			
+		
+[[131b]]		
+[[131b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"		
+		
+[[131b]]		
+[[131b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"		
+		
+[[161b]]		
+[[161b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"		
+
+[[163b]]		
+[[163b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"			
+		
+[[164b]]		
+[[164b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"		
+
+[[172b]]		
+[[172b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"	
+
+[[205b]]		
+[[205b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"
+
+[[206b]]		
+[[206b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"		
+		
+[[221b]]		
+[[221b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"			
+		
+[[222b]]		
+[[222b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"	
+
+[[223b]]		
+[[223b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"			
+		
+[[240b]]		
+[[240b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"		
+		
+[[241b]]		
+[[241b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"	
+
+[[261b]]		
+[[261b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"		
+
+[[287b]]		
+[[287b.trigger]]
+        name = "biome"
+        resource_name = "minecraft:frozen_ocean;minecraft:ice_spikes;minecraft:snowy_tundra;minecraft:snowy_taiga;byg:frozen_lake;terraforged:frozen_lake;terraforged:frozen_marsh;minecraft:frozen_river;minecraft:deep_frozen_ocean;minecraft:snowy_mountains;minecraft:snowy_beach;minecraft:snowy_taiga_hills;biomesoplenty:snowy_coniferous_forest;biomesoplenty:snowy_maple_forest;biomesoplenty:snowy_fir_clearing;minecraft:snowy_taiga_mountains;byg:snowy_blue_taiga;byg:snowy_coniferous_forest;byg:snowy_deciduous_forest;byg:snowy_evergreen_taiga;byg:snowy_evergreen_clearing;byg:snowy_evergreen_hills;byg:snowy_coniferous_clearing;byg:snowy_deciduous_clearing;byg:snowy_blue_giant_taiga;byg:snowy_blue_taiga_hills;byg:snowy_coniferous_forest_hills;byg:snowy_deciduous_forest_hills;byg:snowy_rocky_black_beach;byg:snowy_black_beach;terraforged:snowy_fir_forest;terraforged:snowy_taiga_scrub"
+		priority = "19"	
+        identifier = "icyandsnow"		
+      	fade_out = "100"
+        time = "300"		
+		
+[[184]]
+    [[184.trigger]]
+        name = "structure"
+        priority = "1300"
+        identifier = "castle-sky"
+		time = "200"		
+		delay = "100"		
+		resource_name = "castle_in_the_sky:castle_in_the_sky"	
+
+[[0]]
+    [[0.trigger]]		
+        name = "height"
+        priority = "900"
+        identifier = "under"
+		fade_in = "100"
+        fade_out = "200"
+		delay = "200"
+        level= "55"
+		is_underground = "true"		
+		time= "400"
+		
+[[14]]
+    [[14.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"		
+		
+		
+[[244]]
+    [[244.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"				
+		
+		
+[[27]]
+    [[27.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"	
+
+[[46]]
+    [[46.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"	
+
+[[57]]
+    [[57.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"	
+
+[[91]]
+    [[91.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"	
+
+[[101]]
+    [[101.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"			
+		
+[[110]]
+    [[110.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"		
+
+[[117]]
+    [[117.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"			
+		
+[[119]]
+    [[119.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"			
+
+[[175]]
+    [[175.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"		
+
+[[184]]
+    [[184.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"		
+
+[[243]]
+    [[243.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"			
+		
+[[275]]
+    [[275.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"		
+
+[[277]]
+    [[277.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"		
+
+[[280]]
+    [[280.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"		
+
+		
+		
+[[300]]
+    [[300.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1010"
+		resource_name = "BOSS"
+        identifier = "bossfight"	
+        time = "150"		
+		fade_out = "250"
+        fade_in = "100"
+		mob_targeting = "true"			
+		
+[[132]]
+    [[132.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1600"
+		resource_name = "BOSS"
+        identifier = "bossfight-end"	
+        time = "0"		
+		fade_out = "150"
+        fade_in = "50"
+		mob_targeting = "false"		
+
+    [[132.trigger]]
+        name = "dimension"
+		identifier = "end"	
+		priority = "1"
+		
+[[108]]
+    [[108.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1600"
+		resource_name = "BOSS"
+        identifier = "bossfight-end"	
+        time = "0"		
+		fade_out = "150"
+        fade_in = "50"
+		mob_targeting = "false"		
+
+    [[108.trigger]]
+        name = "dimension"
+		identifier = "end"	
+		priority = "1"		
+		
+[[165]]
+    chance = "150"
+    [[165.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1600"
+		resource_name = "BOSS"
+        identifier = "bossfight-end"	
+        time = "0"		
+		fade_out = "150"
+        fade_in = "50"
+		mob_targeting = "false"		
+
+    [[165.trigger]]
+        name = "dimension"
+		identifier = "end"	
+		priority = "1"		
+       				
+[[174]]
+    [[174.trigger]]
+        name = "mob"
+		detection_range = "20"
+		priority = "1600"
+		resource_name = "BOSS"
+        identifier = "bossfight-end"	
+        time = "0"		
+		fade_out = "150"
+        fade_in = "50"
+		mob_targeting = "false"		
+
+    [[174.trigger]]
+        name = "dimension"
+		identifier = "end"	
+		priority = "1"					
+		
+		
+
+		

@@ -1,0 +1,45 @@
+{
+	id: "403CE5BDA5B4CF19"
+	order_index: 16
+	title: "16"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:chaise_dw" }
+		{ item: "minecraftmodernxl:chaise_lw" }
+		{ item: "minecraftmodernxl:chaise_grey" }
+		{ item: "minecraftmodernxl:chaise_white" }
+		{ item: "minecraftmodernxl:chaise_white_dw" }
+		{ item: "minecraftmodernxl:chaise_white_lw" }
+		{ item: "minecraftmodernxl:chaise_grey_lw" }
+		{ item: "minecraftmodernxl:chaise_grey_dw" }
+		{ item: "minecraftmodernxl:armchair_white_0" }
+		{ item: "minecraftmodernxl:armchair_white_45" }
+		{ item: "minecraftmodernxl:armchair_bleu_0" }
+		{ item: "minecraftmodernxl:armchair_bleu_45" }
+		{ item: "minecraftmodernxl:armchair_green_0" }
+		{ item: "minecraftmodernxl:armchair_green_45" }
+		{ item: "minecraftmodernxl:armchair_rouge_0" }
+		{ item: "minecraftmodernxl:armchair_rouge_45" }
+		{ item: "minecraftmodernxl:armchair_rose_0" }
+		{ item: "minecraftmodernxl:armchair_rose_45" }
+		{ item: "minecraftmodernxl:armchair_orange_0" }
+		{ item: "minecraftmodernxl:armchair_orange_45" }
+		{ item: "minecraftmodernxl:armchair_jaune_0" }
+		{ item: "minecraftmodernxl:armchair_jaune_0" }
+		{ item: "minecraftmodernxl:armchair_jaune_45" }
+		{ item: "minecraftmodernxl:armchair_noire_0" }
+		{ item: "minecraftmodernxl:armchair_noire_45" }
+		{ item: "minecraftmodernxl:armchair_marron_0" }
+		{ item: "minecraftmodernxl:armchair_marron_45" }
+		{ item: "minecraftmodernxl:modern_armchair_dw" }
+		{ item: "minecraftmodernxl:modern_armchair_grey" }
+		{ item: "minecraftmodernxl:modern_armchair_lw" }
+		{ item: "minecraftmodernxl:modern_armchair_45_dw" }
+		{ item: "minecraftmodernxl:modern_armchair_45_grey" }
+		{ item: "minecraftmodernxl:modern_armchair_45_lw" }
+		{ item: "minecraftmodernxl:ultramodern_armchair_black" }
+		{ item: "minecraftmodernxl:ultramodern_armchair_turquoise" }
+		{ item: "minecraftmodernxl:ultramodern_armchair_jaune" }
+		{ item: "minecraftmodernxl:ultramodern_armchair_white" }
+	]
+}

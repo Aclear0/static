@@ -1,0 +1,15 @@
+{
+	id: "6E070B82AB1D00F3"
+	order_index: 9
+	title: "9"
+	loot_size: 1
+	rewards: [{
+		item: {
+			id: "simplycats:pet_carrier"
+			Count: 1b
+			tag: {
+				Damage: 3
+			}
+		}
+	}]
+}

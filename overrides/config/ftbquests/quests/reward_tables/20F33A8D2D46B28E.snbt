@@ -1,0 +1,127 @@
+{
+	id: "20F33A8D2D46B28E"
+	order_index: 60
+	title: "铁路"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "msd:catenary_connector"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "msd:electric_connector"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "msd:catenary_remover"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "msd:rigid_catenary_connector"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "msd:rigid_soft_catenary_connector"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{ item: "msd:catenary_pole_top_side" }
+		{ item: "msd:catenary_pole_top_middle" }
+		{ item: "msd:catenary_pole" }
+		{
+			item: {
+				id: "msd:catenary_remover"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "msd:rigid_catenary_remover"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{ item: "msd:model_change_stick" }
+		{ item: "msd:railing_stair" }
+		{ item: "msd:railing_stair_end" }
+		{ item: "msd:railing_stair_end_mirror" }
+		{ item: "msd:railing_stair_flat" }
+		{ item: "msd:railing_stair_mirror" }
+		{ item: "msd:railing_stair_start" }
+		{ item: "msd:railing_stair_start_mirror" }
+		{ item: "msd:yuuni_pids" }
+		{ item: "msd:yuuni_pids_pole" }
+		{ item: "msd:yamanote_4_pids" }
+		{ item: "msd:yamanote_5_pids" }
+		{ item: "msd:yamanote_6_pids" }
+		{ item: "msd:yamanote_7_pids" }
+		{ item: "msd:yamanote_railway_sign_2_even" }
+		{ item: "msd:yamanote_railway_sign_2_odd" }
+		{ item: "msd:yamanote_railway_sign_3_even" }
+		{ item: "msd:yamanote_railway_sign_3_odd" }
+		{ item: "msd:yamanote_railway_sign_4_even" }
+		{ item: "msd:yamanote_railway_sign_4_odd" }
+		{ item: "msd:yamanote_railway_sign_5_even" }
+		{ item: "msd:yamanote_railway_sign_5_odd" }
+		{ item: "msd:yamanote_railway_sign_6_even" }
+		{ item: "msd:yamanote_railway_sign_6_odd" }
+		{ item: "msd:yamanote_railway_sign_7_even" }
+		{ item: "msd:yamanote_railway_sign_7_odd" }
+		{ item: "msd:yamanote_railway_sign_pole" }
+		{ item: "msd:surveillance_cameras" }
+		{ item: "msd:surveillance_cameras_wall" }
+		{ item: "msd:hall_seat_side" }
+		{ item: "msd:hall_seat_middle" }
+		{ item: "msd:hall_seat_side_mirror" }
+		{ item: "msd:catenary_rack_pole" }
+		{ item: "msd:catenary_rack_pole_both_side" }
+		{ item: "msd:catenary_rack_side" }
+		{ item: "msd:catenary_rack_both_side" }
+		{ item: "msd:catenary_rack_2" }
+		{ item: "msd:catenary_rack_1" }
+		{ item: "msd:catenary_node" }
+		{ item: "msd:catenary_node_style_2" }
+		{ item: "msd:short_catenary_rack_pole" }
+		{ item: "msd:short_catenary_rack_pole_both_side" }
+		{ item: "msd:short_catenary_rack_side" }
+		{ item: "msd:short_catenary_rack_both_side" }
+		{ item: "msd:short_catenary_rack" }
+		{ item: "msd:short_catenary_node" }
+		{ item: "msd:short_catenary_node_style_2" }
+		{ item: "msd:rigid_catenary_node" }
+		{
+			item: {
+				id: "msd:electric_connector"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{ item: "msd:electric_pole_top_side" }
+		{ item: "msd:electric_pole_top_both_side" }
+		{ item: "msd:electric_pole_side" }
+		{ item: "msd:electric_pole_another_side" }
+		{ item: "msd:electric_node" }
+		{ item: "msd:laptop" }
+		{ item: "msd:decoration_book" }
+		{ item: "msd:display_board_horizontal" }
+		{ item: "msd:display_board_vertically" }
+		{ item: "msd:yuuni_ticket" }
+		{ item: "msd:ceiling_double" }
+		{ item: "msd:ceiling_double_light" }
+	]
+}

@@ -1,0 +1,441 @@
+{
+	id: "05D245A17E9DDFCA"
+	group: "036E079C15F2B292"
+	order_index: 1
+	filename: "05D245A17E9DDFCA"
+	title: "杂项商店"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "女仆契约 ¥88"
+			icon: "touhou_little_maid:smart_slab_init"
+			x: 4.0d
+			y: -3.0d
+			id: "787BA194FCB02320"
+			tasks: [{
+				id: "540D326156FBA7A8"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 88L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "73EDD88A893E857C"
+				type: "questsadditions:repeat"
+				icon: "touhou_little_maid:smart_slab_init"
+				table_id: 4226541278836277116L
+			}]
+		}
+		{
+			title: "抓钩 ¥5"
+			icon: {
+				id: "grapple_hooks:hook_iron"
+				Count: 1b
+				tag: {
+					Damage: 0
+				}
+			}
+			x: 4.0d
+			y: -2.0d
+			id: "7DC3E541DCC46582"
+			tasks: [{
+				id: "5B8A4C1C6787F7CA"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "29BE99860BD93D7F"
+				type: "item"
+				item: {
+					id: "grapple_hooks:hook_iron"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			title: "传送装置 ¥10"
+			icon: "teleportmod:teleport"
+			x: -1.0d
+			y: -3.0d
+			id: "02CD173D67AE7AB3"
+			tasks: [{
+				id: "3B619817F54D79C6"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "109BC2C528FB0DB3"
+				type: "questsadditions:repeat"
+				icon: "teleportmod:teleport"
+				table_id: 4320171325276559301L
+			}]
+		}
+		{
+			title: "椰林飘香 ¥3（拓展）"
+			icon: "tropicraft:pina_colada"
+			x: 2.0d
+			y: 1.5d
+			id: "23902FD4109E5390"
+			tasks: [{
+				id: "5F01D400B2691955"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "59FEDF8FD9ABED01"
+				type: "questsadditions:repeat"
+				icon: "tropicraft:pina_colada"
+				table_id: 9122385706316123116L
+			}]
+		}
+		{
+			title: "猫咪领养 ¥8"
+			icon: "yuushya:siamese"
+			x: 2.0d
+			y: -3.0d
+			id: "560A4C711F186AF2"
+			tasks: [{
+				id: "39851303276EBAA2"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 8L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0EF4690EBAB31503"
+				type: "questsadditions:repeat"
+				icon: {
+					id: "simplycats:pet_carrier"
+					Count: 1b
+					tag: {
+						Damage: 3
+					}
+				}
+				table_id: 7928318324853506291L
+			}]
+		}
+		{
+			title: "主世界水晶球 ¥1"
+			icon: "dimension_crystals:dimension_overworld"
+			x: 1.0d
+			y: -2.0d
+			shape: "diamond"
+			id: "5BE812F8B96B103E"
+			tasks: [{
+				id: "666707D0C61682BD"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "712C152902B6AF55"
+				type: "questsadditions:repeat"
+				icon: "dimension_crystals:dimension_overworld"
+				table_id: 2607732120215167214L
+			}]
+		}
+		{
+			title: "果汁 ¥1"
+			icon: "minecraftmodernxl:apple_juice"
+			x: 1.0d
+			y: 1.5d
+			id: "0E7D6D6E15730382"
+			tasks: [{
+				id: "20B0D6D3FAE36378"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "49D0A203BCC6C1D7"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraftmodernxl:melon_juice"
+				table_id: 537120302653980607L
+			}]
+		}
+		{
+			title: "高压电线塔 组件 ¥1"
+			icon: "tower:towertop"
+			x: 3.0d
+			y: -3.0d
+			id: "292FF20068E6A4BA"
+			tasks: [{
+				id: "3FE0A7839089C6D5"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0C4DEFACB9DCD85E"
+				type: "questsadditions:repeat_choice"
+				table_id: 4418649409057958636L
+			}]
+		}
+		{
+			title: "泥土/沙子/砂浆/沙砾 基础建材 ¥20/10组"
+			icon: "minecraft:sand"
+			x: -2.0d
+			y: -1.0d
+			id: "1354D5711A635C77"
+			tasks: [{
+				id: "3D61E92A64927AFD"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 20L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "54936DA8A71B6B1F"
+				type: "questsadditions:repeat_choice"
+				table_id: 6892346987297699623L
+			}]
+		}
+		{
+			title: "花艺  ¥4"
+			icon: "minecraft:blue_orchid"
+			x: -2.0d
+			y: -2.0d
+			id: "0B5A04F717578867"
+			tasks: [{
+				id: "0C9AA722EF0E0A12"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 4L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "7876A93DA5D40B5A"
+				type: "questsadditions:repeat_choice"
+				icon: "biomesoplenty:jacaranda_sapling"
+				table_id: 5634876248824307011L
+			}]
+		}
+		{
+			title: "羊毛"
+			icon: "minecraft:white_wool"
+			x: -1.0d
+			y: -1.0d
+			id: "04C7BA05F0778C22"
+			tasks: [{
+				id: "24E658A67E1FE246"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "19F169219D7D7383"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraft:white_wool"
+				table_id: 2470765249158207923L
+			}]
+		}
+		{
+			title: "混凝土"
+			icon: "minecraft:white_concrete"
+			x: 2.0d
+			y: -1.0d
+			id: "749858528A36ABF4"
+			tasks: [{
+				id: "3ACD3D213EFDBEA7"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "20DA0FE1FE5E9EF6"
+				type: "questsadditions:repeat_choice"
+				icon: "minecraft:white_concrete"
+				table_id: 8733321115848730796L
+			}]
+		}
+		{
+			title: "缓降药水50块"
+			icon: {
+				id: "minecraft:potion"
+				Count: 1b
+				tag: {
+					Potion: "minecraft:long_slow_falling"
+				}
+			}
+			x: 1.0d
+			y: -3.0d
+			id: "5E3DE21AFE5BAD08"
+			tasks: [{
+				id: "521096FB9BD8C6A4"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 50L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "710C038ECCBA10E9"
+				type: "questsadditions:repeat"
+				icon: {
+					id: "minecraft:potion"
+					Count: 1b
+					tag: {
+						Potion: "minecraft:long_slow_falling"
+					}
+				}
+				table_id: 5198323460284248889L
+			}]
+		}
+		{
+			title: "末地烛"
+			icon: "minecraft:end_rod"
+			x: 4.0d
+			y: -1.0d
+			id: "200855287C05AAB4"
+			tasks: [{
+				id: "5D7ED943A36A9984"
+				type: "item"
+				disable_toast: true
+				item: "nomisma:coin_4"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "719F02D1A913E7A2"
+				type: "questsadditions:repeat"
+				icon: "minecraft:end_rod"
+				table_id: 7324826415257877097L
+			}]
+		}
+		{
+			title: "深板岩"
+			icon: "graveyard:tg_deepslate"
+			x: 0.0d
+			y: -1.0d
+			id: "19723B3B1E192388"
+			tasks: [{
+				id: "275E747FA4BE5A44"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "05A6D6B1EF3243DE"
+				type: "questsadditions:repeat"
+				icon: "graveyard:tg_deepslate"
+				table_id: 5772032677905236425L
+			}]
+		}
+		{
+			title: "火药"
+			icon: "minecraft:gunpowder"
+			x: 3.0d
+			y: -1.0d
+			id: "7E3D825D56AC3EB3"
+			tasks: [{
+				id: "5363DA3BAA6327BC"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "0377A627D5528B4A"
+				type: "questsadditions:repeat"
+				table_id: 6058665535702047204L
+			}]
+		}
+		{
+			title: "加油设施"
+			icon: "vehicle:gas_pump"
+			x: -2.0d
+			y: -3.0d
+			id: "254C47311540CBFC"
+			tasks: [{
+				id: "6BB1A99CD55367BB"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 20L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "4FE36AB33BA94109"
+				type: "questsadditions:repeat"
+				table_id: 4316011733141328596L
+			}]
+		}
+		{
+			title: "三级火箭 899（拓展内容）"
+			icon: {
+				id: "boss_tools:rocket_t3"
+				Count: 1b
+				tag: { }
+			}
+			x: 0.0d
+			y: -3.0d
+			id: "0954A2E005D5753D"
+			tasks: [{
+				id: "289361E71107B9F4"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 899L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "7CE3A87C74AE923A"
+				type: "item"
+				item: {
+					id: "boss_tools:rocket_t3"
+					Count: 1b
+					tag: { }
+				}
+			}]
+		}
+		{
+			title: "钻石矿石  5"
+			icon: "minecraft:diamond_ore"
+			x: 1.0d
+			y: -1.0d
+			id: "53A5A55BE031DDB5"
+			tasks: [{
+				id: "3875CB1CBE26E073"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "7E478902F9F9F1EA"
+				type: "questsadditions:repeat"
+				icon: "minecraft:diamond_ore"
+				table_id: 1711866230314621251L
+			}]
+		}
+		{
+			title: "奶茶/咖啡/蛋糕/可放置食物装饰"
+			icon: "starcoffee:green_tea"
+			x: 0.0d
+			y: 1.5d
+			id: "28D3F3AAB9B548F9"
+			tasks: [{
+				id: "2AE53141E01A9FE6"
+				type: "item"
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "223BFC3B46370D46"
+				type: "questsadditions:repeat_choice"
+				icon: "starcoffee:green_tea"
+				table_id: 1670518582424403578L
+			}]
+		}
+	]
+}

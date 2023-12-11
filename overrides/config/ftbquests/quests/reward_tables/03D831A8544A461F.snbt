@@ -1,0 +1,8 @@
+{
+	id: "03D831A8544A461F"
+	order_index: 41
+	title: "一块钱"
+	icon: "nomisma:coin_4"
+	loot_size: 1
+	rewards: [{ item: "nomisma:coin_4" }]
+}

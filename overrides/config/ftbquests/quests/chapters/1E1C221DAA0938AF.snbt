@@ -1,0 +1,260 @@
+{
+	id: "1E1C221DAA0938AF"
+	group: "5B66817D09295111"
+	order_index: 0
+	filename: "1E1C221DAA0938AF"
+	title: "枪支"
+	icon: {
+		id: "tac:scar_l"
+		Count: 1b
+		tag: {
+			AmmoCount: 30
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 2.0d
+		y: -0.5d
+		width: 30.0d
+		height: 15.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/qiangzhi.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "恐惧源于火力不足"
+			x: 0.0d
+			y: -6.0d
+			shape: "diamond"
+			subtitle: "尝试制作你的第一把枪"
+			description: [
+				"制作枪械工作台 放置后制作枪和配件 给枪上配件  附魔"
+				"R换弹 Z配件页面  G切换射击模式（连发） H检视枪械模型"
+				"大量火药获取请制作漏斗生物笼 DNA采样提取恶魂"
+			]
+			size: 2.0d
+			id: "47A8A14271C72D4A"
+			tasks: [{
+				id: "7F357EBBF8CB4B70"
+				type: "item"
+				item: "tac:workbench"
+			}]
+			rewards: [{
+				id: "67F1359A81149A82"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "还记得开局的手枪吗"
+			x: 2.5d
+			y: -8.0d
+			dependencies: ["47A8A14271C72D4A"]
+			id: "02B97944D19BDF58"
+			tasks: [{
+				id: "1AAC9B953519B171"
+				type: "item"
+				item: {
+					id: "tac:tti_g34"
+					Count: 1b
+					tag: {
+						AmmoCount: 23
+					}
+				}
+			}]
+			rewards: [{
+				id: "594FEBEBB431DC63"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2
+			}]
+		}
+		{
+			title: "来点经典步枪"
+			x: 5.0d
+			y: -6.0d
+			shape: "diamond"
+			dependencies: [
+				"3B1C8E0CAF9B8F6F"
+				"02B97944D19BDF58"
+			]
+			dependency_requirement: "one_started"
+			id: "72B3475E17C7637F"
+			tasks: [{
+				id: "6C4A93245059E374"
+				type: "item"
+				item: {
+					id: "tac:ak47"
+					Count: 1b
+					tag: {
+						AmmoCount: 30
+					}
+				}
+			}]
+			rewards: [{
+				id: "273A26E0884C05CC"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "来把经典手枪"
+			x: 2.5d
+			y: -4.0d
+			dependencies: ["47A8A14271C72D4A"]
+			id: "3B1C8E0CAF9B8F6F"
+			tasks: [{
+				id: "570D5D00C9F8C1FF"
+				type: "item"
+				item: {
+					id: "tac:glock_18"
+					Count: 1b
+					tag: {
+						AmmoCount: 17
+					}
+				}
+			}]
+			rewards: [{
+				id: "7D656A94FF2FDFF7"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "越粗越好"
+			x: 7.5d
+			y: -8.0d
+			dependencies: ["72B3475E17C7637F"]
+			id: "0BC916CD2DB91DBC"
+			tasks: [{
+				id: "5C7C14798D1722B7"
+				type: "item"
+				item: {
+					id: "tac:m24"
+					Count: 1b
+					tag: {
+						AmmoCount: 5
+					}
+				}
+			}]
+			rewards: [{
+				id: "0EAA288C950785DC"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "越快越好"
+			x: 7.5d
+			y: -4.0d
+			dependencies: ["72B3475E17C7637F"]
+			id: "15EFF3AC5337F376"
+			tasks: [{
+				id: "60F2B51DEC31CB35"
+				type: "item"
+				item: {
+					id: "tac:uzi"
+					Count: 1b
+					tag: {
+						AmmoCount: 20
+					}
+				}
+			}]
+			rewards: [{
+				id: "6F4D329CCEE3E52A"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "那为什么不都要呢"
+			x: 10.0d
+			y: -6.0d
+			shape: "diamond"
+			dependencies: [
+				"15EFF3AC5337F376"
+				"0BC916CD2DB91DBC"
+			]
+			dependency_requirement: "one_completed"
+			id: "6A9BA3B854CF599B"
+			tasks: [{
+				id: "7E06EFA8D28140D9"
+				type: "item"
+				item: {
+					id: "tac:m60"
+					Count: 1b
+					tag: {
+						AmmoCount: 70
+					}
+				}
+			}]
+			rewards: [{
+				id: "024D92F8BE7E19CA"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "算了 跟他爆了"
+			x: 5.0d
+			y: -9.0d
+			dependencies: ["72B3475E17C7637F"]
+			id: "0CB772887E90C009"
+			tasks: [{
+				id: "13D088E5DFB46F21"
+				type: "item"
+				item: {
+					id: "tac:db_short"
+					Count: 1b
+					tag: {
+						AmmoCount: 2
+					}
+				}
+			}]
+			rewards: [{
+				id: "35F36C2DB8866036"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "别忘了枪能装配件哟"
+			x: 0.0d
+			y: -9.0d
+			dependencies: ["47A8A14271C72D4A"]
+			id: "408DC727F5F29B3C"
+			tasks: [{
+				id: "5E7ACD38DE412F49"
+				type: "item"
+				item: "tac:mini_dot"
+			}]
+		}
+		{
+			title: "多多益善"
+			x: 2.5d
+			y: -6.0d
+			dependencies: [
+				"02B97944D19BDF58"
+				"3B1C8E0CAF9B8F6F"
+			]
+			dependency_requirement: "one_completed"
+			id: "57BD9537EC2621A9"
+			tasks: [{
+				id: "57160DA000C204CF"
+				type: "item"
+				item: "tac:9mm_round"
+			}]
+			rewards: [{
+				id: "00F07DF58F9A958D"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

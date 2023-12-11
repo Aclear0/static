@@ -1,0 +1,28 @@
+{
+	id: "4FD767CE84F777C3"
+	order_index: 33
+	title: "34"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:tableau_1" }
+		{ item: "minecraftmodernxl:tableau_2" }
+		{ item: "minecraftmodernxl:japan_sign" }
+		{ item: "minecraftmodernxl:tableau_3" }
+		{ item: "minecraftmodernxl:tableau_4" }
+		{ item: "minecraftmodernxl:tableau_5" }
+		{ item: "minecraftmodernxl:tableau_6" }
+		{ item: "minecraftmodernxl:tableau_7" }
+		{ item: "minecraftmodernxl:tableau_8" }
+		{ item: "minecraftmodernxl:tableau_9" }
+		{ item: "minecraftmodernxl:tableau_10" }
+		{ item: "minecraftmodernxl:tableau_11" }
+		{ item: "minecraftmodernxl:tableau_12" }
+		{ item: "minecraftmodernxl:tableau_13" }
+		{ item: "minecraftmodernxl:tableaux_14" }
+		{ item: "minecraftmodernxl:tableaux_15" }
+		{ item: "minecraftmodernxl:tableaux_16" }
+		{ item: "minecraftmodernxl:tableaulog" }
+		{ item: "minecraftmodernxl:tableaulog_2" }
+		{ item: "minecraftmodernxl:tableau_17" }
+	]
+}

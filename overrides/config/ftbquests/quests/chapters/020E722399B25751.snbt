@@ -1,0 +1,143 @@
+{
+	id: "020E722399B25751"
+	group: "3338BFF3CAB176D7"
+	order_index: 0
+	filename: "020E722399B25751"
+	title: "沉浸工程（拓展内容）"
+	icon: "immersiveengineering:windmill"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "电线"
+			x: 0.5d
+			y: -0.5d
+			description: ["{image:ftbquests:textures/item/dianxian.png width:100 height:100 align:1}"]
+			id: "6928430892B395A7"
+			tasks: [
+				{
+					id: "70A5440D42289F94"
+					type: "item"
+					item: "immersiveengineering:wirecoil_copper"
+				}
+				{
+					id: "678EE523EE756D4E"
+					type: "item"
+					item: "immersiveengineering:connector_lv"
+				}
+				{
+					id: "6AB80B9814E10ECD"
+					type: "item"
+					item: "immersiveengineering:connector_lv_relay"
+				}
+			]
+			rewards: [{
+				id: "29479915836B27C8"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "改良电线杆"
+			x: 1.5d
+			y: -0.5d
+			id: "0E3561CC8F742042"
+			tasks: [
+				{
+					id: "547CE9CDC5826D86"
+					type: "item"
+					item: "yweekend:pole_base"
+				}
+				{
+					id: "3316107B41923463"
+					type: "item"
+					item: "yweekend:pole_extension"
+				}
+				{
+					id: "3C4F98382C96580F"
+					type: "item"
+					item: "yweekend:pole_connector"
+				}
+				{
+					id: "294330F83B9F9513"
+					type: "item"
+					item: "yweekend:pole_connection_light"
+				}
+				{
+					id: "4E9243B0586E17AF"
+					type: "item"
+					item: "yweekend:pole_base_extension"
+				}
+			]
+			rewards: [{
+				id: "020E96AE16B3C79C"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "任务待更新"
+			x: 3.5d
+			y: -0.5d
+			id: "7E3AD88184E69443"
+			tasks: [{
+				id: "10882A0265B74FFF"
+				type: "checkmark"
+				title: "待更新"
+			}]
+		}
+		{
+			x: -0.5d
+			y: -0.5d
+			description: ["具体内容自行查阅攻略"]
+			id: "734BD4FE4CF443C3"
+			tasks: [
+				{
+					id: "55E516D307DF2365"
+					type: "item"
+					item: "immersiveengineering:manual"
+				}
+				{
+					id: "69B2379BBD17F56F"
+					type: "item"
+					item: {
+						id: "immersiveengineering:hammer"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "49E32BBC4377546A"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "建造高压线塔网"
+			x: 2.5d
+			y: -0.5d
+			description: [
+				""
+				"搜索 gaoya  查看所有建造高压线塔的材料 商店获取"
+				"{image:ftbquests:textures/item/gaoyadianxian.png width:150 height:100 align:1}"
+				"建造过程较为繁琐  请查看b站UP： Deemo旋律 （作者）的教学视频"
+				"这个模组是我自己做的劣质模组"
+			]
+			id: "51DD0D1856B6C0A2"
+			tasks: [{
+				id: "51DE323202E9A1E0"
+				type: "item"
+				item: "tower:towertop"
+			}]
+			rewards: [{
+				id: "6FFBDAF6133A0899"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

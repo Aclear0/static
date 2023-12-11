@@ -1,0 +1,52 @@
+{
+	id: "251D132F2C092033"
+	order_index: 21
+	title: "21"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:modern_sofa_1_middle_dw" }
+		{ item: "minecraftmodernxl:modern_sofa_1_middle_lw" }
+		{ item: "minecraftmodernxl:modern_sofa_1_middle_grey" }
+		{ item: "minecraftmodernxl:modern_sofa_1_left_dw" }
+		{ item: "minecraftmodernxl:modern_sofa_1_left_lw" }
+		{ item: "minecraftmodernxl:modern_sofa_1_left_grey" }
+		{ item: "minecraftmodernxl:modern_sofa_1_right_dw" }
+		{ item: "minecraftmodernxl:modern_sofa_1_right_lw" }
+		{ item: "minecraftmodernxl:modern_sofa_1_right_grey" }
+		{ item: "minecraftmodernxl:modern_sofa_1_angle_dw" }
+		{ item: "minecraftmodernxl:modern_sofa_1_angle_lw" }
+		{ item: "minecraftmodernxl:modern_sofa_1_angle_grey" }
+		{ item: "minecraftmodernxl:modern_sofa_poof_dw" }
+		{ item: "minecraftmodernxl:modern_sofa_poof_lw" }
+		{ item: "minecraftmodernxl:modern_sofa_poof_grey" }
+		{ item: "minecraftmodernxl:ultra_modern_sofa_onp_black" }
+		{ item: "minecraftmodernxl:ultra_modern_sofa_onp_turquoise" }
+		{ item: "minecraftmodernxl:ultra_modern_sofa_onp_jaune" }
+		{ item: "minecraftmodernxl:ultra_modern_sofa_onp_white" }
+		{ item: "minecraftmodernxl:curved_sofablack" }
+		{ item: "minecraftmodernxl:curved_sofa_white" }
+		{ item: "minecraftmodernxl:curved_sofa_angle_black" }
+		{ item: "minecraftmodernxl:curved_sofa_angle_white" }
+		{ item: "minecraftmodernxl:tissed_armchair_bg" }
+		{ item: "minecraftmodernxl:tissed_armchair_bw" }
+		{ item: "minecraftmodernxl:tissed_armchair_wg" }
+		{ item: "minecraftmodernxl:tissed_armchair_ym" }
+		{ item: "minecraftmodernxl:tissed_ac_black_1" }
+		{ item: "minecraftmodernxl:tissed_ac_black_2" }
+		{ item: "minecraftmodernxl:tissed_ac_black_3" }
+		{ item: "minecraftmodernxl:tissed_ac_brown_1" }
+		{ item: "minecraftmodernxl:tissed_ac_brown_2" }
+		{ item: "minecraftmodernxl:tissed_ac_brown_3" }
+		{ item: "minecraftmodernxl:tissed_ac_white_1" }
+		{ item: "minecraftmodernxl:tissed_ac_white_2" }
+		{ item: "minecraftmodernxl:tissed_ac_white_3" }
+		{ item: "minecraftmodernxl:tissed_a_cyel_1" }
+		{ item: "minecraftmodernxl:tissed_a_cyel_2" }
+		{ item: "minecraftmodernxl:tissed_a_cyel_3" }
+		{ item: "minecraftmodernxl:tissed_ac_black_4" }
+		{ item: "minecraftmodernxl:tissed_ac_brown_4" }
+		{ item: "minecraftmodernxl:tissed_ac_white_4" }
+		{ item: "minecraftmodernxl:tissed_a_cyel_4" }
+		{ }
+	]
+}

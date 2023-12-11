@@ -1,0 +1,17 @@
+{
+	id: "3D523239FDE3AAEC"
+	order_index: 13
+	title: "13"
+	loot_size: 1
+	rewards: [
+		{ item: "tower:towerbasemain" }
+		{ item: "tower:towerbase_2" }
+		{ item: "tower:highvoltagetowerbase" }
+		{ item: "tower:towerright" }
+		{ item: "tower:towerleft" }
+		{ item: "tower:towerleft_3" }
+		{ item: "tower:towerright_3" }
+		{ item: "tower:towertop" }
+		{ item: "tower:touming" }
+	]
+}

@@ -1,0 +1,302 @@
+{
+	id: "6638A087343C7FCF"
+	order_index: 47
+	title: "背包"
+	loot_size: 1
+	rewards: [
+		{
+			item: {
+				id: "travelersbackpack:netherite"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:diamond"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:gold"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:emerald"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:iron"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:lapis"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:redstone"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:coal"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:quartz"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:bookshelf"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:end"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:nether"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:sandstone"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:snow"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:sponge"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:cactus"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:cake"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:hay"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:melon"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:pumpkin"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:creeper"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:dragon"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:enderman"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:blaze"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:ghast"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:skeleton"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:magma_cube"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:spider"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:wither"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:bat"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:bee"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:wolf"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:fox"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:ocelot"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:horse"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:cow"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:pig"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:sheep"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:chicken"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:squid"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:villager"
+				Count: 1b
+				tag: { }
+			}
+		}
+		{
+			item: {
+				id: "travelersbackpack:iron_golem"
+				Count: 1b
+				tag: { }
+			}
+		}
+	]
+}

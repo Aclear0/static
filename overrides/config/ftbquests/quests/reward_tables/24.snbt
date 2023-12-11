@@ -1,0 +1,16 @@
+{
+	id: "4E331A17EC755D43"
+	order_index: 24
+	title: "24"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:dandelion", count: 64 }
+		{ item: "minecraft:oxeye_daisy", count: 64 }
+		{ item: "minecraft:blue_orchid", count: 64 }
+		{ item: "minecraft:allium", count: 64 }
+		{ item: "minecraft:azure_bluet", count: 64 }
+		{ item: "minecraft:cornflower", count: 64 }
+		{ item: "minecraft:lilac", count: 64 }
+		{ item: "minecraft:peony", count: 64 }
+	]
+}

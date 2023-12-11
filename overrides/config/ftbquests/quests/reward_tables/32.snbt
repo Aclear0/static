@@ -1,0 +1,89 @@
+{
+	id: "212CFB4A62F3E11E"
+	order_index: 31
+	title: "32"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:planteenpot" }
+		{ item: "minecraftmodernxl:calypt_1" }
+		{ item: "minecraftmodernxl:calypt_2" }
+		{ item: "minecraftmodernxl:yel_plant" }
+		{ item: "minecraftmodernxl:branch_pot_1" }
+		{ item: "minecraftmodernxl:branch_pot_2" }
+		{ item: "minecraftmodernxl:grandpot_1" }
+		{ item: "minecraftmodernxl:grandpot_2" }
+		{ item: "minecraftmodernxl:grandpot_3" }
+		{ item: "minecraftmodernxl:grandpot_4" }
+		{ item: "minecraftmodernxl:pot_block_black" }
+		{ item: "minecraftmodernxl:pot_block_white" }
+		{ item: "minecraftmodernxl:lilleaf" }
+		{ item: "minecraftmodernxl:lilleaf_2" }
+		{ item: "minecraftmodernxl:terrarium1" }
+		{ item: "minecraftmodernxl:terrarium2" }
+		{ item: "minecraftmodernxl:cactusblanc" }
+		{ item: "minecraftmodernxl:cactus_noire" }
+		{ item: "minecraftmodernxl:cactus_darkwood" }
+		{ item: "minecraftmodernxl:cactus_lightwood" }
+		{ item: "minecraftmodernxl:cactus_yellow_lightwood" }
+		{ item: "minecraftmodernxl:orchide_bleu_white" }
+		{ item: "minecraftmodernxl:orchide_bleu_brown" }
+		{ item: "minecraftmodernxl:orchide_rose_white" }
+		{ item: "minecraftmodernxl:orchide_rose_brown" }
+		{ item: "minecraftmodernxl:orchide_jaune_white" }
+		{ item: "minecraftmodernxl:orchide_jaune_brown" }
+		{ item: "minecraftmodernxl:flower_box_1" }
+		{ item: "minecraftmodernxl:flower_box_2" }
+		{ item: "minecraftmodernxl:incence_holder_1" }
+		{ item: "minecraftmodernxl:incence_holder_2" }
+		{ item: "minecraftmodernxl:incence_holder_3" }
+		{ item: "minecraftmodernxl:incence_holder_4" }
+		{ item: "minecraftmodernxl:paravant_tronc_1" }
+		{ item: "minecraftmodernxl:paravant_tronc_2" }
+		{ item: "minecraftmodernxl:paravant_tronc_3" }
+		{ item: "minecraftmodernxl:paravant_tronc_4" }
+		{ item: "minecraftmodernxl:palmpot_black" }
+		{ item: "minecraftmodernxl:palmpot_white" }
+		{ item: "minecraftmodernxl:shalf_1" }
+		{ item: "minecraftmodernxl:shalf_2" }
+		{ item: "minecraftmodernxl:shalf_3" }
+		{ item: "minecraftmodernxl:shalf_4" }
+		{ item: "minecraftmodernxl:wall_plantsblock" }
+		{ item: "minecraftmodernxl:wall_plants_1" }
+		{ item: "minecraftmodernxl:wall_plants_2" }
+		{ item: "minecraftmodernxl:wall_waterfall_plant" }
+		{ item: "minecraftmodernxl:plants_set_1" }
+		{ item: "minecraftmodernxl:plants_set_2" }
+		{ item: "minecraftmodernxl:plantsgarden_3" }
+		{ item: "minecraftmodernxl:plantsgarden_5" }
+		{ item: "minecraftmodernxl:plantsgarden_6" }
+		{ item: "minecraftmodernxl:palmpot_1" }
+		{ item: "minecraftmodernxl:palmpot_2" }
+		{ item: "minecraftmodernxl:pots_black" }
+		{ item: "minecraftmodernxl:pots_white" }
+		{ item: "minecraftmodernxl:str_pots" }
+		{ item: "minecraftmodernxl:str_potsblue" }
+		{ item: "minecraftmodernxl:str_potsgrey" }
+		{ item: "minecraftmodernxl:str_potsbrown" }
+		{ item: "minecraftmodernxl:commun_plant_1" }
+		{ item: "minecraftmodernxl:commun_plant_2" }
+		{ item: "minecraftmodernxl:communpot_3" }
+		{ item: "minecraftmodernxl:tropic_flower_1" }
+		{ item: "minecraftmodernxl:tropic_flower_2" }
+		{ item: "minecraftmodernxl:bouquet_1" }
+		{ item: "minecraftmodernxl:bouquet_1a_2" }
+		{ item: "minecraftmodernxl:bouquet_1a_3" }
+		{ item: "minecraftmodernxl:gardenpot_andesite" }
+		{ item: "minecraftmodernxl:gardenpot_diorite" }
+		{ item: "minecraftmodernxl:gardenpot_granite" }
+		{ item: "minecraftmodernxl:gardenpot_black" }
+		{ item: "minecraftmodernxl:gardenpot_white" }
+		{ item: "minecraftmodernxl:gardenpot_grand_andesite" }
+		{ item: "minecraftmodernxl:gardenpot_grand_granite" }
+		{ item: "minecraftmodernxl:gardenpot_grand_black" }
+		{ item: "minecraftmodernxl:gardenpot_grand_white" }
+		{ }
+		{ item: "minecraftmodernxl:plantsgarden_1" }
+		{ item: "minecraftmodernxl:plantsgarden_2" }
+		{ item: "minecraftmodernxl:plantsgarden_4" }
+	]
+}

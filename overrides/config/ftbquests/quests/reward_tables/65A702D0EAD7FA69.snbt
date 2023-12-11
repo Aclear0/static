@@ -1,0 +1,8 @@
+{
+	id: "65A702D0EAD7FA69"
+	order_index: 53
+	title: "末地"
+	icon: "minecraft:end_rod"
+	loot_size: 1
+	rewards: [{ item: "minecraft:end_rod", count: 64 }]
+}

@@ -1,0 +1,15 @@
+{
+	id: "1A3596951A06CC45"
+	order_index: 6
+	title: "6"
+	loot_size: 1
+	rewards: [{
+		item: {
+			id: "grapple_hooks:hook_diamond"
+			Count: 1b
+			tag: {
+				Damage: 0
+			}
+		}
+	}]
+}

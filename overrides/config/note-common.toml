@@ -1,0 +1,9 @@
+
+[common]
+	#Range: 1 ~ 500
+	"maximum word count" = 30
+	#Range: 1 ~ 10
+	"maximum note count" = 3
+	can_overwrite = true
+	can_tag_stackable_item = true
+

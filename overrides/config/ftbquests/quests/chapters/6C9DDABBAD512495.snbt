@@ -1,0 +1,153 @@
+{
+	id: "6C9DDABBAD512495"
+	group: "0934557C74B8973A"
+	order_index: 1
+	filename: "6C9DDABBAD512495"
+	title: "烹饪"
+	icon: {
+		id: "farmersdelight:skillet"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 10.0d
+		y: 2.5d
+		width: 10.0d
+		height: 8.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/shousi.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			x: 11.0d
+			y: 0.5d
+			description: [
+				"制作刀 （可升级）"
+				"击杀动物 或草  获取资源"
+				"草杆用于制作物品  具体用途自行查看  小键盘8"
+			]
+			id: "325C7E7F36236D80"
+			tasks: [
+				{
+					id: "7F382C5DB560A1D3"
+					type: "item"
+					item: {
+						id: "farmersdelight:iron_knife"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "3C877AAE2B13016B"
+					type: "item"
+					item: {
+						id: "farmersdelight:skillet"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "437B822B616D955A"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 12.5d
+			y: 0.5d
+			description: [
+				"锅下放置火源  用法类似营火"
+				"放置砧板 放置原料  用菜刀切菜  甚至可以加工木头皮革品"
+			]
+			id: "3D6D45480F3BA84D"
+			tasks: [
+				{
+					id: "74E3EAEEF9E34B8D"
+					type: "item"
+					item: "farmersdelight:cooking_pot"
+				}
+				{
+					id: "19AC4F9B9BE8A444"
+					type: "item"
+					item: "farmersdelight:cutting_board"
+				}
+				{
+					id: "7B2BA0A659085A7E"
+					type: "item"
+					item: "farmersdelight:stove"
+				}
+			]
+			rewards: [{
+				id: "66C11DCEFAC7356E"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "懒人烹饪"
+			x: 14.0d
+			y: 0.5d
+			description: [
+				"Jei 搜索@cook"
+				"查看相关道具"
+			]
+			id: "14576D48594184E7"
+			tasks: [
+				{
+					id: "26C359D87A37E2B5"
+					type: "item"
+					item: "cookingforblockheads:cooking_table"
+				}
+				{
+					id: "6DAB268B03491C50"
+					type: "item"
+					item: "cookingforblockheads:fridge"
+				}
+				{
+					id: "2299B08F9A5C85E6"
+					type: "item"
+					item: "cookingforblockheads:oven"
+				}
+			]
+			rewards: [{
+				id: "2432FCFD57390EC6"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "更多厨具作物"
+			x: 15.5d
+			y: 0.5d
+			subtitle: "请查看jei"
+			description: [
+				"搜索@crop"
+				"搜索@farm"
+			]
+			id: "117D3B3C1A0D4AC2"
+			tasks: [{
+				id: "166ABEF9CFBD610B"
+				type: "checkmark"
+				title: "任务待更新 "
+			}]
+			rewards: [{
+				id: "353053753C25691F"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

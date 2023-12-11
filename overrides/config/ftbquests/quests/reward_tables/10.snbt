@@ -1,0 +1,15 @@
+{
+	id: "25239CA8250BBA2F"
+	order_index: 10
+	title: "10"
+	loot_size: 1
+	rewards: [
+		{ item: "ampere_craft:motorsmall" }
+		{ item: "ampere_craft:saule_4" }
+		{ item: "ampere_craft:motorsmallorange" }
+		{ item: "ampere_craft:blade" }
+		{ item: "ampere_craft:bladered" }
+		{ item: "ampere_craft:bladeorange" }
+		{ item: "ampere_craft:wind_turbine_tower_2" }
+	]
+}

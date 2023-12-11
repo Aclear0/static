@@ -1,0 +1,4515 @@
+{
+	tabs: [
+		{
+			title: "杂项"
+			icon: "wings:monarch_butterfly_wings_bottle"
+			entries: [
+				{
+					item: {
+						id: "simplycats:pet_carrier"
+						Count: 1b
+						tag: {
+							Damage: 3
+						}
+					}
+					buy: 4L
+				}
+				{
+					item: "wings:monarch_butterfly_wings_bottle"
+					buy: 9999999L
+				}
+				{
+					item: "majobroom:broom_item"
+					buy: 15000L
+				}
+				{
+					item: {
+						id: "cgm:mini_gun"
+						Count: 1b
+						tag: {
+							AmmoCount: 100
+						}
+					}
+					buy: 9999999L
+				}
+				{
+					item: {
+						id: "modernlife:chainsaw"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					buy: 10L
+				}
+				{
+					item: "ampere_craft:panel"
+					buy: 2L
+				}
+				{
+					item: "ampere_craft:motorsmall"
+					buy: 3L
+				}
+				{
+					item: "ampere_craft:motorsmallorange"
+					buy: 4L
+				}
+				{
+					item: "ampere_craft:blade"
+					buy: 1L
+				}
+				{
+					item: "ampere_craft:bladered"
+					buy: 2L
+				}
+				{
+					item: "ampere_craft:bladeorange"
+					buy: 3L
+				}
+				{
+					item: "ampere_craft:saule_4"
+					buy: 1L
+				}
+				{
+					item: "ampere_craft:wind_turbine_tower_2"
+					buy: 1L
+				}
+				{
+					item: "ampere_craft:windturbinetowerred_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:apple_juice"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:melon_juice"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:sweet_berries_juice"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:banana_juice"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:kiwi_juice"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lemon_juice"
+					buy: 1L
+				}
+				{
+					item: "teleportmod:teleport"
+					buy: 28L
+				}
+				{
+					item: "touhou_little_maid:smart_slab_init"
+					buy: 288L
+				}
+				{
+					item: {
+						id: "boss_tools:rocket_t3"
+						Count: 1b
+						tag: { }
+					}
+					buy: 998L
+				}
+				{
+					item: "dimension_crystals:dimension_overworld"
+					buy: 1L
+				}
+				{
+					item: {
+						id: "grapple_hooks:hook_diamond"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					buy: 68L
+				}
+				{
+					item: "boss_tools:fuel_bucket"
+					buy: 68L
+				}
+				{
+					item: {
+						id: "aquaculture:neptunium_fishing_rod"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					buy: 600L
+				}
+				{
+					item: "collectorsalbum:legendary_card_package"
+					buy: 20L
+				}
+				{
+					item: {
+						id: "swem:amethyst_scythe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					buy: 19999L
+				}
+				{
+					item: "tropicraft:pina_colada"
+					buy: 5L
+				}
+				{
+					item: {
+						id: "theabyss:nosaj_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					buy: 5000L
+				}
+				{
+					item: {
+						id: "swem:amethyst_sword"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+					buy: 16888L
+				}
+				{
+					item: "tower:towerbasemain"
+					buy: 1L
+				}
+				{
+					item: "tower:towerbase_2"
+					buy: 1L
+				}
+				{
+					item: "tower:highvoltagetowerbase"
+					buy: 1L
+				}
+				{
+					item: "tower:towerright"
+					buy: 1L
+				}
+				{
+					item: "tower:towerleft"
+					buy: 1L
+				}
+				{
+					item: "tower:towerleft_3"
+					buy: 1L
+				}
+				{
+					item: "tower:towerright_3"
+					buy: 1L
+				}
+				{
+					item: "tower:towertop"
+					buy: 1L
+				}
+				{
+					item: "tower:touming"
+					buy: 1L
+				}
+			]
+		}
+		{
+			title: "现代家具-桌椅"
+			icon: "minecraftmodernxl:ext_chair_3"
+			entries: [
+				{
+					item: "minecraftmodernxl:etbl_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:etbl_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:etbl_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_grey_1_x_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_grey_1_x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_grey_2_x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_white_1_x_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_white_1_x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_white_1_x_3a_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_white_1_x_3a_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_grey_1_x_3a_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_grey_1_x_3a_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_white_1x_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_white_1x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_white_2x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_white_3x_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_grey_1x_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_grey_1x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_grey_2x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_grey_3x_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_lw_1x_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_lw_1x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_lw_2x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_lw_3x_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_dw_1x_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_dw_1x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_dw_2x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:table_dw_3x_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:utable_1_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:utable_1_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:utable_1_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:utable_1_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:utable_2_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:utable_2_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:utable_2_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:utable_2_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:uptable_black_oak"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:uptable_white_oak"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:uptable_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:uptable_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:chaise_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:chaise_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:chaise_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:chaise_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:chaise_white_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:chaise_grey_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mchair_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mchair_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mchair_grey_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mchair_grey_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernchair_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernchair_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernchair_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernchair_brown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:schair_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:schair_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:schair_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:schair_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:umodernchair_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:umodernchair_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:umodernchair_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ext_chair_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ext_chair_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ext_chair_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ochair_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ochair_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ochair_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ochair_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_bar_stool_white_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_bar_stool_white_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_bar_stool_grey_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_bar_stool_brown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:umodernbar_stool"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:umodernbar_stool_brown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:umodernbar_stool_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ultra_mode_barstool_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ultra_mode_barstool_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:obartstool_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:obartstool_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:obartstool_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:obartstool_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_white_0"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_white_45"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_bleu_0"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_bleu_45"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_green_0"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_rouge_0"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_green_45"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_rouge_45"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_rose_0"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_rose_45"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_orange_0"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_orange_45"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_jaune_0"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_jaune_45"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_noire_0"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_noire_45"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_marron_0"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:armchair_marron_45"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_armchair_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_armchair_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_armchair_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_armchair_45_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_armchair_45_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_armchair_45_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ultramodern_armchair_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ultramodern_armchair_turquoise"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ultramodern_armchair_jaune"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ultramodern_armchair_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:transat_iron_a"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:transat_wood_a"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:entier_glasstable"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:entier_glasstable_w"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_2_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_2_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_2_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_3_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_3_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_3_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_3_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_4p_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_4p_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_4p_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:coffe_table_4p_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_coffe_table_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_coffe_table_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_tabl_grey_3_x_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_table_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_table_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_table_vitre_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_table_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_table_vitred_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:t_chair_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:t_chair_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:t_chair_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:t_chair_4"
+					buy: 1L
+				}
+			]
+		}
+		{
+			title: "现代装饰/室外装潢/电器/卫浴用品"
+			icon: "minecraftmodernxl:palmpot_2"
+			entries: [
+				{
+					item: "minecraftmodernxl:wall_plantsblock"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wall_plants_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wall_plants_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mailbox_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mailbox_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mailbox_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mailbox_simple"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wall_waterfall_plant"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:plantsgarden_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:plantsgarden_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:plantsgarden_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:plantsgarden_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:plantsgarden_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:plantsgarden_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tropic_flower_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tropic_flower_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bouquet_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bouquet_1a_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bouquet_1a_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardenpot_andesite"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardenpot_diorite"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardenpot_granite"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardenpot_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardenpot_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardenpot_grand_andesite"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardenpot_grand_diorite"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardenpot_grand_granite"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardenpot_grand_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardenpot_grand_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:terrarium1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:terrarium2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:planteenpot"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:utensilpot"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:calypt_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:calypt_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:yel_plant"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:branch_pot_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:branch_pot_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grandpot_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grandpot_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grandpot_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grandpot_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:pot_block_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:pot_block_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lilleaf"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lilleaf_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cactusblanc"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cactus_noire"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cactus_darkwood"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cactus_lightwood"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cactus_yellow_lightwood"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candleplate_orange_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_plate_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_plate_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_plate_pink"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_plate_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_plate_bluefonce"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_plate_yellow"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_plate_red"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_plate_green"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_plate_purple"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tvscreen_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tvscreen_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:palmpot_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:palmpot_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:japan_sign"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_7"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_10"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_11"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_12"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_13"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableaux_14"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableaux_15"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableaux_16"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableaulog"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableaulog_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tableau_17"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:hanging_outils_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:hanging_outils_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:hanging_outils_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:hanging_outils_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:hanging_outils_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:evierblanc"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:evier_noir"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernx_sink"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sink_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:orchide_bleu_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:orchide_bleu_brown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:orchide_rose_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:orchide_rose_brown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:orchide_jaune_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:orchide_jaune_brown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:epice_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:epice_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:porte_couteaux"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:towel_holder"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:pile_towel"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:paper_towel"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:paper_towel"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:toilet_paper"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:blender"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:soap_set_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:soap_set_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:soap_set"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:jeuboule"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:clock_red"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:clock_yellow"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:clock_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:clock_green"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:clock_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:clock_orange"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:clock_pink"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:clock_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:clock_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:toilt_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:toilet_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_toilet"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:microwave"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:microwave_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:shower_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:shower_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bamboo_screen"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bamboo_screen_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bamboo_screen_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grill"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:incence_holder_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:incence_holder_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:incence_holder_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:incence_holder_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candleholder"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candleholder_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candleholder_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candleholder_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cube_statue_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cube_statue_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cube_statue_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grill_ustencile_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grill_ustencile_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:pc_gamer_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:pc_gamer_1_tour"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:creeplush_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:creeplush_yellow"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:creeplush_red"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:creeplush_pink"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:creeplush_green"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:altere_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:petbed"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:petbed_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:petbowl_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:petbowl_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:pet_bowl_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:shalf_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:shalf_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:shalf_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:shalf_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fish_bowl"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:paravant_tronc_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:paravant_tronc_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:paravant_tronc_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:paravant_tronc_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tvscreen_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tvscreen_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:branch_pot_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:branch_pot_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:plants_set_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:plants_set_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:flower_box_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:flower_box_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:commun_plant_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:commun_plant_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:communpot_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:pots_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:str_pots"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:str_potsblue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:str_potsgrey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:str_potsbrown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:palmpot_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:palmpot_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalf_book_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalf_book_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalf_book_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalf_book_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalf_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalf_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalf_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalf_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalfpot_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalfpot_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalfpot_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_shalfpot_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:applebowl"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:applebowl_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:applebowl_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muraldeco_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muraldeco_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muraldeco_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muraldeco_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mirror"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mirror_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mirror_3"
+					buy: 1L
+				}
+				{
+					item: "yuushya:mirror"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:plate_support_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:plate_support_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:basket_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:basket_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:basket_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:basket_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:statuette"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:statuette_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:statuette_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:statuette_green"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:statuette_orange"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_w_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_wblue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_wyellow"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_wgreen"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_wred"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_plant_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_plantw_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_plantw_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_plantw_yellow"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_plantw_green"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallbox_plant_wred"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wood_stack_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woodstack_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wood_stack_2side"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woodstack_3side"
+					buy: 1L
+				}
+			]
+		}
+		{
+			title: "现代床 地毯 "
+			icon: {
+				id: "multibeds:modern"
+				Count: 1b
+				tag: {
+					BlockEntityTag: {
+						texture_item: {
+							id: "minecraft:oak_planks"
+							Count: 1b
+						}
+					}
+				}
+			}
+			entries: [
+				{
+					item: {
+						id: "multibeds:rustic"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								texture_item: {
+									id: "minecraft:oak_planks"
+									Count: 1b
+								}
+							}
+						}
+					}
+					buy: 2L
+				}
+				{
+					item: {
+						id: "multibeds:modern"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								texture_item: {
+									id: "minecraft:oak_planks"
+									Count: 1b
+								}
+							}
+						}
+					}
+					buy: 2L
+				}
+				{
+					item: {
+						id: "multibeds:custom"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								texture_item: {
+									id: "minecraft:oak_planks"
+									Count: 1b
+								}
+							}
+						}
+					}
+					buy: 1L
+				}
+				{
+					item: {
+						id: "multibeds:slab"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								texture_item: {
+									id: "minecraft:oak_planks"
+									Count: 1b
+								}
+							}
+						}
+					}
+					buy: 1L
+				}
+				{
+					item: {
+						id: "multibeds:classic"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								texture_item: {
+									id: "minecraft:oak_planks"
+									Count: 1b
+								}
+							}
+						}
+					}
+					buy: 2L
+				}
+				{
+					item: {
+						id: "multibeds:vintage"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								texture_item: {
+									id: "minecraft:oak_planks"
+									Count: 1b
+								}
+							}
+						}
+					}
+					buy: 2L
+				}
+				{
+					item: {
+						id: "multibeds:cot"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								texture_item: {
+									id: "minecraft:oak_planks"
+									Count: 1b
+								}
+							}
+						}
+					}
+					buy: 1L
+				}
+				{
+					item: {
+						id: "multibeds:ladder"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								texture_item: {
+									id: "minecraft:oak_planks"
+									Count: 1b
+								}
+							}
+						}
+					}
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lit_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lit_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lit_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lit_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:carpet_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:carpet_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:carpet_1_w"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:carpet_2_w"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_7"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_10"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_11"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_carpet_12"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_7"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_10"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_11"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_12"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_13"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_motif_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_motif_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_motif_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_motif_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_motif_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cushion_motif_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_marron"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_dblue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_lblue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_noiset"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_cafe"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_yellow"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_orange"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_lime"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_red"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_pink"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_lavande"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_motif_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_motif_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_motif_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_motif_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_motif_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drap_motif_6"
+					buy: 1L
+				}
+			]
+		}
+		{
+			title: "方块小镇"
+			icon: "yuushya:716"
+			entries: [
+				{
+					item: "yuushya:714"
+					buy: 1L
+				}
+				{
+					item: "yuushya:715"
+					buy: 1L
+				}
+				{
+					item: "yuushya:716"
+					buy: 1L
+				}
+				{
+					item: "yuushya:419"
+					buy: 1L
+				}
+				{
+					item: "yuushya:shelf00"
+					buy: 1L
+				}
+				{
+					item: "yuushya:shelf01"
+					buy: 1L
+				}
+				{
+					item: "yuushya:shelf02"
+					buy: 1L
+				}
+				{
+					item: "yuushya:shelf03"
+					buy: 1L
+				}
+				{
+					item: "yuushya:shelf04"
+					buy: 1L
+				}
+				{
+					item: "yuushya:bookshelf00"
+					buy: 1L
+				}
+				{
+					item: "yuushya:bookshelf01"
+					buy: 1L
+				}
+				{
+					item: "yuushya:bookshelf02"
+					buy: 1L
+				}
+				{
+					item: "yuushya:bookshelf03"
+					buy: 1L
+				}
+				{
+					item: "yuushya:bookshelf04"
+					buy: 1L
+				}
+				{
+					item: "yuushya:850"
+					buy: 1L
+				}
+				{
+					item: "yuushya:844"
+					buy: 1L
+				}
+				{
+					item: "yuushya:802"
+					buy: 1L
+				}
+				{
+					item: "yuushya:803"
+					buy: 1L
+				}
+				{
+					item: "yuushya:804"
+					buy: 1L
+				}
+				{
+					item: "yuushya:805"
+					buy: 1L
+				}
+				{
+					item: "yuushya:806"
+					buy: 1L
+				}
+				{
+					item: "yuushya:807"
+					buy: 1L
+				}
+				{
+					item: "yuushya:693"
+					buy: 1L
+				}
+				{
+					item: "yuushya:694"
+					buy: 1L
+				}
+				{
+					item: "yuushya:695"
+					buy: 1L
+				}
+				{
+					item: "yuushya:696"
+					buy: 1L
+				}
+				{
+					item: "yuushya:697"
+					buy: 1L
+				}
+				{
+					item: "yuushya:698"
+					buy: 1L
+				}
+				{
+					item: "yuushya:699"
+					buy: 1L
+				}
+				{
+					item: "yuushya:808"
+					buy: 1L
+				}
+				{
+					item: "yuushya:809"
+					buy: 1L
+				}
+				{
+					item: "yuushya:797"
+					buy: 1L
+				}
+				{
+					item: "yuushya:798"
+					buy: 1L
+				}
+				{
+					item: "yuushya:348"
+					buy: 1L
+				}
+				{
+					item: "yuushya:705"
+					buy: 1L
+				}
+				{
+					item: "yuushya:sakura_tree"
+					buy: 1L
+				}
+				{
+					item: "yuushya:maple_tree"
+					buy: 1L
+				}
+				{
+					item: "yuushya:normal_tree"
+					buy: 1L
+				}
+				{
+					item: "yuushya:pink_flower_tree"
+					buy: 1L
+				}
+				{
+					item: "yuushya:white_flower_tree"
+					buy: 1L
+				}
+				{
+					item: "yuushya:yellow_flower_tree"
+					buy: 1L
+				}
+				{
+					item: "yuushya:model_building_0"
+					buy: 5L
+				}
+				{
+					item: "yuushya:model_building_1"
+					buy: 5L
+				}
+				{
+					item: "yuushya:shop_sign_examples"
+					buy: 5L
+				}
+				{
+					item: "yuushya:cozy_interior_0"
+					buy: 5L
+				}
+				{
+					item: "yuushya:cozy_interior_1"
+					buy: 5L
+				}
+				{
+					item: "yuushya:leafparticleblock"
+					buy: 1L
+				}
+			]
+		}
+		{
+			title: "现代家具-沙发装饰柜淋浴电器"
+			icon: "minecraftmodernxl:ultra_modern_sofa_onp_white"
+			entries: [
+				{
+					item: "minecraftmodernxl:boxblanche"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_darkwood"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_lightwood"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_whitewood"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_4case_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_4case_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_4case_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_4case_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_plants_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_plants_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_plants_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:box_plants_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cooker_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cooker_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cooker_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cooker_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:flower_box_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:flower_box_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fridge_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fridge_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fridge_black_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fridge_white_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_middle_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_middle_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_middle_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_left_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_left_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_left_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_right_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_right_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_right_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_angle_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_angle_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_1_angle_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_poof_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_poof_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_sofa_poof_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ultra_modern_sofa_onp_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ultra_modern_sofa_onp_turquoise"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ultra_modern_sofa_onp_jaune"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:ultra_modern_sofa_onp_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:curved_sofablack"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:curved_sofa_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:curved_sofa_angle_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:curved_sofa_angle_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_armchair_bg"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_armchair_bw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_armchair_wg"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_armchair_ym"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_black_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_black_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_black_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_brown_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_brown_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_white_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_brown_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_white_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_white_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_a_cyel_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_a_cyel_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_a_cyel_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_black_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_white_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_ac_brown_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:tissed_a_cyel_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_biblio_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_biblio_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_biblio_demi_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_biblio_demi_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_light_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_light_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_light_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:full_shower_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:full_shower_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:full_shower_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:full_shower_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bath_black_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bath_black_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bath_white_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bath_white_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_bath_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_bath_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:washmachine_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:washmachine_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:haute_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:haute_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:haute_3"
+					buy: 1L
+				}
+			]
+		}
+		{
+			title: "现代灯具/结构/门窗"
+			icon: "minecraftmodernxl:modern_lightbulb_dw"
+			entries: [
+				{
+					item: "minecraftmodernxl:escalier1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_stair_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_stair_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_stair_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernstairs_2_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernstairs_2_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernstairs_2_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernstairs_2_massif_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernstairs_2_massif_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:minidalle1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:stride1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:stride_1_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:stride_1_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:stride_1_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:stride_1_verticale"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:stride_1_verticale_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:stride_1_verticale_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:stride_1_verticale_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fence_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fence_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fence_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muret_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muret_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muret_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muret_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muret_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muretmince_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muretmince_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muretmince_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muretmince_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glasspanel_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glasspanel_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glasspanel_black_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glasspanel_white_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_panel_black_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glass_panel_white_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grey_stairs"
+					buy: 1L
+				}
+				{
+					item: "modernlife:birch_glass_door"
+					buy: 1L
+				}
+				{
+					item: "modernlife:crimson_glass_door"
+					buy: 1L
+				}
+				{
+					item: "modernlife:dark_oak_glass_door"
+					buy: 1L
+				}
+				{
+					item: "modernlife:iron_glass_door"
+					buy: 1L
+				}
+				{
+					item: "modernlife:jungle_glass_door"
+					buy: 1L
+				}
+				{
+					item: "modernlife:oak_glass_door"
+					buy: 1L
+				}
+				{
+					item: "modernlife:spruce_glass_door"
+					buy: 1L
+				}
+				{
+					item: "modernlife:warped_glass_door"
+					buy: 1L
+				}
+				{
+					item: "modernlife:acacia_glass_door"
+					buy: 1L
+				}
+				{
+					item: "modernlife:glass_door"
+					buy: 1L
+				}
+				{
+					item: "upgrade_aquatic:glass_door"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glassdoor"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glassdoor_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:velux_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:velux_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glasspan"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:glasspan_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:claustra_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:claustra_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:claustra_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:claustra_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:claustra_vege_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:claustra_vege_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:claustra_vege_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:claustra_vege_white"
+					buy: 1L
+				}
+				{
+					item: "modernlife:four_panel_window"
+					buy: 1L
+				}
+				{
+					item: "modernlife:six_panel_window"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_7"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_10"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_11"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:window_dw_12"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cable"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_door_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_door_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_door_eco"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_door_eco_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_door_wood"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_door_stone"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_door_soft"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernladder"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fire_block_wood"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fireblock_wood_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fireblock_wood_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wood_stack_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fire_block"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:firecoal_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fire_coal_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:firecoal_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_wall_fireplace_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fire_glass_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:fireglass_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_wall_fireplace_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_wall_fireplace_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:asialanternrs"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:asialanternblanche"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:asialanternbleu"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lantern_orange_1_off"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lantern_pink_1_off"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:asia_lantern_bleusombre"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:asia_lantern_green_off"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:asia_lantern_purple"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:asia_lantern_yellow_off"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:japanwoodlantern"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lamp1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grandlamp_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lamp_salon_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lamp_salon_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:stylelamp_1_wood"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:stylelamp_2_wood"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wall_lamp_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wall_lamp_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wall_lamp_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wall_lamp_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wall_lamp_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_muralight"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modernmuralight_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:whitelightblock"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:minidalle_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_lightblue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:white_lightslab"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_light_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_light_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_light_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_lamp_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_lamp_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_lamp_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:black_livingroomlamp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:black_cage_lamp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:mural_light_deco"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_neonlight"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:simplerooflight"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallneon"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:switch_off"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_lightbulb_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_luster_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_luster_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:u_modern_lamp_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:u_modern_lamp_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_light"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_amp_lamp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:kitchen_light"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:black_livingroomlamp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:livinggranlamp_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_livinglamp_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_livinglamp_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_lamp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_rainlight"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_rainlight_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_rainlight_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modrn_rainlight_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:amp_modernlight_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wavelampe"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_3_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:candle_3_black"
+					buy: 1L
+				}
+			]
+		}
+		{
+			title: "现代家具-收纳"
+			icon: "minecraftmodernxl:coffe_table_3_lw"
+			entries: [
+				{
+					item: "minecraftmodernxl:boxblanchecasebleu"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_vert"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcaseorange"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_rose"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_d_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_brown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_green"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_pink"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_purple"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_orange"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_yellow"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_red"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_dw_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_dw_dark_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_dw_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_dw_pink"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_dw_purple"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_dw_orange"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_dw_yellow"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_dw_red"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_lw_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_lw_darkblue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_lw_brown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_lw_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_lw_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_lw_green"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_lw_pink"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_lw_purple"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_lw_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_bl_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_grey_black"
+					buy: 1L
+				}
+			]
+		}
+		{
+			title: "建材"
+			icon: "minecraftmodernxl:bricksc10"
+			entries: [
+				{
+					item: "minecraftmodernxl:purwhite"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:whitecobble"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:brown_cobble"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cacao_cobble"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:pop_cobble"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:nut_cobble"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:orange_cobble"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc10"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc11"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc12"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricksc13"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:gardengravel"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb10"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb11"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb12"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb13"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb14"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:waveb15"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_brown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_cyan"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_green"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_lightblue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_lime"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_magenta"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_orange"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concreteslab_pink"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:concretslab_red"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:minidalle1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:minidalle_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:minidalle_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:up_minidalle_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:up_minidalle_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:up_minidalle_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_slab_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_slab_up"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_slab_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:lily_slab_d_wup"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_7"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_10"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_11"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_12"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_stairs_c_13"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_7"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_10"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_11"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_12"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_slabs_c_13"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:pur_whiteslab"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:purwhite_strais"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_orange"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_red"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_sepia"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_orange_slab"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_redslab"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_black_slab"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_sepia_slab"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_stairs_orange"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_stairs_red"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_stairs_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:bricks_path_stairs_sepia"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_7"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_10"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_11"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wallpaper_12"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wave_wall_paper_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wave_wallpaper"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wave_wallpaper_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wave_wallpaper_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wave_wallpaper_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wave_wallpaper_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wave_wallpaper_7"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wave_wallpaper_8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wave_wallpaper_9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:white_plank"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:white_plank_slab"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:white_plank_stairs"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:black_plank"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:black_plank_stairs"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:black_plank_slab"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:floortile_noire_1x_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:floortile_noire_2x_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:floortile_noire_3x_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_dblue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_brown"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_blue"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_green"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_pink"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_purple"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_orange"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_yellow"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:woven_fabric_slab_red"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muretmince_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muretmince_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muretmince_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muretmince_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:muretmince_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:dark_stone"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:white_stne"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:white_cobble_stone_slab"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grey_block"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:grey_stairs"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_plank_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_plank_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_plank_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_plank_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_plank_slab_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_plank_slab_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_plank_slab_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_plank_slab_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_plank_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_plank_slab_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_stone_slab"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_stone_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_stone_slab_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_stone_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_stone_slab_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:cust_stone_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_5"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_6"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_7"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_8"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_9"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_10"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_11"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_12"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_13"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_14"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_15"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_16"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_17"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_18"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_19"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_20"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_21"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_22"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_23"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_24"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_25"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_26"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_27"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:color_block_28"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:blackstone"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:white_stne"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:wavestone"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:black_moderncobble"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:black_oak"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:white_oak"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massifstone_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massifstone_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massifstone_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massifstone_4"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:umodern_bricks"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:umodern_bricks_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:umodern_bricks_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:umodern_bricks_4"
+					buy: 1L
+				}
+			]
+		}
+		{
+			title: "现代家具-橱柜/厨台"
+			icon: "minecraftmodernxl:placard_andesite_dw"
+			entries: [
+				{
+					item: "minecraftmodernxl:boxcase_stride_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_stride_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_stride_white_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_stride_wlw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_stride_grey_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_stride_grey_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_stride_grey_w"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_granite_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_granite_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_granite_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_granite_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_andesite_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_andesite_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_andesite_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_andesite_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_diorite_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_diorite_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:comptoire_diorite_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_dwlw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:boxcase_white_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_diorite_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_diorite_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_diorite_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_diorite_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_granite_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_granite_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_granite_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_granite_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_andesite_dw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_andesite_lw"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_andesite_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:placard_andesite_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drawercupboard_granite_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:drawercupboard_granite_grey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_cupboard_agrey_plank"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_cupboard_agrey_plank_angle"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_cupboard_agrey"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_cupboard_turquoise_lp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_cupboard_turquoise_lp_angle"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_cupboard_jaune_dp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_cupboard_jaune"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_dem_icup_agrey_3_plank"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_dem_icup_turquoise_lp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_dem_icup_white_dp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_cupboard_white_dp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_cupboard_angle_white_dp"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:modern_cupboard_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:simple_modern_cupboard_black"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:simple_modern_cupboard_white"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massiv_counter_b_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massiv_counter_b_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massiv_counter_w_1"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massiv_counter_w_2"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massiv_counter_b_3"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massif_counter_o"
+					buy: 1L
+				}
+				{
+					item: "minecraftmodernxl:massiv_counter_bw"
+					buy: 1L
+				}
+			]
+		}
+	]
+}

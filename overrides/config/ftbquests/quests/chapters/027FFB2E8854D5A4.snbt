@@ -1,0 +1,578 @@
+{
+	id: "027FFB2E8854D5A4"
+	group: ""
+	order_index: 3
+	filename: "027FFB2E8854D5A4"
+	title: "维度冒险"
+	icon: {
+		id: "theabyss:nosaj_sword"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 1.5d
+		y: -1.5d
+		width: 18.0d
+		height: 18.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/weidumen.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "前往热带度假"
+			icon: "tropicraft:blue_beach_float"
+			x: 12.25d
+			y: 3.5d
+			shape: "diamond"
+			description: ["安装附加内容包"]
+			size: 3.5d
+			id: "24DC0B0F0B5AFC73"
+			tasks: [{
+				id: "1188288DC4AFF08C"
+				type: "item"
+				item: "tropicraft:white_chair"
+			}]
+			rewards: [
+				{
+					id: "22EF55983F3C1581"
+					type: "item"
+					item: "tropicraft:coconut_chunk"
+				}
+				{
+					id: "25BFD6097758F564"
+					type: "item"
+					item: "tropicraft:pineapple_cubes"
+				}
+			]
+		}
+		{
+			title: "我..没醉... 真没喝多...."
+			x: 15.0d
+			y: 3.5d
+			description: [
+				"制作椰林飘香  在傍晚18点30分附近  坐在椅子上喝下烈酒   "
+				"商店可购买"
+			]
+			dependencies: ["24DC0B0F0B5AFC73"]
+			id: "3B0C6A4BE3BD5A9E"
+			tasks: [{
+				id: "1EF8A77566E1CB54"
+				type: "item"
+				item: "tropicraft:pina_colada"
+			}]
+			rewards: [{
+				id: "5916382AF7126840"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2
+			}]
+		}
+		{
+			x: 17.0d
+			y: 3.5d
+			subtitle: "在这生活也不错"
+			description: [
+				"使用探险指南针 搜寻koa village"
+				"寻访火山  世界树"
+			]
+			dependencies: ["3B0C6A4BE3BD5A9E"]
+			id: "3657C24D26E2426E"
+			tasks: [{
+				id: "7DAEAC2990453134"
+				type: "checkmark"
+				title: "探访度假村"
+			}]
+			rewards: [{
+				id: "67B19C050A2ABF58"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "梦的入口"
+			x: 11.0d
+			y: -6.0d
+			shape: "diamond"
+			description: [
+				"寻找进入梦境的方法"
+				"使用探险家指南针"
+				"寻找forest hut"
+				"房子里有奇怪的声音？"
+				"查看房子里的异象"
+			]
+			size: 2.0d
+			id: "6C276BBAFB1774ED"
+			tasks: [{
+				id: "7AEB2BCE5AAD3011"
+				type: "item"
+				item: "theabyss:loran_flower"
+			}]
+			rewards: [{
+				id: "6F95E90856F81BB4"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 13.0d
+			y: -6.0d
+			dependencies: ["6C276BBAFB1774ED"]
+			id: "085946CD12DB4CF9"
+			tasks: [{
+				id: "5FFFA49502CCC2B3"
+				type: "checkmark"
+				title: "一台坏掉的收音机？"
+			}]
+			rewards: [{
+				id: "4B4EA604539420A2"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "终末之旅"
+			icon: "minecraft:ender_eye"
+			x: 12.5d
+			y: -1.5d
+			shape: "diamond"
+			description: [
+				"你真的够强了吗？"
+				"前往终末世界"
+				"请先获取飞行道具"
+				"请带好主世界水晶球"
+			]
+			size: 2.0d
+			id: "66CB16D778341B2C"
+			tasks: [{
+				id: "5B9A0BFD0C7A92C0"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "240759995E478E7C"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 15.0d
+			y: -1.5d
+			description: [
+				""
+				"使用探险者指南针搜索endcity"
+				"末地城有大小区分 尝试寻找巨型末地城"
+			]
+			id: "738EB1D97562BDFD"
+			tasks: [{
+				id: "76F2C16A0F01B781"
+				type: "checkmark"
+				title: "探访终末城"
+			}]
+			rewards: [{
+				id: "125F52A7381D1B5F"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "破碎虚空"
+			x: 18.0d
+			y: -1.5d
+			description: ["查看图鉴 虚空蠕虫"]
+			id: "45A2271C729FD808"
+			tasks: [{
+				id: "0EEE03A178F6E006"
+				type: "checkmark"
+				title: "击败虚空"
+			}]
+			rewards: [{
+				id: "1DCF60B5F010D167"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 16.0d
+			y: -1.5d
+			description: [
+				"指南针探寻 末地群系"
+				"探访灯笼树林/雾霭蘑菇地/繁花尖塔/夜影森林"
+				"菌伞丛林/琥珀地"
+			]
+			id: "5021EE9C4DCD7403"
+			tasks: [{
+				id: "223D51FE87CF8508"
+				type: "checkmark"
+				title: "探索终末群系"
+			}]
+			rewards: [{
+				id: "0DB32DDD9B5F3AA5"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 14.0d
+			y: -1.5d
+			description: [
+				""
+				"查看图鉴 灵翼"
+			]
+			id: "482C403C0FAE5645"
+			tasks: [{
+				id: "535B6C4FCD237ED9"
+				type: "checkmark"
+				title: "乘风而起"
+			}]
+			rewards: [
+				{
+					id: "76E249C229CC0E45"
+					type: "item"
+					item: "alexsmobs:animal_dictionary"
+				}
+				{
+					id: "00D9735092EECABB"
+					type: "item"
+					item: "nomisma:coin_4"
+				}
+			]
+		}
+		{
+			x: 14.5d
+			y: -6.0d
+			description: [
+				"真的决定好了吗"
+				"你足够强大吗"
+				"搭建门户  点燃深渊门"
+				"罗兰获取方式在梦境里 收集发光植物"
+			]
+			dependencies: ["085946CD12DB4CF9"]
+			id: "3013093115FB221F"
+			tasks: [
+				{
+					id: "0C0CF50083275194"
+					type: "item"
+					item: "theabyss:unstable_obsidian"
+				}
+				{
+					id: "3F2589EE6BD94D79"
+					type: "item"
+					item: {
+						id: "theabyss:the_abyss"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "196A67DF84CA1086"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3
+			}]
+		}
+		{
+			x: 14.5d
+			y: -5.0d
+			description: [
+				"不稳定黑曜石搭建传送门"
+				"深渊里获取钥匙"
+			]
+			id: "56E9F761C2A3DD4A"
+			tasks: [
+				{
+					id: "51729F5A052D1E5C"
+					type: "item"
+					item: {
+						id: "theabyss:ground_lands"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "6930F12F9C4DC174"
+					type: "item"
+					item: "theabyss:unstable_obsidian"
+				}
+			]
+			rewards: [{
+				id: "1D0EE584CE856314"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 14.5d
+			y: -4.0d
+			description: [
+				"用暗石搭建门户 冰钥开启"
+				"深渊里寻找"
+			]
+			id: "4935269BDB21915A"
+			tasks: [
+				{
+					id: "441788A28AB02F9E"
+					type: "item"
+					item: {
+						id: "theabyss:frost_world"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "005C7A069C52492B"
+					type: "item"
+					item: "theabyss:dark_stone"
+				}
+			]
+			rewards: [{
+				id: "1B3DC112E9D0D00A"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 16.0d
+			y: -6.0d
+			description: [
+				"灵魂之心"
+				"将所有石柱点燃"
+				"深渊之眼 激活祭坛"
+			]
+			id: "1E2DC3B874A3567B"
+			tasks: [
+				{
+					id: "23639320630951DA"
+					type: "item"
+					item: "theabyss:eye_of_abyss"
+				}
+				{
+					id: "5D3A2F6608DAE7A0"
+					type: "item"
+					item: "theabyss:soul_heart"
+				}
+			]
+			rewards: [{
+				id: "6F919174F118EE12"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2
+			}]
+		}
+		{
+			title: "前往下届"
+			x: -6.0d
+			y: -1.0d
+			shape: "diamond"
+			description: ["请佩带钩爪/翅膀/防火饰品 方便移动"]
+			size: 2.0d
+			id: "4B5F60C96B9D66BF"
+			tasks: [{
+				id: "70CAD96334448F89"
+				type: "dimension"
+				dimension: "minecraft:the_nether"
+			}]
+			rewards: [{
+				id: "3FBC893E61673D9F"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -8.5d
+			y: -1.0d
+			id: "712E68F7FCCA77A9"
+			tasks: [{
+				id: "6A4C4000815C91C8"
+				type: "checkmark"
+				title: "探访巨型城堡"
+			}]
+			rewards: [{
+				id: "6399D45148E4261A"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -7.5d
+			y: -1.0d
+			id: "31D371E770CB46A2"
+			tasks: [{
+				id: "0A5A4CE690FAEA63"
+				type: "checkmark"
+				title: "探访生物群系"
+			}]
+			rewards: [{
+				id: "77C631840482B4E4"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "前往月球太空站"
+			icon: {
+				id: "boss_tools:rocket_t1"
+				Count: 1b
+				tag: { }
+			}
+			x: 1.5d
+			y: -11.0d
+			shape: "diamond"
+			description: ["转至星辰大海 任务栏"]
+			size: 2.0d
+			id: "4B50B3A5C0EFC59F"
+			tasks: [{
+				id: "501A80F7EADA2741"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "4E068711FB830971"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -9.5d
+			y: -1.0d
+			id: "07169FA80E1A14F8"
+			tasks: [{
+				id: "1BA31F851AC5BC69"
+				type: "checkmark"
+				title: "击杀熔岩巨兽"
+			}]
+			rewards: [{
+				id: "1C63F2E2BFBA5CAC"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "随身携带水晶球 防止被困时间夹缝"
+			x: 1.5d
+			y: -2.5d
+			description: ["商店可购买"]
+			id: "25F5426E88A2DDCB"
+			tasks: [{
+				id: "398D139FF907C014"
+				type: "checkmark"
+				title: "随身携带主世界绘画 防止被困时间夹缝"
+			}]
+			rewards: [{
+				id: "3C5649727338C57E"
+				type: "item"
+				item: "dimension_crystals:dimension_overworld"
+			}]
+		}
+		{
+			title: "击杀终末熊/月见兽"
+			x: 17.0d
+			y: -1.5d
+			subtitle: "巨型造物"
+			id: "7CB5304E38DF75E2"
+			tasks: [{
+				id: "718AA5B3A1B9AA13"
+				type: "checkmark"
+				title: "击杀终末熊"
+			}]
+			rewards: [{
+				id: "122DC4E022E0DE6D"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -6.0d
+			y: -6.0d
+			shape: "diamond"
+			size: 2.0d
+			id: "1647E608E1CE3936"
+			tasks: [{
+				id: "367D98B75F7FA34F"
+				type: "checkmark"
+				title: "主世界野外Boss"
+			}]
+			rewards: [{
+				id: "3CABCAC69D4299DF"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "击杀钢铁守护者"
+			x: -7.5d
+			y: -6.0d
+			id: "6E68B95F431EC4C3"
+			tasks: [
+				{
+					id: "00A91EED6876EB21"
+					type: "item"
+					item: "mowziesmobs:wrought_axe"
+				}
+				{
+					id: "008222144B526E0F"
+					type: "item"
+					item: "mowziesmobs:wrought_helmet"
+				}
+			]
+			rewards: [{
+				id: "41A203166B4FD585"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "击杀太阳酋长"
+			x: -8.5d
+			y: -6.0d
+			id: "5DDF9219D18F514C"
+			tasks: [{
+				id: "62B7B41414BC3BB0"
+				type: "item"
+				item: "mowziesmobs:barako_mask"
+			}]
+			rewards: [{
+				id: "39E33BA8119B0AF2"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "击杀霜冻巨熊"
+			x: -9.5d
+			y: -6.0d
+			id: "0542579005BA2BC6"
+			tasks: [{
+				id: "7E6E03879FF3CFC9"
+				type: "item"
+				item: {
+					id: "mowziesmobs:ice_crystal"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "293D6A71AB3E00D6"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+	]
+}

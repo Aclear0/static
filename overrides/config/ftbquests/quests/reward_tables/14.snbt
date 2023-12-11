@@ -1,0 +1,49 @@
+{
+	id: "65A8F2C4597CED0A"
+	order_index: 14
+	title: "14"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:t_chair_1" }
+		{ item: "minecraftmodernxl:t_chair_2" }
+		{ item: "minecraftmodernxl:t_chair_3" }
+		{ item: "minecraftmodernxl:t_chair_4" }
+		{ item: "minecraftmodernxl:mchair_lw" }
+		{ item: "minecraftmodernxl:mchair_dw" }
+		{ item: "minecraftmodernxl:mchair_grey_dw" }
+		{ item: "minecraftmodernxl:mchair_grey_lw" }
+		{ item: "minecraftmodernxl:modernchair_dw" }
+		{ item: "minecraftmodernxl:modernchair_lw" }
+		{ item: "minecraftmodernxl:modernchair_brown" }
+		{ item: "minecraftmodernxl:ext_chair_1" }
+		{ item: "minecraftmodernxl:ext_chair_2" }
+		{ item: "minecraftmodernxl:ext_chair_3" }
+		{ item: "minecraftmodernxl:ochair_black" }
+		{ item: "minecraftmodernxl:ochair_dw" }
+		{ item: "minecraftmodernxl:ochair_lw" }
+		{ item: "minecraftmodernxl:ochair_white" }
+		{ item: "minecraftmodernxl:schair_1" }
+		{ item: "minecraftmodernxl:schair_2" }
+		{ item: "minecraftmodernxl:schair_3" }
+		{ item: "minecraftmodernxl:schair_4" }
+		{ item: "minecraftmodernxl:umodernchair_1" }
+		{ item: "minecraftmodernxl:umodernchair_2" }
+		{ item: "minecraftmodernxl:umodernchair_3" }
+		{ item: "minecraftmodernxl:transat_iron_a" }
+		{ item: "minecraftmodernxl:transat_wood_a" }
+		{ item: "minecraftmodernxl:modern_bar_stool_white_dw" }
+		{ item: "minecraftmodernxl:modern_bar_stool_white_lw" }
+		{ item: "minecraftmodernxl:modern_bar_stool_grey_dw" }
+		{ item: "minecraftmodernxl:modern_bar_stool_grey_lw" }
+		{ item: "minecraftmodernxl:modern_bar_stool_brown" }
+		{ item: "minecraftmodernxl:umodernbar_stool" }
+		{ item: "minecraftmodernxl:umodernbar_stool_brown" }
+		{ item: "minecraftmodernxl:umodernbar_stool_white" }
+		{ item: "minecraftmodernxl:ultra_mode_barstool_black" }
+		{ item: "minecraftmodernxl:ultra_mode_barstool_white" }
+		{ item: "minecraftmodernxl:obartstool_black" }
+		{ item: "minecraftmodernxl:obartstool_dw" }
+		{ item: "minecraftmodernxl:obartstool_lw" }
+		{ item: "minecraftmodernxl:obartstool_white" }
+	]
+}

@@ -1,0 +1,430 @@
+{
+	id: "18AF7D08A2552C8B"
+	group: ""
+	order_index: 5
+	filename: "18AF7D08A2552C8B"
+	title: "实用道具"
+	icon: "wings:blue_butterfly_wings_bottle"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 7.0d
+		y: -6.5d
+		width: 20.0d
+		height: 20.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/chuansong.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "升级钩爪"
+			x: 13.0d
+			y: -11.0d
+			shape: "diamond"
+			subtitle: "将你的木钩爪升级为钻石钩爪"
+			description: [
+				"可附魔钩索延申 抓钩提速"
+				"石制钩爪合成表 8圆石+木钩爪"
+				"钻石钩爪合成表 8钻石+金钩爪"
+				"钻石钩爪 更加强力"
+				""
+			]
+			size: 2.0d
+			id: "7989D0BA18ED44F3"
+			tasks: [{
+				id: "530BA01F61173186"
+				type: "item"
+				item: {
+					id: "grapple_hooks:hook_diamond"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "4DD5BDE283D01DEE"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "提取生物DNA 实现资源自由"
+			x: 13.5d
+			y: -9.5d
+			description: [
+				"制作笼子   制作DNA采样  攻击想采集的实体获取生物样本 将样本放入笼中"
+				"笼子内放置干草块 作为环境  对应农场动物或中立生物"
+				"放置石头  作为怪物的环境  （放置钻石原矿获得更高产量，原矿可制作）"
+				"下届生物 需要用岩浆块作为环境   镶金黑石提升产量"
+				"末地生物需要末地石（紫颂花更佳）"
+				"水生生物需要沙子（或能提供更高产量的红沙）并用水覆盖笼子（将笼子直接放到水中或手持水桶shift+右键笼子）"
+				"寒冷生物群系中的生物需要雪块作为环境（或者蓝冰提供更高产量）"
+				"生成于沙漠中的生物需要沙子（或者红沙来提高产量）"
+			]
+			id: "4A5545E475BC8320"
+			tasks: [
+				{
+					id: "6E391DFF62435A97"
+					type: "item"
+					item: "cagedmobs:mobcage"
+				}
+				{
+					id: "48C9EA5BDB4C49C6"
+					type: "item"
+					item: "cagedmobs:hoppingmobcage"
+				}
+				{
+					id: "59ED29D1D5A10355"
+					type: "item"
+					item: "cagedmobs:dnasamplerdiamond"
+				}
+			]
+			rewards: [{
+				id: "20F0276E23F1ABA6"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "升级笼子功能"
+			x: 14.5d
+			y: -9.5d
+			id: "16AFC8BB2CD0FB54"
+			tasks: [
+				{
+					id: "2FBB3F7F0C51BD8C"
+					type: "item"
+					item: "cagedmobs:cookingupgrade"
+				}
+				{
+					id: "144314A96FF2EF1E"
+					type: "item"
+					item: "cagedmobs:lightningupgrade"
+				}
+				{
+					id: "02A006916DA96479"
+					type: "item"
+					item: "cagedmobs:arrowupgrade"
+				}
+			]
+			rewards: [{
+				id: "5D8835B95BD956A5"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3
+			}]
+		}
+		{
+			x: 18.5d
+			y: -9.5d
+			id: "4B6F895DD9D28D84"
+			tasks: [{
+				id: "466782299F8645D2"
+				type: "item"
+				item: "corail_woodcutter:birch_woodcutter"
+			}]
+			rewards: [{
+				id: "21B61B7FE7273557"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "多功能工具"
+			x: 17.5d
+			y: -9.5d
+			description: ["一物多用"]
+			id: "4F543EDD50EC7716"
+			tasks: [{
+				id: "39B4B53EE2D3D988"
+				type: "item"
+				item: {
+					id: "easypaxelmod:diamond_paxel"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "1265D8EFD62DE2CD"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2
+			}]
+		}
+		{
+			title: "提升箱子存储"
+			x: 16.5d
+			y: -9.5d
+			id: "0B85D3FB51B94F6E"
+			tasks: [
+				{
+					id: "5E555CCE636628D0"
+					type: "item"
+					item: "expandedstorage:diamond_chest"
+				}
+				{
+					id: "490833A915C1B7D5"
+					type: "item"
+					item: "expandedstorage:diamond_barrel"
+				}
+			]
+			rewards: [{
+				id: "2ADBEA7EC245299A"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3
+			}]
+		}
+		{
+			x: 12.5d
+			y: -8.5d
+			id: "1D52B784C52D1EF9"
+			tasks: [{
+				id: "0474A8A6CEE5FC22"
+				type: "item"
+				item: {
+					id: "mining_helmet:mining_helmet"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "27E4DBF82580A625"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 13.5d
+			y: -8.5d
+			id: "53321BB4A2836E8B"
+			tasks: [{
+				id: "1A571A6EF3F65EFA"
+				type: "item"
+				item: {
+					id: "usefulhats:mining_hat"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "4AF6BD46B362EE4B"
+				type: "xp"
+				xp: 10
+			}]
+		}
+		{
+			title: "修复物品"
+			x: 15.5d
+			y: -9.5d
+			description: ["可升级  修复耐久"]
+			id: "2C977C01FB128F59"
+			tasks: [{
+				id: "2C71EB5D0495CDA8"
+				type: "item"
+				item: "repairchests:basic_chest"
+			}]
+			rewards: [{
+				id: "3366D50610B837C2"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "库存整理"
+			x: 19.5d
+			y: -9.5d
+			description: [
+				"将箱子整合器 放置于需要整理的箱子附近  终端连接整合器"
+				"可管理大量箱子内物品"
+			]
+			id: "7DB7FFF16EC72BAF"
+			tasks: [
+				{
+					id: "4B874F1F2423B1B8"
+					type: "item"
+					item: "toms_storage:ts.inventory_connector"
+				}
+				{
+					id: "2E5C25DAEAFB7885"
+					type: "item"
+					item: "toms_storage:ts.storage_terminal"
+				}
+			]
+			rewards: [{
+				id: "3C77DC50EE67EFFB"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3
+			}]
+		}
+		{
+			title: "升级你的滑翔伞耐力"
+			x: 15.5d
+			y: -11.0d
+			description: ["在村庄的雕像 进行祈祷"]
+			id: "1BC133EB12014171"
+			tasks: [{
+				id: "662716C0226AFA07"
+				type: "item"
+				item: "paraglider:spirit_orb"
+			}]
+		}
+		{
+			x: 12.5d
+			y: -3.5d
+			id: "1C07729A65EDD05D"
+			tasks: [{
+				id: "46528B7703CF169A"
+				type: "item"
+				item: {
+					id: "display_case:display_case"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "49A2A973E59EC76C"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "快速回家"
+			x: 14.5d
+			y: -11.0d
+			description: ["绑定床  快速回家"]
+			id: "1D0CD60D48E0D7A9"
+			tasks: [{
+				id: "7D6BEB6695A70893"
+				type: "item"
+				item: {
+					id: "recall:item_recall"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "3AE118846809FEBC"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 14.5d
+			y: -8.5d
+			id: "560A3B2998030994"
+			tasks: [{
+				id: "61447109A245E088"
+				type: "item"
+				item: {
+					id: "modernlife:flashlight"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "1BFEDDCDF7FDECBE"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "因为怕痛全点防御"
+			x: 20.5d
+			y: -9.5d
+			id: "1CDEDD7C5B9D2D4E"
+			tasks: [{
+				id: "5EDE4A25D3BDA920"
+				type: "item"
+				item: {
+					id: "bettershields:diamond_shield"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "027EAD5F3A8CA05F"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2
+			}]
+		}
+		{
+			title: "捕鱼陷阱"
+			x: 16.5d
+			y: -11.0d
+			description: ["放置水下  内置食物  等待收获"]
+			id: "1B4BB44BBD048BF5"
+			tasks: [{
+				id: "589E6694D88F8D84"
+				type: "item"
+				item: "growthcraft_trapper:fishtrap_oak"
+			}]
+			rewards: [{
+				id: "522BCF27C11C3C42"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "抽水"
+			x: 17.5d
+			y: -11.0d
+			description: ["随意放置就行  会缓慢抽水上来"]
+			id: "4986EB5FA1F258F7"
+			tasks: [{
+				id: "08035C9F1E111F3C"
+				type: "item"
+				item: "well:well"
+			}]
+			rewards: [{
+				id: "21FBEC50D8AB07A9"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 12.5d
+			y: -4.5d
+			description: ["放置地面  旁边放绿宝石块  次日早晨便会有无业村民来应聘"]
+			id: "4E590F2A2494A1B7"
+			tasks: [
+				{
+					id: "451022EBC3FDC5D0"
+					type: "item"
+					item: "helpwanted:villagerpost"
+				}
+				{
+					id: "029619B2C7E8D90C"
+					type: "item"
+					item: "minecraft:emerald_block"
+				}
+			]
+			rewards: [{
+				id: "70033962DCE34F30"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

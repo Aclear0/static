@@ -1,0 +1,13 @@
+{
+	id: "5FA68911569CF727"
+	order_index: 15
+	title: "15"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraft:dirt", count: 640 }
+		{ item: "minecraft:sand", count: 640 }
+		{ item: "minecraft:gravel", count: 640 }
+		{ item: "rankine:mortar", count: 320 }
+		{ item: "minecraft:cobblestone", count: 640 }
+	]
+}

@@ -1,0 +1,7 @@
+{
+	id: "3AA7B0E6618FBF7C"
+	order_index: 5
+	title: "5"
+	loot_size: 1
+	rewards: [{ item: "touhou_little_maid:smart_slab_init" }]
+}

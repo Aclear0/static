@@ -1,0 +1,7 @@
+{
+	id: "5A3411525B7EDF46"
+	order_index: 3
+	title: "3"
+	loot_size: 1
+	rewards: [{ item: "majobroom:broom_item" }]
+}

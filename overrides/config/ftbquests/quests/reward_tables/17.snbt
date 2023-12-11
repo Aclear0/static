@@ -1,0 +1,38 @@
+{
+	id: "0DA0CB887C95D847"
+	order_index: 17
+	title: "17"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:table_dw_1x_1" }
+		{ item: "minecraftmodernxl:table_dw_1x_2" }
+		{ item: "minecraftmodernxl:table_dw_2x_2" }
+		{ item: "minecraftmodernxl:table_dw_3x_3" }
+		{ item: "minecraftmodernxl:table_grey_1x_1" }
+		{ item: "minecraftmodernxl:table_grey_1x_2" }
+		{ item: "minecraftmodernxl:table_grey_2x_2" }
+		{ item: "minecraftmodernxl:table_grey_3x_3" }
+		{ item: "minecraftmodernxl:lily_table_dw" }
+		{ item: "minecraftmodernxl:lily_table_vitredw" }
+		{ item: "minecraftmodernxl:lily_table_black" }
+		{ item: "minecraftmodernxl:lily_table_vitre_black" }
+		{ item: "minecraftmodernxl:lily_table_white" }
+		{ item: "minecraftmodernxl:lily_table_vitred_white" }
+		{ item: "minecraftmodernxl:table_white_1x_1" }
+		{ item: "minecraftmodernxl:table_white_1x_2" }
+		{ item: "minecraftmodernxl:table_white_2x_2" }
+		{ item: "minecraftmodernxl:table_white_3x_3" }
+		{ item: "minecraftmodernxl:glass_tabl_grey_1_x_1" }
+		{ item: "minecraftmodernxl:glass_tabl_grey_1_x_2" }
+		{ item: "minecraftmodernxl:glass_tabl_grey_2_x_2" }
+		{ item: "minecraftmodernxl:glass_tabl_white_1_x_1" }
+		{ item: "minecraftmodernxl:glass_tabl_white_1_x_2" }
+		{ item: "minecraftmodernxl:glass_tabl_white" }
+		{ item: "minecraftmodernxl:glass_tabl_white_1_x_3a_1" }
+		{ item: "minecraftmodernxl:glass_tabl_white_1_x_3a_2" }
+		{ item: "minecraftmodernxl:glass_tabl_grey_1_x_3a_1" }
+		{ item: "minecraftmodernxl:glass_tabl_grey_1_x_3a_2" }
+		{ item: "minecraftmodernxl:entier_glasstable" }
+		{ item: "minecraftmodernxl:entier_glasstable_w" }
+	]
+}

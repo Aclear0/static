@@ -1,0 +1,92 @@
+{
+  "bookGuiScale": 0,
+  "clickedVisualize": true,
+  "bookData": {
+    "marquot:forgotten_tale": {
+      "viewedEntries": [
+        "marquot:test/category_1_entry_1"
+      ],
+      "bookmarks": [],
+      "history": [
+        "marquot:test/category_1_entry_1"
+      ],
+      "completedManualQuests": []
+    },
+    "touhou_little_maid:memorizable_gensokyo": {
+      "viewedEntries": [
+        "touhou_little_maid:overview/what_is_touhou",
+        "touhou_little_maid:overview/power_point",
+        "touhou_little_maid:overview/multiblocks_altar",
+        "touhou_little_maid:overview/gohei_and_danmaku",
+        "touhou_little_maid:maid/spawn_maid",
+        "touhou_little_maid:maid/maid_base"
+      ],
+      "bookmarks": [],
+      "history": [
+        "touhou_little_maid:overview/multiblocks_altar",
+        "touhou_little_maid:overview/gohei_and_danmaku",
+        "touhou_little_maid:maid/maid_base",
+        "touhou_little_maid:maid/spawn_maid",
+        "touhou_little_maid:overview/power_point",
+        "touhou_little_maid:overview/what_is_touhou"
+      ],
+      "completedManualQuests": []
+    },
+    "betterendforge:guidebook": {
+      "viewedEntries": [
+        "betterendforge:rituals/eternal_ritual",
+        "betterendforge:rituals/infusion_ritual"
+      ],
+      "bookmarks": [],
+      "history": [
+        "betterendforge:rituals/infusion_ritual",
+        "betterendforge:rituals/eternal_ritual"
+      ],
+      "completedManualQuests": []
+    },
+    "croptopia:guide": {
+      "viewedEntries": [
+        "croptopia:crops/crops",
+        "croptopia:crops/trees"
+      ],
+      "bookmarks": [],
+      "history": [
+        "croptopia:crops/trees",
+        "croptopia:crops/crops"
+      ],
+      "completedManualQuests": []
+    },
+    "cyclic:cyclic_guide_book": {
+      "viewedEntries": [
+        "cyclic:misc/peat_fuel",
+        "cyclic:consume/experience_food"
+      ],
+      "bookmarks": [],
+      "history": [
+        "cyclic:consume/experience_food",
+        "cyclic:misc/peat_fuel"
+      ],
+      "completedManualQuests": []
+    },
+    "parcool:parcool_guide": {
+      "viewedEntries": [
+        "parcool:about/about_parcool"
+      ],
+      "bookmarks": [],
+      "history": [
+        "parcool:about/about_parcool"
+      ],
+      "completedManualQuests": []
+    },
+    "ars_nouveau:worn_notebook": {
+      "viewedEntries": [
+        "ars_nouveau:getting_started/spell_casting"
+      ],
+      "bookmarks": [],
+      "history": [
+        "ars_nouveau:getting_started/spell_casting"
+      ],
+      "completedManualQuests": []
+    }
+  }
+}

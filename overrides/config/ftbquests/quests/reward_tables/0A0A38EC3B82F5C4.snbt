@@ -1,0 +1,14 @@
+{
+	id: "0A0A38EC3B82F5C4"
+	order_index: 50
+	title: "老虎机"
+	loot_size: 1
+	rewards: [
+		{ item: "nomisma:coin_4", weight: 50 }
+		{ item: "nomisma:coin_4", count: 2, weight: 40 }
+		{ item: "nomisma:coin_4", count: 3, weight: 30 }
+		{ item: "nomisma:coin_4", count: 5, weight: 20 }
+		{ item: "nomisma:coin_4", count: 64 }
+		{ item: "minecraft:bread", weight: 300 }
+	]
+}

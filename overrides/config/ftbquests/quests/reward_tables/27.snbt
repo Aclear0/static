@@ -1,0 +1,71 @@
+{
+	id: "2C71FCD32BBC3B57"
+	order_index: 27
+	title: "27"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:black_cage_lamp" }
+		{ item: "minecraftmodernxl:black_livingroomlamp" }
+		{ item: "minecraftmodernxl:modern_livinglamp_1" }
+		{ item: "minecraftmodernxl:modern_livinglamp_2" }
+		{ item: "minecraftmodernxl:asialanternrs" }
+		{ item: "minecraftmodernxl:asialanternblanche" }
+		{ item: "minecraftmodernxl:asialanternbleu" }
+		{ item: "minecraftmodernxl:lantern_orange_1_off" }
+		{ item: "minecraftmodernxl:lantern_pink_1_off" }
+		{ item: "minecraftmodernxl:asia_lantern_bleusombre" }
+		{ item: "minecraftmodernxl:asia_lantern_green_off" }
+		{ item: "minecraftmodernxl:asia_lantern_purple" }
+		{ item: "minecraftmodernxl:japanwoodlantern" }
+		{ item: "minecraftmodernxl:asia_lantern_yellow_off" }
+		{ item: "minecraftmodernxl:cable" }
+		{ item: "minecraftmodernxl:lily_light_grey" }
+		{ item: "minecraftmodernxl:lily_light_dw" }
+		{ item: "minecraftmodernxl:lily_light_lw" }
+		{ item: "minecraftmodernxl:modern_lamp_dw" }
+		{ item: "minecraftmodernxl:modern_lamp_lw" }
+		{ item: "minecraftmodernxl:modern_lamp_grey" }
+		{ item: "minecraftmodernxl:mural_light_deco" }
+		{ item: "minecraftmodernxl:modern_neonlight" }
+		{ item: "minecraftmodernxl:simplerooflight" }
+		{ item: "minecraftmodernxl:wallneon" }
+		{ item: "minecraftmodernxl:switch_off" }
+		{ item: "minecraftmodernxl:wall_lamp_1" }
+		{ item: "minecraftmodernxl:wall_lamp_2" }
+		{ item: "minecraftmodernxl:wall_lamp_3" }
+		{ item: "minecraftmodernxl:wall_lamp_4" }
+		{ item: "minecraftmodernxl:wall_lamp_5" }
+		{ item: "minecraftmodernxl:modern_muralight" }
+		{ item: "minecraftmodernxl:modernmuralight_2" }
+		{ item: "minecraftmodernxl:modern_wall_fireplace_2" }
+		{ item: "minecraftmodernxl:modern_wall_fireplace_3" }
+		{ item: "minecraftmodernxl:lamp1" }
+		{ item: "minecraftmodernxl:grandlamp_1" }
+		{ item: "minecraftmodernxl:lamp_salon_dw" }
+		{ item: "minecraftmodernxl:lamp_salon_grey" }
+		{ item: "minecraftmodernxl:stylelamp_1_wood" }
+		{ item: "minecraftmodernxl:stylelamp_2_wood" }
+		{ item: "minecraftmodernxl:kitchen_light" }
+		{ item: "minecraftmodernxl:modern_lamp" }
+		{ item: "minecraftmodernxl:livinggranlamp_1" }
+		{ item: "minecraftmodernxl:firecoal_3" }
+		{ item: "minecraftmodernxl:modern_wall_fireplace_1" }
+		{ item: "minecraftmodernxl:modern_lightbulb_dw" }
+		{ item: "minecraftmodernxl:modern_luster_1" }
+		{ item: "minecraftmodernxl:modern_luster_2" }
+		{ item: "minecraftmodernxl:u_modern_lamp_1" }
+		{ item: "minecraftmodernxl:modern_light" }
+		{ item: "minecraftmodernxl:modern_amp_lamp" }
+		{ item: "minecraftmodernxl:modern_rainlight" }
+		{ item: "minecraftmodernxl:modern_rainlight_3" }
+		{ item: "minecraftmodernxl:modrn_rainlight_2" }
+		{ item: "minecraftmodernxl:amp_modernlight_2" }
+		{ item: "minecraftmodernxl:wavelampe" }
+		{ item: "minecraftmodernxl:fire_glass_1" }
+		{ item: "minecraftmodernxl:fireglass_2" }
+		{ item: "minecraftmodernxl:whitelightblock" }
+		{ item: "minecraftmodernxl:candleplate_orange_dw" }
+		{ item: "minecraftmodernxl:candle_3_white" }
+		{ item: "minecraftmodernxl:candle_3_black" }
+	]
+}

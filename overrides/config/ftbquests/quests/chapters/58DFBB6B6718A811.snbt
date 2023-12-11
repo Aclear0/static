@@ -1,0 +1,157 @@
+{
+	id: "58DFBB6B6718A811"
+	group: "036E079C15F2B292"
+	order_index: 3
+	filename: "58DFBB6B6718A811"
+	title: "抽奖/盲盒"
+	icon: "nomisma:coin_5"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "女仆用品相关抽奖"
+			icon: {
+				id: "touhou_little_maid:entity_placeholder"
+				Count: 1b
+				tag: {
+					RecipeId: "touhou_little_maid:altar/spawn_box"
+				}
+			}
+			x: -1.0d
+			y: 0.5d
+			id: "1A31F72E912F9D54"
+			tasks: [{
+				id: "363F7E62FF28C1EE"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 10L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "064AD986619AC383"
+				type: "questsadditions:repeat_choice"
+				icon: {
+					id: "touhou_little_maid:entity_placeholder"
+					Count: 1b
+					tag: {
+						RecipeId: "touhou_little_maid:altar/spawn_box"
+					}
+				}
+				table_id: 7962748196915798198L
+			}]
+		}
+		{
+			title: "金币食物抽奖"
+			disable_toast: true
+			x: -1.0d
+			y: -1.0d
+			subtitle: "以小博大  摩托变单车"
+			id: "215E7BA1B694667F"
+			tasks: [{
+				id: "641E06C5A5983CBB"
+				type: "item"
+				disable_toast: true
+				item: "nomisma:coin_4"
+				consume_items: true
+			}]
+			rewards: [{
+				id: "37041CA7EB90ACFB"
+				type: "questsadditions:repeat_random"
+				icon: "nomisma:coin_4"
+				table_id: 723453277408261572L
+			}]
+		}
+		{
+			title: "5连抽"
+			icon: "nomisma:coin_5"
+			disable_toast: true
+			x: 0.0d
+			y: -1.0d
+			id: "7557F6F99AA30818"
+			tasks: [{
+				id: "6579EE9332587BB1"
+				type: "item"
+				disable_toast: true
+				item: "nomisma:coin_4"
+				count: 5L
+				consume_items: true
+				only_from_crafting: false
+				match_nbt: false
+			}]
+			rewards: [
+				{
+					id: "51E59FD7C7B36FCB"
+					type: "questsadditions:repeat_random"
+					auto: "enabled"
+					table_id: 723453277408261572L
+				}
+				{
+					id: "1EF424FB6870BBB9"
+					type: "questsadditions:repeat_random"
+					auto: "enabled"
+					table_id: 723453277408261572L
+				}
+				{
+					id: "3211B1CE8F5BD785"
+					type: "questsadditions:repeat_random"
+					auto: "enabled"
+					table_id: 723453277408261572L
+				}
+				{
+					id: "21DC704EBCE34F6C"
+					type: "questsadditions:repeat_random"
+					auto: "enabled"
+					table_id: 723453277408261572L
+				}
+				{
+					id: "1B864448E5FD9E3C"
+					type: "questsadditions:repeat_random"
+					auto: "enabled"
+					table_id: 723453277408261572L
+				}
+			]
+		}
+		{
+			title: "旅行背包抽奖"
+			icon: {
+				id: "travelersbackpack:standard"
+				Count: 1b
+				tag: { }
+			}
+			x: 0.0d
+			y: 0.5d
+			id: "292667DB7D4A7E82"
+			tasks: [{
+				id: "35CEC678D66CCCF2"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 18L
+				consume_items: true
+			}]
+			rewards: [{
+				id: "5A9F766A1DE36D42"
+				type: "questsadditions:repeat_random"
+				table_id: 7365813693121855439L
+			}]
+		}
+		{
+			title: "每日免费一抽"
+			x: -4.0d
+			y: -1.0d
+			subtitle: "每24分钟可以抽一次"
+			repeatable: true
+			id: "26BA47431316ABD7"
+			tasks: [{
+				id: "6690B4ADCF0EBCEE"
+				type: "questsadditions:time"
+				elapsedTime: 1440L
+				gameTime: "game"
+			}]
+			rewards: [{
+				id: "264FE8B731935562"
+				type: "random"
+				table_id: 723453277408261572L
+			}]
+		}
+	]
+}

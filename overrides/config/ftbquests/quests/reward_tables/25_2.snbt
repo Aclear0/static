@@ -1,0 +1,7 @@
+{
+	id: "15B59C1FCDC8E249"
+	order_index: 56
+	title: "25"
+	loot_size: 1
+	rewards: [{ item: "nomisma:coin_4", count: 22 }]
+}

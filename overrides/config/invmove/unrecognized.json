@@ -1,0 +1,20 @@
+{
+  "allowMovement": {
+    "net.infstudio.goki.client.gui.GuiStats": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "dynamiclabs.immersivefx.sndctrl.gui.QuickVolumeScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "net.minecraft.client.gui.screen.MainMenuScreen": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "net.yezon.theabyss.gui.WikiGuiGuiWindow": true
+  },
+  "hideBackground": {
+    "net.infstudio.goki.client.gui.GuiStats": true,
+    "top.theillusivec4.curios.client.gui.CuriosScreen": true,
+    "mezz.jei.gui.recipes.RecipesGui": true,
+    "dev.ftb.mods.ftblibrary.ui.ScreenWrapper": true,
+    "com.github.alexthe666.alexsmobs.client.gui.GUIAnimalDictionary": true,
+    "net.yezon.theabyss.gui.WikiGuiGuiWindow": true
+  }
+}

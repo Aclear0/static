@@ -1,0 +1,52 @@
+{
+	id: "63BA78FAEBC07556"
+	order_index: 32
+	title: "33"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:wallbox_black" }
+		{ item: "minecraftmodernxl:wallbox_w_grey" }
+		{ item: "minecraftmodernxl:wallbox_wblue" }
+		{ item: "minecraftmodernxl:wallbox_wyellow" }
+		{ item: "minecraftmodernxl:wallbox_wgreen" }
+		{ item: "minecraftmodernxl:wallbox_wred" }
+		{ item: "minecraftmodernxl:wallbox_plant_black" }
+		{ item: "minecraftmodernxl:wallbox_plantw_grey" }
+		{ item: "minecraftmodernxl:wallbox_plantw_blue" }
+		{ item: "minecraftmodernxl:wallbox_plantw_yellow" }
+		{ item: "minecraftmodernxl:wallbox_plantw_green" }
+		{ item: "minecraftmodernxl:wallbox_plant_wred" }
+		{ item: "minecraftmodernxl:muraldeco_lw" }
+		{ item: "minecraftmodernxl:muraldeco_dw" }
+		{ item: "minecraftmodernxl:muraldeco_white" }
+		{ item: "minecraftmodernxl:muraldeco_black" }
+		{ item: "minecraftmodernxl:hanging_outils_1" }
+		{ item: "minecraftmodernxl:hanging_outils_2" }
+		{ item: "minecraftmodernxl:hanging_outils_3" }
+		{ item: "minecraftmodernxl:hanging_outils_4" }
+		{ item: "minecraftmodernxl:hanging_outils_5" }
+		{ item: "minecraftmodernxl:clock_red" }
+		{ item: "minecraftmodernxl:clock_yellow" }
+		{ item: "minecraftmodernxl:clock_blue" }
+		{ item: "minecraftmodernxl:clock_grey" }
+		{ item: "minecraftmodernxl:clock_orange" }
+		{ item: "minecraftmodernxl:clock_pink" }
+		{ item: "minecraftmodernxl:clock_dw" }
+		{ item: "minecraftmodernxl:clock_lw" }
+		{ item: "minecraftmodernxl:modern_shalf_book_black" }
+		{ item: "minecraftmodernxl:modern_shalf_book_white" }
+		{ item: "minecraftmodernxl:modern_shalf_book_dw" }
+		{ item: "minecraftmodernxl:modern_shalf_book_lw" }
+		{ item: "minecraftmodernxl:modern_shalf_black" }
+		{ item: "minecraftmodernxl:modern_shalf_white" }
+		{ item: "minecraftmodernxl:modern_shalf_dw" }
+		{ item: "minecraftmodernxl:modern_shalf_lw" }
+		{ item: "minecraftmodernxl:modern_shalfpot_black" }
+		{ item: "minecraftmodernxl:modern_shalfpot_white" }
+		{ item: "minecraftmodernxl:modern_shalfpot_dw" }
+		{ item: "minecraftmodernxl:modern_shalfpot_lw" }
+		{ item: "minecraftmodernxl:bamboo_screen" }
+		{ item: "minecraftmodernxl:bamboo_screen_2" }
+		{ item: "minecraftmodernxl:bamboo_screen_3" }
+	]
+}

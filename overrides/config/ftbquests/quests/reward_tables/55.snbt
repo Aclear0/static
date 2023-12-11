@@ -1,0 +1,7 @@
+{
+	id: "12E0CB5BF797DCE1"
+	order_index: 58
+	title: "55"
+	loot_size: 1
+	rewards: [{ item: "create:handheld_worldshaper" }]
+}

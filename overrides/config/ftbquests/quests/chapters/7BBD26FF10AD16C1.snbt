@@ -1,0 +1,171 @@
+{
+	id: "7BBD26FF10AD16C1"
+	group: ""
+	order_index: 10
+	filename: "7BBD26FF10AD16C1"
+	title: "？"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.0d
+		y: -1.0d
+		width: 25.0d
+		height: 25.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/yanjing.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "如梦似幻"
+			icon: "minecraft:ender_eye"
+			x: 7.5d
+			y: -2.0d
+			size: 2.0d
+			id: "084BF844DDB33E51"
+			tasks: [{
+				id: "6A1EA9A11993437C"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "12D122C65A183D11"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			icon: "minecraft:ender_eye"
+			x: 0.0d
+			y: -9.0d
+			description: ["夜晚的天空 很奇怪 不详的感觉"]
+			size: 2.0d
+			id: "209A1089531CD821"
+			tasks: [{
+				id: "12DD25DE0A6A7A08"
+				type: "checkmark"
+				title: "夜空"
+			}]
+			rewards: [{
+				id: "10F33D45D30A8D35"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			icon: "minecraft:ender_eye"
+			x: 6.5d
+			y: 3.5d
+			description: ["部分光影会覆盖天空盒  如看不到可以尝试切换光影"]
+			size: 2.0d
+			id: "3B16885C1BB78BF3"
+			tasks: [{
+				id: "6A247ED3DAB8D148"
+				type: "checkmark"
+				title: "血色之月"
+			}]
+			rewards: [{
+				id: "3E2CB09BC835FFB0"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "？"
+			icon: "minecraft:ender_eye"
+			x: 5.0d
+			y: -7.0d
+			description: ["最近总是做梦"]
+			size: 2.0d
+			id: "579C4FE06CB99453"
+			tasks: [{
+				id: "4F266B0C10FFDA3B"
+				type: "dimension"
+				dimension: "theabyss:dream"
+			}]
+			rewards: [
+				{
+					id: "67F7B8D56A0C357C"
+					type: "item"
+					item: "theabyss:loran_flower"
+				}
+				{
+					id: "48FA36A4A5571049"
+					type: "item"
+					item: "nomisma:coin_4"
+				}
+			]
+		}
+		{
+			title: "它们到底是什么生物？？"
+			icon: "minecraft:ender_eye"
+			x: -3.0d
+			y: -7.0d
+			size: 2.0d
+			id: "4A24EE76DAF49F9F"
+			tasks: [{
+				id: "56B9B003CC149661"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "67511207ABC46FF8"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			icon: "minecraft:ender_eye"
+			x: -6.5d
+			y: -3.5d
+			size: 2.0d
+			id: "4B14FE9B0B6E4E08"
+			tasks: [{
+				id: "7BC7E12D6150058B"
+				type: "checkmark"
+				title: "去宇宙梦境找寻答案"
+			}]
+			rewards: [{
+				id: "7FB1E2CF8F9D55C5"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			icon: "minecraft:ender_eye"
+			x: -6.5d
+			y: 3.5d
+			size: 2.0d
+			id: "4C1EDEEC802CA626"
+			tasks: [{
+				id: "25DBDD2C6FFFB96A"
+				type: "checkmark"
+				title: "有陨石坠毁的痕迹"
+			}]
+			rewards: [{
+				id: "29C3DC28E17D8B76"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			icon: "minecraft:ender_eye"
+			x: -1.5d
+			y: 6.5d
+			description: ["像是一场梦"]
+			size: 2.0d
+			id: "17047C255F833344"
+			tasks: [{
+				id: "46652DA66B84F573"
+				type: "checkmark"
+				title: "这真的是我生存的地球吗？"
+			}]
+			rewards: [{
+				id: "29BD5CB7E8522C21"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

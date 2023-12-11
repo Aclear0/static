@@ -1,0 +1,521 @@
+{
+	id: "2F79C686817F71CC"
+	group: ""
+	order_index: 2
+	filename: "2F79C686817F71CC"
+	title: "主要事件(玩法引导）"
+	icon: {
+		id: "useless_sword:sword_of_fate"
+		Count: 1b
+		tag: {
+			Damage: 0
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 0.5d
+		y: -1.5d
+		width: 20.0d
+		height: 20.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/shu.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			x: -4.0d
+			y: 4.0d
+			shape: "diamond"
+			subtitle: "寻找喜欢的生态群系  "
+			description: [
+				"主要事件任务栏主要给不知道做什么的一点建议  自由选择内容游玩"
+				"右击使用指南针 搜索海洋   根据指南针显示方向 即可找到海洋群系"
+			]
+			dependency_requirement: "one_completed"
+			size: 3.0d
+			id: "651E44EC330F3CE5"
+			tasks: [{
+				id: "5E4069292B25BAAE"
+				type: "item"
+				item: {
+					id: "naturescompass:naturescompass"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "4F0CA915E17FDFC2"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2
+			}]
+		}
+		{
+			x: 3.0d
+			y: 5.0d
+			subtitle: "寻找结构"
+			id: "273AD4ADDBC0B0C3"
+			tasks: [{
+				id: "7CE5E2463B4B0EF3"
+				type: "item"
+				item: {
+					id: "explorerscompass:explorerscompass"
+					Count: 1b
+					tag: { }
+				}
+			}]
+			rewards: [{
+				id: "447D4832E0308DC2"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "参观花海"
+			x: -2.5d
+			y: 3.0d
+			description: ["用自然指南针搜索薰衣草平原，绒葱球平原，玫瑰平原，开花树林，访问花海"]
+			dependencies: ["651E44EC330F3CE5"]
+			id: "254D0C45E568E5C2"
+			tasks: [
+				{
+					id: "5B0CE08E21435A2F"
+					type: "biome"
+					biome: "byg:rose_fields"
+				}
+				{
+					id: "675FB2EC5581358F"
+					type: "biome"
+					biome: "byg:allium_fields"
+				}
+				{
+					id: "13A6D5DB25049F56"
+					type: "biome"
+					biome: "byg:flowering_grove"
+				}
+				{
+					id: "4FA667C83209F7C6"
+					type: "biome"
+					biome: "biomesoplenty:lavender_field"
+				}
+			]
+			rewards: [{
+				id: "1B9F5AEF74C3274D"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "天空之城"
+			x: 2.5d
+			y: 3.0d
+			subtitle: "探访天空之城"
+			description: [
+				"用探险家指南针寻找castle_in_the_sky"
+				"如果未搜索到 请前往更远地方搜索"
+				"获取飞行石 也可指引方向"
+			]
+			dependencies: ["273AD4ADDBC0B0C3"]
+			id: "2CD2ECC418B98A2D"
+			tasks: [{
+				id: "01DF8A942C6DE7CA"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "00101B1A8711E542"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 2
+			}]
+		}
+		{
+			title: "探访末地群系"
+			x: -2.0d
+			y: -6.5d
+			description: ["前往维度 任务栏"]
+			id: "57076A6925BCADAE"
+			tasks: [{
+				id: "2F3C40ABD5A5D6A6"
+				type: "checkmark"
+				title: "探访各种维度"
+			}]
+			rewards: [{
+				id: "6188F9018BC1A2AA"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -9.0d
+			subtitle: "前往星辰大海任务栏"
+			id: "44651AEB999D840D"
+			tasks: [{
+				id: "0AD130DAE7A83279"
+				type: "checkmark"
+				title: "去宇宙"
+			}]
+			rewards: [{
+				id: "70A18AB70B767FED"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 2.0d
+			subtitle: "制作枪防身"
+			description: ["前往枪支 任务栏"]
+			id: "30B46EABBE9BAA7B"
+			tasks: [{
+				id: "5235F07F239818F5"
+				type: "checkmark"
+				title: "枪"
+			}]
+			rewards: [{
+				id: "4AD5BD8ACA6395CA"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 0.5d
+			y: 0.5d
+			subtitle: "前往女仆 任务栏"
+			id: "44F03E5175A6985A"
+			tasks: [{
+				id: "391216D03EB47DC8"
+				type: "checkmark"
+				title: "获取女仆"
+			}]
+			rewards: [{
+				id: "64CD93BC532D439A"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "建造现代别墅洋楼"
+			x: -4.5d
+			y: -1.5d
+			subtitle: "转至建筑装饰任务栏"
+			id: "0CAF31BDE5E3B754"
+			tasks: [{
+				id: "53B9B6750B442759"
+				type: "checkmark"
+				title: "建造别墅 发展电力设施"
+			}]
+			rewards: [{
+				id: "118A83E6DEB4AC84"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 1.0d
+			y: -4.5d
+			subtitle: "前往交通方式 任务栏"
+			id: "2B7FE75905002A4E"
+			tasks: [{
+				id: "4B10EC36B697963B"
+				type: "checkmark"
+				title: "建造公路网 开车出行"
+			}]
+		}
+		{
+			x: 0.5d
+			y: -1.5d
+			subtitle: "前往实用道具 任务栏"
+			id: "46D5C06BD63625C8"
+			tasks: [{
+				id: "77FB629132112450"
+				type: "checkmark"
+				title: "提取DNA技术 扩展资源获取"
+			}]
+			rewards: [{
+				id: "170652D6C22B8DAF"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3
+			}]
+		}
+		{
+			x: 2.0d
+			y: -0.5d
+			subtitle: "前往村庄婚姻生育任务栏"
+			id: "2D998ADB35F18A9F"
+			tasks: [{
+				id: "608301F9F4CA3544"
+				type: "checkmark"
+				title: "结个婚造个娃"
+			}]
+			rewards: [{
+				id: "2714061DB085B83F"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -2.0d
+			subtitle: "前往机械动力任务栏"
+			description: ["转至机械动力"]
+			id: "19F5AE66EEBCFF4A"
+			tasks: [{
+				id: "176C70D44DBD4B8D"
+				type: "checkmark"
+				title: "建造现代化自动农田"
+			}]
+			rewards: [{
+				id: "4C4EBE83DDA4DF76"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "集齐卡牌"
+			x: 6.5d
+			y: -3.0d
+			subtitle: "前往卡牌收集 任务栏"
+			description: ["获取巨额增益"]
+			id: "6091F72E13FE4F04"
+			tasks: [{
+				id: "79EADD183957DFB1"
+				type: "checkmark"
+				title: "收集齐卡牌"
+			}]
+			rewards: [{
+				id: "0F0D0DA9659C2D59"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "成为海王  探索深海"
+			x: -6.5d
+			y: -4.5d
+			subtitle: "前往休闲娱乐 任务"
+			description: [
+				"获取潜水套装 探索深海"
+				"转至休闲娱乐任务栏"
+				"钓鱼相关"
+			]
+			id: "088EA972C31A69CC"
+			tasks: [{
+				id: "4C3DE3A5E1338AB7"
+				type: "checkmark"
+				title: "成为钓鱼海王"
+			}]
+			rewards: [{
+				id: "6410708902B65B4C"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -4.0d
+			subtitle: "前往交通方式 任务栏"
+			id: "78E24084CD14B55D"
+			tasks: [{
+				id: "37379E37304E4CA0"
+				type: "checkmark"
+				title: "获取翅膀"
+			}]
+			rewards: [{
+				id: "1BB2F191DC9D4306"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 6.5d
+			y: -1.0d
+			subtitle: "前往休闲娱乐任务栏"
+			id: "129DB4F002FC4662"
+			tasks: [{
+				id: "4027B5AFB0025EF5"
+				type: "checkmark"
+				title: "制作相机拍摄风景 打印贴在家里"
+			}]
+			rewards: [{
+				id: "6A97141FB5C5B496"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -2.5d
+			y: 0.0d
+			subtitle: "前往休闲娱乐 任务栏"
+			description: [""]
+			id: "6CD2E3F0C4498D5F"
+			tasks: [{
+				id: "545E9AD1F0480E7E"
+				type: "checkmark"
+				title: "领养宠物猫"
+			}]
+			rewards: [{
+				id: "0D6AC55ABAC24E92"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 4.0d
+			y: -6.0d
+			subtitle: "前往维度冒险 任务栏"
+			id: "0067DA437123FC8F"
+			tasks: [{
+				id: "749208483437975B"
+				type: "checkmark"
+				title: "前往热带村度假"
+			}]
+			rewards: [{
+				id: "6ED73C5DABD6FA7A"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -2.0d
+			y: -2.0d
+			subtitle: "前往风力太阳能 任务栏"
+			description: ["{image:ftbquests:textures/item/fenglifadianji.png width:100 height:100 align:1}"]
+			id: "1B231B14EBF32876"
+			tasks: [{
+				id: "053E0264EBD14CE9"
+				type: "checkmark"
+				title: "建造风力发电机"
+			}]
+			rewards: [{
+				id: "7460C81AA8048C46"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -4.0d
+			id: "63504516567C98C9"
+			tasks: [{
+				id: "69B1BEDF3D0B2354"
+				type: "checkmark"
+				title: "探索下届巨型堡垒"
+			}]
+			rewards: [{
+				id: "403C6983C29BA8B4"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -4.0d
+			y: -7.0d
+			subtitle: "查看动物图鉴 虚空蠕虫词条"
+			dependencies: ["57076A6925BCADAE"]
+			id: "582C618E4F015662"
+			tasks: [{
+				id: "1F9698E36885B91D"
+				type: "checkmark"
+				title: "击败虚空boss"
+			}]
+			rewards: [{
+				id: "01E926D809071E98"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -2.5d
+			y: -3.5d
+			subtitle: "前往沉浸工程任务栏"
+			description: ["{image:ftbquests:textures/item/gaoyadianxian.png width:140 height:100 align:1}"]
+			id: "384966C933140B05"
+			tasks: [{
+				id: "4BD8B5C08603DD98"
+				type: "checkmark"
+				title: "制作电线杆拉电线"
+			}]
+			rewards: [{
+				id: "2A8B845C44D437CA"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 0.0d
+			y: -3.0d
+			subtitle: "前往维度 任务栏"
+			id: "6B2B234260652CA5"
+			tasks: [{
+				id: "234356BBDB3E2906"
+				type: "checkmark"
+				title: "深入梦境"
+			}]
+		}
+		{
+			title: "击杀野外Boss"
+			x: -1.0d
+			y: -8.5d
+			description: [""]
+			id: "0DD0E99569E88027"
+			tasks: [{
+				id: "625209521E17C66E"
+				type: "checkmark"
+				title: "击杀死神"
+			}]
+			rewards: [{
+				id: "23CA3425F294FEE9"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: 7.0d
+			y: -5.5d
+			id: "2C1B3A471F6F17B8"
+			tasks: [{
+				id: "75B980759A86A89B"
+				type: "checkmark"
+				title: "击杀虫族女王"
+			}]
+			rewards: [{
+				id: "7482E5D071BFE33C"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "建造铁路/地铁/机场 并开通航班"
+			x: 4.0d
+			y: -8.0d
+			id: "52F5E6F73755297F"
+			tasks: [{
+				id: "3078E5DBC5D9478D"
+				type: "checkmark"
+			}]
+		}
+		{
+			x: 2.0d
+			y: -6.0d
+			subtitle: "前往新生魔艺 任务栏"
+			id: "4C2D3CE43E0DE101"
+			tasks: [{
+				id: "0E2BC07E174BC2E4"
+				type: "checkmark"
+				title: "学习魔法"
+			}]
+			rewards: [{
+				id: "467A88984EC457E6"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

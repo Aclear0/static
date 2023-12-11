@@ -1,0 +1,7 @@
+{
+	id: "5414B4345C6C19E4"
+	order_index: 55
+	title: "火药"
+	loot_size: 1
+	rewards: [{ item: "minecraft:gunpowder", count: 64 }]
+}

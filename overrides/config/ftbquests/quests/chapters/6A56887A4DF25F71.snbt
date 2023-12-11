@@ -1,0 +1,529 @@
+{
+	id: "6A56887A4DF25F71"
+	group: ""
+	order_index: 7
+	filename: "6A56887A4DF25F71"
+	title: "出行方式/公路地铁/飞行"
+	icon: "vehicle:standard_wheel"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	quests: [
+		{
+			title: "自定义船（拓展）"
+			x: 3.5d
+			y: -4.0d
+			description: [
+				"搜索船 制作更大的船"
+				"搜索大炮  给你的船上点威力"
+				"小键盘5 4 6 分别控制船帆   扬帆启航"
+				"大炮和船内物品键位自行设置"
+			]
+			id: "7CA86B2B618E635F"
+			tasks: [{
+				id: "7374D596FEC0B977"
+				type: "item"
+				item: "smallships:oak_cog"
+			}]
+			rewards: [{
+				id: "69EF9B90D4F7AD25"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "制作现代车辆"
+			x: 4.0d
+			y: -7.0d
+			shape: "diamond"
+			subtitle: "建造装配站 制作车辆"
+			description: [
+				"制作装配站 开始合成车辆  自行搜索各种种类轮胎引擎"
+				"获取车辆板条箱  放置后用扳手右键板条箱顶"
+				"车辆需要燃油 给车辆加油"
+				"PS：载具在被攻击后 非满血判定下会有透明渲染BUG  打掉就可以解决"
+			]
+			size: 2.0d
+			id: "7F155F4FC8C46AA4"
+			tasks: [
+				{
+					id: "5414A1D42EED1EC0"
+					type: "item"
+					item: "vehicle:workstation"
+				}
+				{
+					id: "68A180421AAB1F43"
+					type: "item"
+					item: "vehicle:sports_wheel"
+				}
+				{
+					id: "4F3356EB0D05AF06"
+					type: "item"
+					item: "vehicle:iron_small_engine"
+				}
+				{
+					id: "154A0191E58F47FA"
+					type: "item"
+					item: "vehicle:wrench"
+				}
+				{
+					id: "66458F0F0B76C5B8"
+					type: "item"
+					item: {
+						id: "vehicle:vehicle_crate"
+						Count: 1b
+						tag: {
+							BlockEntityTag: {
+								Vehicle: "vehicle:mini_bike"
+								WheelType: 0
+								EngineTier: 0
+							}
+						}
+					}
+				}
+			]
+			rewards: [{
+				id: "06CA885974E11BB8"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "翅膀"
+			x: 3.5d
+			y: -2.5d
+			description: [
+				"小键盘2飞行"
+				"目前只能合成这4种翅膀  其他种类翅膀被禁用 有渲染BUG"
+				"即使合成 也会被移除"
+				"翅膀模型会被YSM玩家模型覆盖  ALT+Y 设置阻止玩家模型渲染"
+				"可正常显示翅膀"
+			]
+			id: "25A37502634E3E3B"
+			tasks: [
+				{
+					id: "0DED1AA744DDD49B"
+					type: "item"
+					item: "wings:monarch_butterfly_wings_bottle"
+				}
+				{
+					id: "3D9613335DA2C09F"
+					type: "item"
+					item: "wings:blue_butterfly_wings_bottle"
+				}
+				{
+					id: "5DEF48FBF385994D"
+					type: "item"
+					item: "wings:fairy_wings_bottle"
+				}
+				{
+					id: "0509C5DAEF3A6011"
+					type: "item"
+					item: "wings:slime_wings_bottle"
+				}
+			]
+			rewards: [{
+				id: "4CED4E968BF8372E"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 3
+			}]
+		}
+		{
+			x: 3.5d
+			y: -1.5d
+			subtitle: "多查看jei"
+			id: "7050361BB290982E"
+			tasks: [{
+				id: "7D5D9F23C3349252"
+				type: "checkmark"
+				title: "任务待更新"
+			}]
+		}
+		{
+			x: 3.5d
+			y: -5.0d
+			id: "1BFA2EBDB1673895"
+			tasks: [{
+				id: "0ECA0EC2035F9483"
+				type: "item"
+				item: {
+					id: "modernlife:bicycle_item"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "3411951C29201B4D"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "沥青铺路"
+			x: 8.0d
+			y: -4.5d
+			description: [
+				"搜索沥青  混凝土  以建造公路"
+				"搜索@mapp  查看道路建设建材"
+			]
+			id: "2B7C57DF55F93959"
+			tasks: [
+				{
+					id: "3EB208F93E116B01"
+					type: "item"
+					item: "mapperbase:bitumen_block"
+				}
+				{
+					id: "27CDE6EE24849F20"
+					type: "item"
+					item: "mapperbase:concrete"
+				}
+			]
+			rewards: [{
+				id: "0233E53A076AD6E6"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "给公路刷上交通线"
+			x: 9.0d
+			y: -4.5d
+			description: [
+				"将油漆桶放置地面 使用染料右击 注满油漆桶"
+				"油漆刷 右击桶  然后对沥青路面右击 选择图案后 左键点击路面 刷图案"
+				"对着图案继续左击  可以调整方向旋转角度"
+			]
+			id: "45F3C9A7FAE15C35"
+			tasks: [
+				{
+					id: "0E0A547799484445"
+					type: "item"
+					item: "roadstuff:paint_bucket"
+				}
+				{
+					id: "427CA89856D365DA"
+					type: "item"
+					item: "roadstuff:paint_brush"
+				}
+			]
+			rewards: [
+				{
+					id: "58380E570C948CD1"
+					type: "item"
+					item: "minecraft:white_dye"
+				}
+				{
+					id: "1F3E39A07891C891"
+					type: "item"
+					item: "minecraft:yellow_dye"
+				}
+			]
+		}
+		{
+			title: "给公路上护栏  放置交通锥"
+			x: 10.0d
+			y: -4.5d
+			description: ["搜索@road 查看装饰材料"]
+			id: "1E3AD3E60E6F2A4A"
+			tasks: [
+				{
+					id: "0D0701AA26D505D5"
+					type: "item"
+					item: "roadstuff:gray_guardrail"
+				}
+				{
+					id: "692E6E4FD00BFFAD"
+					type: "item"
+					item: "roadstuff:red_traffic_cone"
+				}
+			]
+			rewards: [{
+				id: "521A2F63AACE8E0D"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "给公路做绿化"
+			icon: "yuushya:sakura_tree"
+			x: 11.0d
+			y: -4.5d
+			description: ["前往金币商店   打开商店兑换"]
+			id: "3BD78FA9B543F62B"
+			tasks: [{
+				id: "226D57F63417B42D"
+				type: "item"
+				item: "yuushya:normal_tree"
+			}]
+			rewards: [{
+				id: "5C43CA762319FDEE"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "开机车上路 成为鬼火少年"
+			x: 12.0d
+			y: -4.5d
+			id: "1CA2067162F85E7B"
+			tasks: [{
+				id: "61874185A7D6FA04"
+				type: "item"
+				item: {
+					id: "vehicle:vehicle_crate"
+					Count: 1b
+					tag: {
+						BlockEntityTag: {
+							Vehicle: "vehicle:dirt_bike"
+							WheelType: 0
+							EngineTier: 0
+						}
+					}
+				}
+			}]
+			rewards: [{
+				id: "649D650102C61F2F"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "载具的修复与改造"
+			x: 7.0d
+			y: -6.5d
+			description: [
+				"CVM允许玩家在合成站合成完载具后对载具进行第二次改装，改装可以分为更改颜色和改装配件。若要更改颜色，首先需要合成一个喷漆罐，并把它染成想要更改后得到的颜色，然后对准载具，右击载具，即可完成颜色的更改。若要改装配件，首先需要合成一个千斤顶和一把扳手，接着lift（默认是Shift + 右键）载具，对准千斤顶右击，即可把欲改装载具放置在千斤顶上，再用扳手右击载具，进入GUI，即可更换载具的发动机和轮子。"
+				"                                                                                                                                                       只有在载具处于损坏状态且没有完全损坏时才能修复。若要改装配件，首先需要合成一个千斤顶和一把锤子，接着lift（默认是Shift + 右键）载具，对准千斤顶右击，即可把欲修复载具放置在千斤顶上，再用锤子右击载具，多点几次，即可修复载具。"
+			]
+			id: "1A0C84B40250F80D"
+			tasks: [
+				{
+					id: "5CE2FD068797E337"
+					type: "item"
+					item: {
+						id: "vehicle:hammer"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "31AE75A9384E2E39"
+					type: "item"
+					item: "vehicle:jack"
+				}
+			]
+		}
+		{
+			title: "制作地铁站台，铺设轨道（拓展内容）"
+			x: 8.0d
+			y: -2.0d
+			description: [
+				"地铁系统拓展内容 请添加拓展内容包 使用轨道节点 用单向轨道链接"
+				"铁路地铁稍微复杂 请参阅视频攻略"
+				"B站搜索MTR即可搜索教程"
+			]
+			id: "2021009FA5C6A975"
+			tasks: [
+				{
+					id: "0E145F62A215C169"
+					type: "item"
+					item: "mtr:rail"
+				}
+				{
+					id: "5D48BC7D37F47512"
+					type: "item"
+					item: {
+						id: "mtr:rail_connector_40_one_way"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "752F2EBF9E8DA89D"
+					type: "item"
+					item: {
+						id: "mtr:rail_connector_siding"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "77B36C03B88C1244"
+					type: "item"
+					item: {
+						id: "mtr:rail_connector_platform"
+						Count: 1b
+						tag: { }
+					}
+				}
+				{
+					id: "5B8374E8711D9FD2"
+					type: "item"
+					item: "mtr:platform"
+				}
+				{
+					id: "1F74784F92F0F79B"
+					type: "item"
+					item: "mtr:dashboard"
+				}
+			]
+			rewards: [{
+				id: "32D8032E8EE78AEE"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			x: 9.0d
+			y: -2.0d
+			description: [
+				"刷子右击显示屏"
+				"显示屏需放置于站台附近"
+			]
+			id: "6D49FCA253D2240C"
+			tasks: [
+				{
+					id: "1B2296EEF0046D8C"
+					type: "item"
+					item: "mtr:pids_1"
+				}
+				{
+					id: "4B5B1CD59AAB3C41"
+					type: "item"
+					item: "mtr:brush"
+				}
+				{
+					id: "5E5BF1830039D312"
+					type: "item"
+					item: "mtr:railway_sign_6_odd"
+				}
+			]
+		}
+		{
+			title: "铁路线网"
+			x: 10.0d
+			y: -2.0d
+			description: ["铁路地铁装饰可在商店获取部分材料"]
+			id: "0C47B392527FB3F0"
+			tasks: [
+				{
+					id: "74773C6405ADA3C6"
+					type: "item"
+					item: "msd:catenary_pole"
+				}
+				{
+					id: "696318026A45B1E0"
+					type: "item"
+					item: "msd:catenary_pole_top_side"
+				}
+				{
+					id: "047777250C445D97"
+					type: "item"
+					item: "msd:catenary_pole_top_middle"
+				}
+				{
+					id: "1A6749FEB6368D31"
+					type: "item"
+					item: "msd:short_catenary_rack"
+				}
+				{
+					id: "551F3FD679D77C0D"
+					type: "item"
+					item: "msd:short_catenary_node_style_2"
+				}
+				{
+					id: "1201778126715C92"
+					type: "item"
+					item: "msd:electric_node"
+				}
+				{
+					id: "0BF7E66B17BB0048"
+					type: "item"
+					item: {
+						id: "msd:electric_connector"
+						Count: 1b
+						tag: { }
+					}
+				}
+			]
+		}
+		{
+			title: "电梯"
+			x: 11.0d
+			y: -2.0d
+			id: "1AF4BA88EE93245D"
+			tasks: [
+				{
+					id: "27AFFF179C635129"
+					type: "item"
+					item: "mtr:lift_door_odd_1"
+				}
+				{
+					id: "7B563821863A5F7A"
+					type: "item"
+					item: "mtr:lift_panel_even_1"
+				}
+				{
+					id: "62217D73892B8BBF"
+					type: "item"
+					item: "mtr:lift_buttons_1"
+				}
+				{
+					id: "5F94E096C8D687BB"
+					type: "item"
+					item: "mtr:escalator"
+				}
+			]
+		}
+		{
+			title: "给摩托加油"
+			x: 5.5d
+			y: -6.5d
+			description: [
+				"加燃油教程可以查看b站UP  Deemo旋律教程"
+				"商店可购买部组件"
+			]
+			id: "38AEF2C107EA0DF3"
+			tasks: [
+				{
+					id: "684C62A416F7C4A0"
+					type: "item"
+					item: "vehicle:fluid_extractor"
+				}
+				{
+					id: "33D6DA50772D72DB"
+					type: "item"
+					item: "vehicle:fluid_mixer"
+				}
+				{
+					id: "68F836A02CF261C3"
+					type: "item"
+					item: "vehicle:jerry_can"
+				}
+				{
+					id: "21D2CBAC9D1D2B16"
+					type: "item"
+					item: "vehicle:gas_pump"
+				}
+				{
+					id: "3532A2394277678A"
+					type: "item"
+					item: "vehicle:fluid_pump"
+				}
+				{
+					id: "4DC515ED164F4282"
+					type: "item"
+					item: "vehicle:fluid_pipe"
+				}
+			]
+		}
+	]
+}

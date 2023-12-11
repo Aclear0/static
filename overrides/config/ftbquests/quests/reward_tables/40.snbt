@@ -1,0 +1,53 @@
+{
+	id: "4B8C85CC66709984"
+	order_index: 39
+	title: "40"
+	loot_size: 1
+	rewards: [
+		{ item: "minecraftmodernxl:cust_plank_1", count: 128 }
+		{ item: "minecraftmodernxl:cust_plank_2", count: 128 }
+		{ item: "minecraftmodernxl:cust_plank_3", count: 128 }
+		{ item: "minecraftmodernxl:cust_plank_4", count: 128 }
+		{ item: "minecraftmodernxl:cust_plank_slab_1", count: 128 }
+		{ item: "minecraftmodernxl:cust_plank_slab_2", count: 128 }
+		{ item: "minecraftmodernxl:cust_plank_slab_3", count: 128 }
+		{ item: "minecraftmodernxl:cust_plank_slab_4", count: 128 }
+		{ item: "minecraftmodernxl:cust_plank_5", count: 128 }
+		{ item: "minecraftmodernxl:cust_plank_slab_5", count: 128 }
+		{ item: "minecraftmodernxl:orange_cobble", count: 128 }
+		{ item: "minecraftmodernxl:waveb1", count: 128 }
+		{ item: "minecraftmodernxl:waveb2", count: 128 }
+		{ item: "minecraftmodernxl:waveb3", count: 128 }
+		{ item: "minecraftmodernxl:waveb4", count: 128 }
+		{ item: "minecraftmodernxl:waveb5", count: 128 }
+		{ item: "minecraftmodernxl:waveb6", count: 128 }
+		{ item: "minecraftmodernxl:waveb7", count: 128 }
+		{ item: "minecraftmodernxl:waveb8", count: 128 }
+		{ item: "minecraftmodernxl:waveb9", count: 128 }
+		{ item: "minecraftmodernxl:waveb10", count: 128 }
+		{ item: "minecraftmodernxl:waveb11", count: 128 }
+		{ item: "minecraftmodernxl:waveb12", count: 128 }
+		{ item: "minecraftmodernxl:waveb13", count: 128 }
+		{ item: "minecraftmodernxl:waveb15", count: 128 }
+		{ item: "minecraftmodernxl:wave_wall_paper_1", count: 128 }
+		{ item: "minecraftmodernxl:wave_wallpaper", count: 128 }
+		{ item: "minecraftmodernxl:wave_wallpaper_3", count: 128 }
+		{ item: "minecraftmodernxl:wave_wallpaper_4", count: 128 }
+		{ item: "minecraftmodernxl:wave_wallpaper_5", count: 128 }
+		{ item: "minecraftmodernxl:wave_wallpaper_6", count: 128 }
+		{ item: "minecraftmodernxl:wave_wallpaper_7", count: 128 }
+		{ item: "minecraftmodernxl:wave_wallpaper_8", count: 128 }
+		{ item: "minecraftmodernxl:wave_wallpaper_9", count: 128 }
+		{ item: "minecraftmodernxl:muretmince_grey", count: 128 }
+		{ item: "minecraftmodernxl:black_moderncobble", count: 128 }
+		{ item: "minecraftmodernxl:white_plank", count: 128 }
+		{ item: "minecraftmodernxl:white_plank_slab", count: 128 }
+		{ item: "minecraftmodernxl:white_plank_stairs", count: 128 }
+		{ item: "minecraftmodernxl:cust_stone_slab", count: 128 }
+		{ item: "minecraftmodernxl:cust_stone_1", count: 128 }
+		{ item: "minecraftmodernxl:cust_stone_slab_2", count: 128 }
+		{ item: "minecraftmodernxl:cust_stone_2", count: 128 }
+		{ item: "minecraftmodernxl:cust_stone_slab_3", count: 128 }
+		{ item: "minecraftmodernxl:cust_stone_3", count: 128 }
+	]
+}

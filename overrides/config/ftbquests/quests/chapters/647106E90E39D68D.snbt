@@ -1,0 +1,481 @@
+{
+	id: "647106E90E39D68D"
+	group: "34CCF47C94C2A563"
+	order_index: 0
+	filename: "647106E90E39D68D"
+	title: "日式/现代"
+	icon: "yuushya:ceiling_fan"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 13.0d
+		y: -10.0d
+		width: 12.0d
+		height: 12.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/rishijianzhu.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "蓝图-建筑的核心"
+			icon: "yuushya:stone_blueprint"
+			x: 18.0d
+			y: -8.0d
+			description: [
+				"制作蓝图"
+				"以转换对应装饰建材 "
+				"蓝图需要晶体 放入切石机内切割"
+			]
+			dependencies: ["03A65930789A0788"]
+			dependency_requirement: "one_completed"
+			id: "790E1FD5E3F4C93B"
+			tasks: [
+				{
+					id: "5BA52B5AAE2963CE"
+					type: "item"
+					item: "yuushya:block_blueprint"
+				}
+				{
+					id: "15E6DEB2BFF0E4C9"
+					type: "item"
+					item: "yuushya:wood_blueprint"
+				}
+				{
+					id: "7F24C21072736833"
+					type: "item"
+					item: "yuushya:stone_blueprint"
+				}
+				{
+					id: "032B12B9070FBA0D"
+					type: "item"
+					item: "yuushya:fabric_blueprint"
+				}
+				{
+					id: "1E198C939241FB81"
+					type: "item"
+					item: "yuushya:catering_blueprint"
+				}
+				{
+					id: "342BFD8F821E60C5"
+					type: "item"
+					item: "yuushya:living_being_blueprint"
+				}
+				{
+					id: "066E8974B5D2AA35"
+					type: "item"
+					item: "yuushya:store_blueprint"
+				}
+				{
+					id: "4FAA6DA43090BE34"
+					type: "item"
+					item: "yuushya:sign_blueprint"
+				}
+				{
+					id: "360773D666933D59"
+					type: "item"
+					item: "yuushya:furniture_blueprint"
+				}
+				{
+					id: "304FDACDFED77476"
+					type: "item"
+					item: "yuushya:lighting_blueprint"
+				}
+				{
+					id: "6E6C5D3CF398834F"
+					type: "item"
+					item: "yuushya:facility_blueprint"
+				}
+				{
+					id: "51280E6777D0E598"
+					type: "item"
+					item: "yuushya:traffic_blueprint"
+				}
+				{
+					id: "7142025475E967AB"
+					type: "item"
+					item: "yuushya:extra_shapes_blueprint"
+				}
+				{
+					id: "509AB09478F673EB"
+					type: "item"
+					item: "yuushya:window_blueprint"
+				}
+				{
+					id: "2637FC22383E019B"
+					type: "item"
+					item: "yuushya:bismuth_crystal"
+				}
+			]
+			rewards: [{
+				id: "328E74B327D58AE6"
+				type: "item"
+				item: "nomisma:coin_4"
+				count: 5
+			}]
+		}
+		{
+			title: "模板的运用"
+			icon: "yuushya:mounted_fern_pot"
+			x: 19.5d
+			y: -8.0d
+			description: [
+				"制作模板需要先制作油漆工 用切石机转换"
+				"请自行搜索更多模板 "
+				"右击模板可获取更多装饰物"
+			]
+			dependencies: ["790E1FD5E3F4C93B"]
+			id: "60EFCADA199025EA"
+			tasks: [
+				{
+					id: "6909FD76C9A36EFC"
+					type: "item"
+					item: "yuushya:mounted_fern_pot"
+				}
+				{
+					id: "4E6D086B309B7526"
+					type: "item"
+					item: "yuushya:bicycle"
+				}
+				{
+					id: "7E3F17E0E76C0939"
+					type: "item"
+					item: "yuushya:pictor"
+				}
+			]
+			rewards: [{
+				id: "5A3640D057C53EF2"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			icon: "yuushya:ceiling_fan"
+			x: 18.0d
+			y: -10.0d
+			shape: "diamond"
+			description: [
+				"Jei  搜索 @yu"
+				"搜索 @mode     可查看大部分建材"
+				"部分建材家具装饰在金币商店内获取 "
+			]
+			size: 2.0d
+			id: "03A65930789A0788"
+			tasks: [{
+				id: "5DA5ABC7FD146276"
+				type: "checkmark"
+				title: "现代装饰建筑"
+			}]
+			rewards: [
+				{
+					id: "09550042B89F602A"
+					type: "item"
+					item: "minecraft:stonecutter"
+				}
+				{
+					id: "6FD384DB3D759E08"
+					type: "item"
+					item: {
+						id: "patchouli:guide_book"
+						Count: 1b
+						tag: {
+							"patchouli:book": "yuushya:yuushya_guidebook"
+						}
+					}
+				}
+			]
+		}
+		{
+			x: 21.0d
+			y: -9.5d
+			id: "37E076B8C7815E34"
+			tasks: [{
+				id: "76D967D6051C559E"
+				type: "item"
+				item: {
+					id: "modernlife:road_marker"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+		}
+		{
+			x: 22.5d
+			y: -9.5d
+			id: "19F55512D1386239"
+			tasks: [{
+				id: "5557DF6BBE3743D1"
+				type: "item"
+				item: "modernlife:light_switch"
+			}]
+		}
+		{
+			x: 19.5d
+			y: -9.5d
+			id: "520F981099802C3A"
+			tasks: [{
+				id: "19C95F8496C0DBFF"
+				type: "item"
+				item: "yuushya:clock"
+			}]
+		}
+		{
+			x: 21.0d
+			y: -8.0d
+			id: "5D4707F3B1AADAE6"
+			tasks: [{
+				id: "36AFB98C353A61EC"
+				type: "item"
+				item: "yuushya:slippers"
+			}]
+		}
+		{
+			x: 22.5d
+			y: -8.0d
+			id: "6B93A2B63E6A5B4A"
+			tasks: [{
+				id: "425B70DC7FD476CD"
+				type: "item"
+				item: "yuushya:leaning_ladder"
+			}]
+		}
+		{
+			x: 18.0d
+			y: -6.5d
+			id: "55847A0932C74175"
+			tasks: [{
+				id: "678E1774035E941F"
+				type: "item"
+				item: "yuushya:bottle_container"
+			}]
+		}
+		{
+			x: 19.5d
+			y: -6.5d
+			id: "52FF20DDFC9880A8"
+			tasks: [{
+				id: "4F76C8612F7B4FD1"
+				type: "item"
+				item: "yuushya:hanzi_banner_4"
+			}]
+		}
+		{
+			x: 21.0d
+			y: -6.5d
+			id: "332089E177C4FFBF"
+			tasks: [{
+				id: "5C12D0CAD621E9E8"
+				type: "item"
+				item: "yuushya:sign_13"
+			}]
+		}
+		{
+			x: 22.5d
+			y: -6.5d
+			id: "768F3710890235C9"
+			tasks: [{
+				id: "10D72CC8AC5DCA2B"
+				type: "item"
+				item: "yuushya:fish_tank_a_bottom"
+			}]
+		}
+		{
+			x: 24.0d
+			y: -9.5d
+			id: "6392C1FDA2EEBBF8"
+			tasks: [{
+				id: "6217185BB78491A2"
+				type: "item"
+				item: "yuushya:butterfly_blue"
+			}]
+		}
+		{
+			x: 24.0d
+			y: -8.0d
+			id: "7B119A5EF4FC0C61"
+			tasks: [{
+				id: "6CB6DE98362B23B2"
+				type: "item"
+				item: "yuushya:basket"
+			}]
+		}
+		{
+			x: 24.0d
+			y: -6.5d
+			id: "7F2C1FA07038E7D5"
+			tasks: [{
+				id: "4C58E93707154424"
+				type: "item"
+				item: "yuushya:thick_fallen_leaves"
+			}]
+		}
+		{
+			title: "请添加现代装饰家具拓展包"
+			x: 25.5d
+			y: -9.5d
+			description: ["部分无法合成装饰 在金币商店获取"]
+			id: "4560FF70179B68E6"
+			tasks: [{
+				id: "6DDCD360DA626BF9"
+				type: "item"
+				item: "minecraftmodernxl:palmpot_1"
+			}]
+		}
+		{
+			x: 25.5d
+			y: -8.0d
+			id: "2267B2EEF97553BD"
+			tasks: [{
+				id: "3547CF5D8709B66F"
+				type: "item"
+				item: "minecraftmodernxl:towel_holder"
+			}]
+		}
+		{
+			x: 25.5d
+			y: -6.5d
+			id: "5D9F24B1D6845233"
+			tasks: [{
+				id: "0C7671C2A2DAC2E4"
+				type: "item"
+				item: "minecraftmodernxl:bamboo_screen"
+			}]
+		}
+		{
+			x: 27.0d
+			y: -9.5d
+			id: "7FFBD498A60FEDC7"
+			tasks: [{
+				id: "0F5EF6DDF91D2DB4"
+				type: "item"
+				item: "minecraftmodernxl:commun_plant_1"
+			}]
+		}
+		{
+			x: 27.0d
+			y: -8.0d
+			id: "48656E60DE3CB300"
+			tasks: [{
+				id: "03E7E91E560AD3A9"
+				type: "item"
+				item: "minecraftmodernxl:pc_gamer_1"
+			}]
+		}
+		{
+			x: 27.0d
+			y: -6.5d
+			id: "4566EF0B358ADA4C"
+			tasks: [{
+				id: "571BFB8673426565"
+				type: "item"
+				item: "minecraftmodernxl:modern_rainlight"
+			}]
+		}
+		{
+			x: 28.5d
+			y: -9.5d
+			id: "771FAB19D142905F"
+			tasks: [{
+				id: "55520C819608D3FC"
+				type: "item"
+				item: "minecraftmodernxl:modern_luster_2"
+			}]
+		}
+		{
+			x: 28.5d
+			y: -8.0d
+			id: "12499EDB7342024B"
+			tasks: [{
+				id: "36D7B6A4FEE0F06B"
+				type: "item"
+				item: "minecraftmodernxl:grandlamp_1"
+			}]
+		}
+		{
+			x: 28.5d
+			y: -6.5d
+			id: "2FFD7FF83B41C16A"
+			tasks: [{
+				id: "1913AEF8254A1A8B"
+				type: "item"
+				item: "minecraftmodernxl:haute_3"
+			}]
+		}
+		{
+			x: 30.0d
+			y: -9.5d
+			id: "498B6C0780D94165"
+			tasks: [{
+				id: "71D85F158FB814DB"
+				type: "item"
+				item: "minecraftmodernxl:fireblock_wood_3"
+			}]
+		}
+		{
+			x: 30.0d
+			y: -8.0d
+			id: "36FF2998958ABDF4"
+			tasks: [{
+				id: "20CDCB8912644820"
+				type: "item"
+				item: {
+					id: "multibeds:modern"
+					Count: 1b
+					tag: {
+						BlockEntityTag: {
+							texture_item: {
+								id: "minecraft:oak_planks"
+								Count: 1b
+							}
+						}
+					}
+				}
+			}]
+		}
+		{
+			x: 30.0d
+			y: -6.5d
+			id: "22AD6A65314C5990"
+			tasks: [{
+				id: "43B13E93F3FE9D81"
+				type: "item"
+				item: "minecraftmodernxl:ultra_modern_sofa_onp_white"
+			}]
+		}
+		{
+			x: 31.5d
+			y: -9.5d
+			id: "4070FD035020515B"
+			tasks: [{
+				id: "1F901AD9DB56CB02"
+				type: "item"
+				item: "minecraftmodernxl:coffe_table_3_lw"
+			}]
+		}
+		{
+			x: 31.5d
+			y: -8.0d
+			id: "4F4D8F6802046714"
+			tasks: [{
+				id: "69EED5B5BC3154EC"
+				type: "item"
+				item: "minecraftmodernxl:ext_chair_1"
+			}]
+		}
+		{
+			x: 31.5d
+			y: -6.5d
+			id: "0DE846B419DDF287"
+			tasks: [{
+				id: "5EDCE03EC560777C"
+				type: "item"
+				item: "minecraftmodernxl:full_shower_3"
+			}]
+		}
+	]
+}

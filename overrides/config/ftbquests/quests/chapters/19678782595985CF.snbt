@@ -1,0 +1,159 @@
+{
+	id: "19678782595985CF"
+	group: ""
+	order_index: 4
+	filename: "19678782595985CF"
+	title: "女仆"
+	icon: {
+		id: "touhou_little_maid:entity_placeholder"
+		Count: 1b
+		tag: {
+			RecipeId: "touhou_little_maid:altar/reborn_maid"
+		}
+	}
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: -9.0d
+		y: -2.5d
+		width: 20.0d
+		height: 20.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/chewan.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "女仆"
+			x: -9.5d
+			y: -2.0d
+			shape: "diamond"
+			description: [
+				"领取指导书"
+				"根据书中方式建造祭坛"
+				"点击书中可视化按钮 右击地面放置模板 对应位置摆放红色羊毛和橡木原木"
+				"用博丽的御币右击指定位置激活祭坛"
+			]
+			size: 2.0d
+			id: "778A98C6D7E969A3"
+			tasks: [{
+				id: "4113ACAE7EF3661C"
+				type: "item"
+				item: {
+					id: "touhou_little_maid:hakurei_gohei"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "087BF67658642DCD"
+				type: "item"
+				item: {
+					id: "patchouli:guide_book"
+					Count: 1b
+					tag: {
+						"patchouli:book": "touhou_little_maid:memorizable_gensokyo"
+					}
+				}
+			}]
+		}
+		{
+			title: "准备材料开始召唤"
+			x: -9.5d
+			y: -4.0d
+			description: [
+				"将6种物品放置于祭坛柱子上方 "
+				"P点通过击杀妖精女仆 战利品箱获取"
+			]
+			id: "312126C05BA05C9C"
+			tasks: [
+				{
+					id: "5C0607D208383419"
+					type: "item"
+					item: "minecraft:diamond"
+				}
+				{
+					id: "3B62A7D733513868"
+					type: "item"
+					item: "minecraft:iron_ingot"
+				}
+				{
+					id: "51592406161FE6AF"
+					type: "item"
+					item: "minecraft:coal"
+				}
+				{
+					id: "4CDDB245E7965C79"
+					type: "item"
+					item: "minecraft:redstone"
+				}
+				{
+					id: "217295C4CB6ED44B"
+					type: "item"
+					item: "minecraft:gold_ingot"
+				}
+				{
+					id: "75C3F41FE4D3205F"
+					type: "item"
+					item: "minecraft:lapis_lazuli"
+				}
+			]
+			rewards: [{
+				id: "7273C6F5AAFAF590"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			x: -9.5d
+			y: 0.0d
+			description: [
+				"制作相机 携带女仆"
+				"女仆对话框可更换女仆模型"
+			]
+			id: "63D74767DB56304D"
+			tasks: [{
+				id: "1833ABD89FF0FB16"
+				type: "item"
+				item: {
+					id: "touhou_little_maid:camera"
+					Count: 1b
+					tag: {
+						Damage: 0
+					}
+				}
+			}]
+			rewards: [{
+				id: "043766B0F743E0A5"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+		{
+			title: "调整自身模型"
+			x: -7.5d
+			y: -2.0d
+			description: [
+				"ALT+Y调整自身模型"
+				"B站搜索YSM 下载模型作者分享的模型 "
+				"小键盘3 可打开动作轮盘"
+				"模型选择界面有设置页面 可调为原版皮肤 显示原版装备盔甲"
+			]
+			id: "67674FD611EAE805"
+			tasks: [{
+				id: "13143679EC680CB7"
+				type: "checkmark"
+			}]
+			rewards: [{
+				id: "154CB7B9E88F737F"
+				type: "item"
+				item: "nomisma:coin_4"
+			}]
+		}
+	]
+}

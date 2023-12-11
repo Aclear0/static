@@ -1,0 +1,122 @@
+{
+	id: "13F45E05067C60AC"
+	group: ""
+	order_index: 0
+	filename: "13F45E05067C60AC"
+	title: "序章:逃离"
+	icon: "minecraft:ender_eye"
+	default_quest_shape: ""
+	default_hide_dependency_lines: false
+	images: [{
+		x: 50.5d
+		y: -1.0d
+		width: 8.0d
+		height: 10.0d
+		rotation: 0.0d
+		image: "ftbquests:textures/item/henanzhiyan.png"
+		hover: [ ]
+		click: ""
+		dev: false
+		corner: false
+	}]
+	quests: [
+		{
+			title: "逃离梦魇"
+			x: 51.0d
+			y: 0.0d
+			shape: "diamond"
+			subtitle: "我是谁？我在哪？"
+			description: [
+				"按I 快捷打开任务"
+				"查看后续任务 逃离这里"
+				"点击对勾按钮 领取奖励"
+			]
+			size: 2.0d
+			id: "0EFB6CCAF21711A2"
+			tasks: [{
+				id: "2AC5B2C260AF34E2"
+				type: "checkmark"
+				title: "点击此处"
+			}]
+			rewards: [
+				{
+					id: "20D77882ED215536"
+					type: "item"
+					auto: "disabled"
+					item: {
+						id: "tac:tti_g34"
+						Count: 1b
+						tag: {
+							AmmoCount: 23
+						}
+					}
+				}
+				{
+					id: "779ED358184D865E"
+					type: "item"
+					item: "minecraft:cooked_beef"
+					count: 10
+				}
+				{
+					id: "59ACA25B2927FDA2"
+					type: "item"
+					item: "tac:9mm_round"
+					count: 20
+				}
+			]
+		}
+		{
+			title: "也许有办法醒来"
+			x: 54.0d
+			y: 0.0d
+			subtitle: "使用末影袋储存物品"
+			description: [
+				"使用水晶球  前往主世界"
+				"随后教程转至基础教程任务栏 鼠标移到任务栏最左边查看详细列表"
+				"水晶球可以在商店购买或者制作"
+			]
+			dependency_requirement: "one_completed"
+			id: "5BDF0E728E43400C"
+			tasks: [{
+				id: "01E3256DE2E993F0"
+				type: "checkmark"
+				title: "点击这里"
+			}]
+			rewards: [
+				{
+					id: "660EFF714A0A9314"
+					type: "item"
+					item: "dimension_crystals:dimension_overworld"
+					count: 4
+				}
+				{
+					id: "5558B10E3FF9D412"
+					type: "item"
+					item: {
+						id: "minecraft:iron_pickaxe"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+				{
+					id: "185C0D3FB5CCC7B2"
+					type: "item"
+					item: "ender_bags:white_bag"
+				}
+				{
+					id: "18A29D6EE7EE7C33"
+					type: "item"
+					item: {
+						id: "useless_sword:bamboo_saber"
+						Count: 1b
+						tag: {
+							Damage: 0
+						}
+					}
+				}
+			]
+		}
+	]
+}
